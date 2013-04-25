@@ -10930,6 +10930,11 @@
     "npmPackage": "cakewalk"
   },
   {
+    "githubUser": "jiyinyiyong",
+    "githubRepo": "calabash",
+    "npmPackage": "calabash"
+  },
+  {
     "githubUser": "mcantelon",
     "githubRepo": "node-calais",
     "npmPackage": "calais"
@@ -14038,6 +14043,11 @@
     "githubUser": "erictj",
     "githubRepo": "node-clucene",
     "npmPackage": "clucene"
+  },
+  {
+    "githubUser": "ZJONSSON",
+    "githubRepo": "clues",
+    "npmPackage": "clues"
   },
   {
     "githubUser": "ZJONSSON",
@@ -23150,11 +23160,6 @@
     "npmPackage": "docpad"
   },
   {
-    "githubUser": "bevry",
-    "githubRepo": "docpad",
-    "npmPackage": "docpad-dev"
-  },
-  {
     "githubUser": "mikeumus",
     "githubRepo": "docpad-plugin-addthis",
     "npmPackage": "docpad-plugin-addthis"
@@ -28300,6 +28305,11 @@
     "npmPackage": "espy"
   },
   {
+    "githubUser": "ariya",
+    "githubRepo": "esrefactor",
+    "npmPackage": "esrefactor"
+  },
+  {
     "githubUser": "calvinmetcalf",
     "githubRepo": "esri2geo",
     "npmPackage": "esri2geo"
@@ -30928,6 +30938,16 @@
     "githubUser": "taterbase",
     "githubRepo": "fancy-timestamp",
     "npmPackage": "fancy-timestamp"
+  },
+  {
+    "githubUser": "minsh",
+    "githubRepo": "fancypants",
+    "npmPackage": "fancypants"
+  },
+  {
+    "githubUser": "minsh",
+    "githubRepo": "fancypants",
+    "npmPackage": "fancypants.user"
   },
   {
     "githubUser": "yanatan16",
@@ -35598,6 +35618,11 @@
     "githubUser": "lukasz-kaniowski",
     "githubRepo": "generator-cucumber",
     "npmPackage": "generator-cucumber"
+  },
+  {
+    "githubUser": "kevva",
+    "githubRepo": "generator-dotfiles",
+    "npmPackage": "generator-dotfiles"
   },
   {
     "githubUser": "yeoman",
@@ -50548,6 +50573,11 @@
     "githubUser": "attachmentsme",
     "githubRepo": "js-hack",
     "npmPackage": "js-hack"
+  },
+  {
+    "githubUser": "benekastah",
+    "githubRepo": "js-hashtable",
+    "npmPackage": "js-hashtable"
   },
   {
     "githubUser": "dankogai",
@@ -65570,6 +65600,11 @@
     "npmPackage": "netdna"
   },
   {
+    "githubUser": "ntotten",
+    "githubRepo": "netdoc",
+    "npmPackage": "netdoc"
+  },
+  {
     "githubUser": "Sghazzawi",
     "githubRepo": "Node-Netflowd",
     "npmPackage": "Netflow"
@@ -76380,6 +76415,11 @@
     "npmPackage": "pbkdf2-hasher"
   },
   {
+    "githubUser": "dpup",
+    "githubRepo": "pbnj",
+    "npmPackage": "pbnj"
+  },
+  {
     "githubUser": "dannycoates",
     "githubRepo": "pbuf",
     "npmPackage": "pbuf"
@@ -83140,6 +83180,11 @@
     "npmPackage": "rapido-raptorjs"
   },
   {
+    "githubUser": "patrick-steele-idem",
+    "githubRepo": "rapido-velociblog",
+    "npmPackage": "rapido-velociblog"
+  },
+  {
     "githubUser": "rappid",
     "githubRepo": "rAppid",
     "npmPackage": "rAppid.js"
@@ -89693,6 +89738,11 @@
     "githubUser": "alanreid",
     "githubRepo": "Sensitive",
     "npmPackage": "sensitive"
+  },
+  {
+    "githubUser": "sandeepmistry",
+    "githubRepo": "node-sensortag",
+    "npmPackage": "sensortag"
   },
   {
     "githubUser": "parmentf",
@@ -100300,6 +100350,11 @@
     "npmPackage": "test-mailbox"
   },
   {
+    "githubUser": "isaacbwagner",
+    "githubRepo": "node-test-more",
+    "npmPackage": "test-more"
+  },
+  {
     "githubUser": "mocha-ci",
     "githubRepo": "test-platforms",
     "npmPackage": "test-platforms"
@@ -106225,6 +106280,11 @@
     "npmPackage": "velise"
   },
   {
+    "githubUser": "patrick-steele-idem",
+    "githubRepo": "velociblog",
+    "npmPackage": "velociblog"
+  },
+  {
     "githubUser": "rook2pawn",
     "githubRepo": "node-velocity",
     "npmPackage": "velocity"
@@ -112048,50 +112108,5 @@
     "githubUser": "vflash",
     "githubRepo": "zzfeed",
     "npmPackage": "zzparser"
-  },
-  {
-    "githubUser": "patrick-steele-idem",
-    "githubRepo": "velociblog",
-    "npmPackage": "velociblog"
-  },
-  {
-    "githubUser": "patrick-steele-idem",
-    "githubRepo": "rapido-velociblog",
-    "npmPackage": "rapido-velociblog"
-  },
-  {
-    "githubUser": "sandeepmistry",
-    "githubRepo": "node-sensortag",
-    "npmPackage": "sensortag"
-  },
-  {
-    "githubUser": "ZJONSSON",
-    "githubRepo": "clues",
-    "npmPackage": "clues"
-  },
-  {
-    "githubUser": "dpup",
-    "githubRepo": "pbnj",
-    "npmPackage": "pbnj"
-  },
-  {
-    "githubUser": "kevva",
-    "githubRepo": "generator-dotfiles",
-    "npmPackage": "generator-dotfiles"
-  },
-  {
-    "githubUser": "isaacbwagner",
-    "githubRepo": "node-test-more",
-    "npmPackage": "test-more"
-  },
-  {
-    "githubUser": "benekastah",
-    "githubRepo": "js-hashtable",
-    "npmPackage": "js-hashtable"
-  },
-  {
-    "githubUser": "ariya",
-    "githubRepo": "esrefactor",
-    "npmPackage": "esrefactor"
   }
 ]
