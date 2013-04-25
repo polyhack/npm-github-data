@@ -39100,7 +39100,7 @@
     "npmPackage": "grunt-concat"
   },
   {
-    "githubUser": "k-nakamura",
+    "githubUser": "kozy4324",
     "githubRepo": "grunt-concat-sourcemap",
     "npmPackage": "grunt-concat-sourcemap"
   },
@@ -73225,6 +73225,11 @@
     "npmPackage": "once"
   },
   {
+    "githubUser": "azer",
+    "githubRepo": "onejs",
+    "npmPackage": "one"
+  },
+  {
     "githubUser": "Ferrari",
     "githubRepo": "one-command",
     "npmPackage": "one-command"
@@ -73973,6 +73978,11 @@
     "githubUser": "ian97531",
     "githubRepo": "origin",
     "npmPackage": "origin"
+  },
+  {
+    "githubUser": "dresende",
+    "githubRepo": "node-orm2",
+    "npmPackage": "orm"
   },
   {
     "githubUser": "dresende",
@@ -83118,6 +83128,11 @@
     "githubUser": "kapouer",
     "githubRepo": "rangy-browser",
     "npmPackage": "rangy-browser"
+  },
+  {
+    "githubUser": "artjock",
+    "githubRepo": "rank",
+    "npmPackage": "rank"
   },
   {
     "githubUser": "dpweb",
@@ -112108,5 +112123,135 @@
     "githubUser": "vflash",
     "githubRepo": "zzfeed",
     "npmPackage": "zzparser"
+  },
+  {
+    "githubUser": "badunk",
+    "githubRepo": "grunt-license",
+    "npmPackage": "grunt-license"
+  },
+  {
+    "githubUser": "dlmanning",
+    "githubRepo": "grunt-templatizer",
+    "npmPackage": "grunt-templatizer"
+  },
+  {
+    "githubUser": "tubaxenor",
+    "githubRepo": "ender-timePicker",
+    "npmPackage": "ender-timepicker"
+  },
+  {
+    "githubUser": "btford",
+    "githubRepo": "insertify",
+    "npmPackage": "insertify"
+  },
+  {
+    "githubUser": "rmanalan",
+    "githubRepo": "node-stashed",
+    "npmPackage": "stashed"
+  },
+  {
+    "githubUser": "ashnur",
+    "githubRepo": "mocha-run",
+    "npmPackage": "mocha-run"
+  },
+  {
+    "githubUser": "DamonOehlman",
+    "githubRepo": "feature",
+    "npmPackage": "feature"
+  },
+  {
+    "githubUser": "HuzuTech",
+    "githubRepo": "HAPI",
+    "npmPackage": "hapi.assetsupload"
+  },
+  {
+    "githubUser": "nharbour",
+    "githubRepo": "wiring-pi",
+    "npmPackage": "wiring-pi"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "bundle-metadata",
+    "npmPackage": "bundle-metadata"
+  },
+  {
+    "githubUser": "gildean",
+    "githubRepo": "ServerInfo",
+    "npmPackage": "serverinfo"
+  },
+  {
+    "githubUser": "jkroso",
+    "githubRepo": "writefile",
+    "npmPackage": "writefile"
+  },
+  {
+    "githubUser": "bevry",
+    "githubRepo": "caterpillar-human",
+    "npmPackage": "caterpillar-human"
+  },
+  {
+    "githubUser": "chelm",
+    "githubRepo": "RunningStats",
+    "npmPackage": "runningstats"
+  },
+  {
+    "githubUser": "lahabana",
+    "githubRepo": "stroem-kid",
+    "npmPackage": "stroem-kid"
+  },
+  {
+    "githubUser": "almende",
+    "githubRepo": "vis",
+    "npmPackage": "vis"
+  },
+  {
+    "githubUser": "bevry",
+    "githubRepo": "caterpillar-filter",
+    "npmPackage": "caterpillar-filter"
+  },
+  {
+    "githubUser": "smrchy",
+    "githubRepo": "redis-sessions",
+    "npmPackage": "redis-sessions"
+  },
+  {
+    "githubUser": "AndreyChizh",
+    "githubRepo": "node-basepath",
+    "npmPackage": "basepath"
+  },
+  {
+    "githubUser": "pd",
+    "githubRepo": "zscii",
+    "npmPackage": "zscii"
+  },
+  {
+    "githubUser": "ExxKA",
+    "githubRepo": "credit-card-generator",
+    "npmPackage": "creditcard-generator"
+  },
+  {
+    "githubUser": "jkroso",
+    "githubRepo": "untar",
+    "npmPackage": "untar"
+  },
+  {
+    "githubUser": "globaldev",
+    "githubRepo": "regulate",
+    "npmPackage": "regulate"
+  },
+  {
+    "githubUser": "kjvalencik",
+    "githubRepo": "vanilla-hash",
+    "npmPackage": "vanilla-hash"
+  },
+  {
+    "githubUser": "d1b1",
+    "githubRepo": "node-braque",
+    "npmPackage": "braque"
+  },
+  {
+    "githubUser": "yuanchuan",
+    "githubRepo": "redis-commands",
+    "npmPackage": "redis-commands"
   }
 ]
