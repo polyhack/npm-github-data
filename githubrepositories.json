@@ -43815,7 +43815,7 @@
     "npmPackage": "hipchat"
   },
   {
-    "githubUser": "germix",
+    "githubUser": "germanrcuriel",
     "githubRepo": "hipchat-client",
     "npmPackage": "hipchat-client"
   },
@@ -49635,7 +49635,7 @@
     "npmPackage": "jira-cli"
   },
   {
-    "githubUser": "germix",
+    "githubUser": "germanrcuriel",
     "githubRepo": "jira-cmd",
     "npmPackage": "jira-cmd"
   },
@@ -55513,6 +55513,11 @@
     "githubUser": "EugeneN",
     "githubRepo": "libmonad",
     "npmPackage": "libmonad"
+  },
+  {
+    "githubUser": "jaseemabid",
+    "githubRepo": "libnodegit",
+    "npmPackage": "libnodegit"
   },
   {
     "githubUser": "mytrile",
@@ -86310,6 +86315,11 @@
     "npmPackage": "rewire-webpack"
   },
   {
+    "githubUser": "jonathanong",
+    "githubRepo": "rework-move-media",
+    "npmPackage": "rework-move-media"
+  },
+  {
     "githubUser": "chrisdickinson",
     "githubRepo": "rewrite-js",
     "npmPackage": "rewrite-js"
@@ -104196,7 +104206,7 @@
   },
   {
     "githubUser": "ChrisAntaki",
-    "githubRepo": "types",
+    "githubRepo": "typesjs",
     "npmPackage": "typesjs"
   },
   {
@@ -108140,7 +108150,7 @@
     "npmPackage": "webfiller"
   },
   {
-    "githubUser": "e14n",
+    "githubUser": "evanp",
     "githubRepo": "webfinger",
     "npmPackage": "webfinger"
   },
@@ -113135,6 +113145,11 @@
     "npmPackage": "ieee-oui-lookup"
   },
   {
+    "githubUser": "eliellis",
+    "githubRepo": "node-esetres",
+    "npmPackage": "esetres"
+  },
+  {
     "githubUser": "allenarthurgay",
     "githubRepo": "phoneNumber",
     "npmPackage": "phonenumber"
@@ -113328,5 +113343,320 @@
     "githubUser": "jcoynel",
     "githubRepo": "app-store-reviews",
     "npmPackage": "app-store-reviews"
+  },
+  {
+    "githubUser": "fgascon",
+    "githubRepo": "cloud-computer",
+    "npmPackage": "cloud-computer"
+  },
+  {
+    "githubUser": "tgriesser",
+    "githubRepo": "fakequery",
+    "npmPackage": "fakequery"
+  },
+  {
+    "githubUser": "nearinfinity",
+    "githubRepo": "node-bplist-creator",
+    "npmPackage": "bplist-creator"
+  },
+  {
+    "githubUser": "jawerty",
+    "githubRepo": "npm-add",
+    "npmPackage": "npm-add"
+  },
+  {
+    "githubUser": "arnesten",
+    "githubRepo": "smartdb",
+    "npmPackage": "smartdb"
+  },
+  {
+    "githubUser": "mcrio",
+    "githubRepo": "coffee-dbc",
+    "npmPackage": "mcrio-coffee-dbc"
+  },
+  {
+    "githubUser": "colmsjo",
+    "githubRepo": "github-issues-export",
+    "npmPackage": "github-issues-export"
+  },
+  {
+    "githubUser": "ngryman",
+    "githubRepo": "grunt-contrib-gluejs",
+    "npmPackage": "grunt-contrib-gluejs"
+  },
+  {
+    "githubUser": "lleo",
+    "githubRepo": "node-block-file",
+    "npmPackage": "block-file"
+  },
+  {
+    "githubUser": "iambumblehead",
+    "githubRepo": "simpleconvert-xml",
+    "npmPackage": "simpleconvert-xml"
+  },
+  {
+    "githubUser": "explicitcall",
+    "githubRepo": "karma-safari-launcher",
+    "npmPackage": "karma-safari-launcher"
+  },
+  {
+    "githubUser": "killdream",
+    "githubRepo": "buddy",
+    "npmPackage": "test-buddy"
+  },
+  {
+    "githubUser": "pihvi",
+    "githubRepo": "dollar",
+    "npmPackage": "dollar"
+  },
+  {
+    "githubUser": "AndreasMadsen",
+    "githubRepo": "mariastream",
+    "npmPackage": "mariastream"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "hashport",
+    "npmPackage": "hashport"
+  },
+  {
+    "githubUser": "aynik",
+    "githubRepo": "zen",
+    "npmPackage": "node-zen"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "lu",
+    "npmPackage": "lu"
+  },
+  {
+    "githubUser": "jdiamond",
+    "githubRepo": "sources",
+    "npmPackage": "sources"
+  },
+  {
+    "githubUser": "rsdoiel",
+    "githubRepo": "markdown-weave",
+    "npmPackage": "mweave"
+  },
+  {
+    "githubUser": "meryn",
+    "githubRepo": "explorer",
+    "npmPackage": "explorer"
+  },
+  {
+    "githubUser": "blacksea",
+    "githubRepo": "tele",
+    "npmPackage": "tele"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "broquire",
+    "npmPackage": "broquire"
+  },
+  {
+    "githubUser": "hbouvier",
+    "githubRepo": "node-diagnostics",
+    "npmPackage": "node-diagnostics"
+  },
+  {
+    "githubUser": "hbouvier",
+    "githubRepo": "node-engine",
+    "npmPackage": "node-engine"
+  },
+  {
+    "githubUser": "KoryNunn",
+    "githubRepo": "doc",
+    "npmPackage": "doc-js"
+  },
+  {
+    "githubUser": "seanmcgary",
+    "githubRepo": "NodeOAuth2",
+    "npmPackage": "nodeoauth2"
+  },
+  {
+    "githubUser": "bermi",
+    "githubRepo": "element-xpath",
+    "npmPackage": "element-xpath"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "regular-stream",
+    "npmPackage": "regular-stream"
+  },
+  {
+    "githubUser": "azer",
+    "githubRepo": "web-assets",
+    "npmPackage": "web-assets"
+  },
+  {
+    "githubUser": "codemaster",
+    "githubRepo": "PSNNodeJS",
+    "npmPackage": "psn-node"
+  },
+  {
+    "githubUser": "pilwon",
+    "githubRepo": "ultimate-seed-generator",
+    "npmPackage": "generator-ultimate"
+  },
+  {
+    "githubUser": "korynunn",
+    "githubRepo": "interact",
+    "npmPackage": "interact-js"
+  },
+  {
+    "githubUser": "goodybag",
+    "githubRepo": "mongo-pg",
+    "npmPackage": "mongo-pg"
+  },
+  {
+    "githubUser": "KoryNunn",
+    "githubRepo": "gaffa-js",
+    "npmPackage": "gaffa"
+  },
+  {
+    "githubUser": "KoryNunn",
+    "githubRepo": "gedi",
+    "npmPackage": "gedi"
+  },
+  {
+    "githubUser": "MindscapeHQ",
+    "githubRepo": "raygun4node",
+    "npmPackage": "raygun"
+  },
+  {
+    "githubUser": "dkleehammer",
+    "githubRepo": "node-stopforumspam",
+    "npmPackage": "spamcheck"
+  },
+  {
+    "githubUser": "AWinterman",
+    "githubRepo": "gist",
+    "npmPackage": "gist-put"
+  },
+  {
+    "githubUser": "smebberson",
+    "githubRepo": "streamflow",
+    "npmPackage": "streamflow"
+  },
+  {
+    "githubUser": "iolo",
+    "githubRepo": "mongoose-q",
+    "npmPackage": "mongoose-q"
+  },
+  {
+    "githubUser": "DamonOehlman",
+    "githubRepo": "card",
+    "npmPackage": "decker"
+  },
+  {
+    "githubUser": "asmblah",
+    "githubRepo": "modis",
+    "npmPackage": "modis"
+  },
+  {
+    "githubUser": "asmblah",
+    "githubRepo": "autopia",
+    "npmPackage": "autopia"
+  },
+  {
+    "githubUser": "SocialBro",
+    "githubRepo": "node-nimble-api",
+    "npmPackage": "node-nimble-api"
+  },
+  {
+    "githubUser": "amdgigabyte",
+    "githubRepo": "grunt-iconv",
+    "npmPackage": "grunt-iconv"
+  },
+  {
+    "githubUser": "jkroso",
+    "githubRepo": "packin",
+    "npmPackage": "packin"
+  },
+  {
+    "githubUser": "Camme",
+    "githubRepo": "webhook-deployer",
+    "npmPackage": "webhook-deployer"
+  },
+  {
+    "githubUser": "zhangxiao",
+    "githubRepo": "lessr",
+    "npmPackage": "lessr"
+  },
+  {
+    "githubUser": "devgru",
+    "githubRepo": "node-tarantool-transport",
+    "npmPackage": "tarantool-transport"
+  },
+  {
+    "githubUser": "devgru",
+    "githubRepo": "node-tarantool-connector",
+    "npmPackage": "tarantool"
+  },
+  {
+    "githubUser": "novasism",
+    "githubRepo": "board",
+    "npmPackage": "board"
+  },
+  {
+    "githubUser": "matiasdoyle",
+    "githubRepo": "simple-validation",
+    "npmPackage": "simple-validation"
+  },
+  {
+    "githubUser": "jbrooksuk",
+    "githubRepo": "node-summary",
+    "npmPackage": "node-summary"
+  },
+  {
+    "githubUser": "omcaree",
+    "githubRepo": "node-hmc6343",
+    "npmPackage": "hmc6343"
+  },
+  {
+    "githubUser": "cmenscher",
+    "githubRepo": "node-netatmo",
+    "npmPackage": "node-netatmo"
+  },
+  {
+    "githubUser": "erinphillips",
+    "githubRepo": "tml-encoder",
+    "npmPackage": "tml-encoder"
+  },
+  {
+    "githubUser": "senseobservationsystems",
+    "githubRepo": "commonsense-nodejs-module",
+    "npmPackage": "commonsense"
+  },
+  {
+    "githubUser": "dtex",
+    "githubRepo": "spas",
+    "npmPackage": "spas"
+  },
+  {
+    "githubUser": "santoshrajan",
+    "githubRepo": "levelup-autotable",
+    "npmPackage": "level-autotable"
+  },
+  {
+    "githubUser": "omcaree",
+    "githubRepo": "node-serialgps",
+    "npmPackage": "serialgps"
+  },
+  {
+    "githubUser": "jorgebg",
+    "githubRepo": "concentric",
+    "npmPackage": "concentric"
+  },
+  {
+    "githubUser": "FGRibreau",
+    "githubRepo": "humanizer",
+    "npmPackage": "humanizer"
+  },
+  {
+    "githubUser": "omcaree",
+    "githubRepo": "node-bbservos",
+    "npmPackage": "bbservos"
   }
 ]
