@@ -27,7 +27,7 @@
     "followers": 123,
     "following": 14,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-05-02T13:46:52Z",
+    "updated_at": "2013-05-03T12:54:31Z",
     "public_gists": 23
   },
   {
@@ -58,7 +58,7 @@
     "followers": 84,
     "following": 136,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-05-02T13:02:51Z",
+    "updated_at": "2013-05-03T13:15:55Z",
     "public_gists": 18
   },
   {
@@ -89,7 +89,7 @@
     "followers": 34,
     "following": 29,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-05-02T11:35:30Z",
+    "updated_at": "2013-05-03T15:29:15Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 27,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-05-02T11:32:32Z",
+    "updated_at": "2013-05-03T05:31:47Z",
     "public_gists": 7
   },
   {
@@ -178,11 +178,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 47,
-    "followers": 108,
+    "public_repos": 48,
+    "followers": 109,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-05-02T15:26:12Z",
+    "updated_at": "2013-05-03T13:17:06Z",
     "public_gists": 1
   },
   {
@@ -213,7 +213,7 @@
     "followers": 19,
     "following": 61,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-05-01T22:02:52Z",
+    "updated_at": "2013-05-03T02:19:06Z",
     "public_gists": 6
   },
   {
@@ -244,7 +244,7 @@
     "followers": 173,
     "following": 29,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-05-02T13:01:08Z",
+    "updated_at": "2013-05-03T11:26:28Z",
     "public_gists": 53
   },
   {
@@ -275,7 +275,7 @@
     "followers": 68,
     "following": 40,
     "created_at": "2010-11-12T16:22:12Z",
-    "updated_at": "2013-05-02T15:02:22Z",
+    "updated_at": "2013-05-03T05:05:27Z",
     "public_gists": 106
   },
   {
@@ -306,7 +306,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-02T06:25:07Z",
+    "updated_at": "2013-05-03T06:27:53Z",
     "public_gists": 0
   },
   {
@@ -365,10 +365,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 32,
-    "followers": 196,
+    "followers": 198,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-05-02T14:48:51Z",
+    "updated_at": "2013-05-03T13:23:23Z",
     "public_gists": 22
   },
   {
@@ -430,7 +430,7 @@
     "followers": 4,
     "following": 1,
     "created_at": "2011-01-01T12:52:47Z",
-    "updated_at": "2013-05-02T10:01:55Z",
+    "updated_at": "2013-05-03T01:52:53Z",
     "public_gists": 6
   },
   {
@@ -461,7 +461,7 @@
     "followers": 11,
     "following": 74,
     "created_at": "2010-08-18T02:32:33Z",
-    "updated_at": "2013-05-02T07:03:54Z",
+    "updated_at": "2013-05-03T05:06:59Z",
     "public_gists": 6
   },
   {
@@ -523,7 +523,7 @@
     "followers": 344,
     "following": 98,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-05-02T09:10:34Z",
+    "updated_at": "2013-05-03T02:56:30Z",
     "public_gists": 89
   },
   {
@@ -554,7 +554,7 @@
     "followers": 26,
     "following": 3,
     "created_at": "2010-08-23T07:05:33Z",
-    "updated_at": "2013-05-02T12:56:39Z",
+    "updated_at": "2013-05-02T21:02:39Z",
     "public_gists": 3
   },
   {
@@ -585,7 +585,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-02T06:50:18Z",
+    "updated_at": "2013-05-03T12:54:47Z",
     "public_gists": 0
   },
   {
@@ -616,7 +616,7 @@
     "followers": 32,
     "following": 39,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-05-02T07:25:07Z",
+    "updated_at": "2013-05-03T05:48:52Z",
     "public_gists": 2
   },
   {
@@ -647,7 +647,7 @@
     "followers": 54,
     "following": 0,
     "created_at": "2010-10-10T08:05:27Z",
-    "updated_at": "2013-05-01T20:34:58Z",
+    "updated_at": "2013-05-03T05:31:48Z",
     "public_gists": 59
   },
   {
@@ -675,10 +675,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 43,
-    "followers": 134,
+    "followers": 135,
     "following": 6,
     "created_at": "2009-01-18T03:29:23Z",
-    "updated_at": "2013-05-02T15:22:34Z",
+    "updated_at": "2013-05-03T15:25:21Z",
     "public_gists": 28
   },
   {
@@ -709,7 +709,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2011-08-22T07:16:43Z",
-    "updated_at": "2013-05-02T03:41:26Z",
+    "updated_at": "2013-05-03T15:14:52Z",
     "public_gists": 0
   },
   {
@@ -740,7 +740,7 @@
     "followers": 29,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-05-01T02:10:04Z",
+    "updated_at": "2013-05-03T15:10:15Z",
     "public_gists": 4
   },
   {
@@ -771,7 +771,7 @@
     "followers": 79,
     "following": 31,
     "created_at": "2008-05-07T08:42:55Z",
-    "updated_at": "2013-05-01T15:21:05Z",
+    "updated_at": "2013-05-02T23:18:22Z",
     "public_gists": 24
   },
   {
@@ -860,11 +860,11 @@
     "email": "hello@blakeembrey.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 25,
+    "public_repos": 24,
     "followers": 24,
     "following": 36,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-05-01T18:25:15Z",
+    "updated_at": "2013-05-03T10:58:41Z",
     "public_gists": 6
   },
   {
@@ -922,11 +922,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 34,
+    "public_repos": 35,
     "followers": 6,
     "following": 11,
     "created_at": "2012-02-09T16:32:29Z",
-    "updated_at": "2013-05-02T12:01:54Z",
+    "updated_at": "2013-05-03T01:24:23Z",
     "public_gists": 0
   },
   {
@@ -1019,7 +1019,7 @@
     "followers": 129,
     "following": 157,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-05-02T14:01:13Z",
+    "updated_at": "2013-05-03T13:17:04Z",
     "public_gists": 69
   },
   {
@@ -1030,7 +1030,7 @@
     "url": "https://api.github.com/users/davidbanham",
     "html_url": "https://github.com/davidbanham",
     "followers_url": "https://api.github.com/users/davidbanham/followers",
-    "following_url": "https://api.github.com/users/davidbanham/following",
+    "following_url": "https://api.github.com/users/davidbanham/following{/other_user}",
     "gists_url": "https://api.github.com/users/davidbanham/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/davidbanham/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/davidbanham/subscriptions",
@@ -1050,7 +1050,7 @@
     "followers": 4,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-05-02T09:11:27Z",
+    "updated_at": "2013-05-03T12:00:47Z",
     "public_gists": 34
   },
   {
@@ -1061,7 +1061,7 @@
     "url": "https://api.github.com/users/nornagon",
     "html_url": "https://github.com/nornagon",
     "followers_url": "https://api.github.com/users/nornagon/followers",
-    "following_url": "https://api.github.com/users/nornagon/following",
+    "following_url": "https://api.github.com/users/nornagon/following{/other_user}",
     "gists_url": "https://api.github.com/users/nornagon/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/nornagon/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/nornagon/subscriptions",
@@ -1092,7 +1092,7 @@
     "url": "https://api.github.com/users/ajorkowski",
     "html_url": "https://github.com/ajorkowski",
     "followers_url": "https://api.github.com/users/ajorkowski/followers",
-    "following_url": "https://api.github.com/users/ajorkowski/following",
+    "following_url": "https://api.github.com/users/ajorkowski/following{/other_user}",
     "gists_url": "https://api.github.com/users/ajorkowski/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/ajorkowski/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/ajorkowski/subscriptions",
@@ -1112,7 +1112,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-05-02T14:00:45Z",
+    "updated_at": "2013-05-03T14:52:09Z",
     "public_gists": 0
   },
   {
@@ -1123,7 +1123,7 @@
     "url": "https://api.github.com/users/feisty",
     "html_url": "https://github.com/feisty",
     "followers_url": "https://api.github.com/users/feisty/followers",
-    "following_url": "https://api.github.com/users/feisty/following",
+    "following_url": "https://api.github.com/users/feisty/following{/other_user}",
     "gists_url": "https://api.github.com/users/feisty/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/feisty/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/feisty/subscriptions",
@@ -1154,7 +1154,7 @@
     "url": "https://api.github.com/users/jaitaiwan",
     "html_url": "https://github.com/jaitaiwan",
     "followers_url": "https://api.github.com/users/jaitaiwan/followers",
-    "following_url": "https://api.github.com/users/jaitaiwan/following",
+    "following_url": "https://api.github.com/users/jaitaiwan/following{/other_user}",
     "gists_url": "https://api.github.com/users/jaitaiwan/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/jaitaiwan/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jaitaiwan/subscriptions",
@@ -1174,7 +1174,7 @@
     "followers": 1,
     "following": 10,
     "created_at": "2011-03-17T09:24:44Z",
-    "updated_at": "2013-04-09T12:33:23Z",
+    "updated_at": "2013-05-02T23:47:57Z",
     "public_gists": 0
   },
   {
@@ -1185,7 +1185,7 @@
     "url": "https://api.github.com/users/MauriceButler",
     "html_url": "https://github.com/MauriceButler",
     "followers_url": "https://api.github.com/users/MauriceButler/followers",
-    "following_url": "https://api.github.com/users/MauriceButler/following",
+    "following_url": "https://api.github.com/users/MauriceButler/following{/other_user}",
     "gists_url": "https://api.github.com/users/MauriceButler/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/MauriceButler/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/MauriceButler/subscriptions",
@@ -1205,7 +1205,7 @@
     "followers": 3,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-05-02T08:33:46Z",
+    "updated_at": "2013-05-03T09:14:54Z",
     "public_gists": 0
   },
   {
@@ -1216,7 +1216,7 @@
     "url": "https://api.github.com/users/noblesamurai",
     "html_url": "https://github.com/noblesamurai",
     "followers_url": "https://api.github.com/users/noblesamurai/followers",
-    "following_url": "https://api.github.com/users/noblesamurai/following",
+    "following_url": "https://api.github.com/users/noblesamurai/following{/other_user}",
     "gists_url": "https://api.github.com/users/noblesamurai/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/noblesamurai/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/noblesamurai/subscriptions",
@@ -1236,7 +1236,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-03-19T01:17:40Z",
-    "updated_at": "2013-05-02T09:50:28Z",
+    "updated_at": "2013-05-03T06:06:49Z",
     "public_gists": 0
   },
   {
@@ -1247,7 +1247,7 @@
     "url": "https://api.github.com/users/wolfeidau",
     "html_url": "https://github.com/wolfeidau",
     "followers_url": "https://api.github.com/users/wolfeidau/followers",
-    "following_url": "https://api.github.com/users/wolfeidau/following",
+    "following_url": "https://api.github.com/users/wolfeidau/following{/other_user}",
     "gists_url": "https://api.github.com/users/wolfeidau/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/wolfeidau/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/wolfeidau/subscriptions",
@@ -1263,12 +1263,12 @@
     "email": "mark@wolfe.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 97,
+    "public_repos": 99,
     "followers": 10,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-05-01T20:44:22Z",
-    "public_gists": 60
+    "updated_at": "2013-05-03T14:37:28Z",
+    "public_gists": 61
   },
   {
     "login": "liammclennan",
@@ -1278,7 +1278,7 @@
     "url": "https://api.github.com/users/liammclennan",
     "html_url": "https://github.com/liammclennan",
     "followers_url": "https://api.github.com/users/liammclennan/followers",
-    "following_url": "https://api.github.com/users/liammclennan/following",
+    "following_url": "https://api.github.com/users/liammclennan/following{/other_user}",
     "gists_url": "https://api.github.com/users/liammclennan/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/liammclennan/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/liammclennan/subscriptions",
@@ -1309,7 +1309,7 @@
     "url": "https://api.github.com/users/sidorares",
     "html_url": "https://github.com/sidorares",
     "followers_url": "https://api.github.com/users/sidorares/followers",
-    "following_url": "https://api.github.com/users/sidorares/following",
+    "following_url": "https://api.github.com/users/sidorares/following{/other_user}",
     "gists_url": "https://api.github.com/users/sidorares/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/sidorares/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/sidorares/subscriptions",
@@ -1329,7 +1329,7 @@
     "followers": 58,
     "following": 82,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-05-02T00:34:43Z",
+    "updated_at": "2013-05-03T07:55:49Z",
     "public_gists": 22
   },
   {
@@ -1340,7 +1340,7 @@
     "url": "https://api.github.com/users/dekz",
     "html_url": "https://github.com/dekz",
     "followers_url": "https://api.github.com/users/dekz/followers",
-    "following_url": "https://api.github.com/users/dekz/following",
+    "following_url": "https://api.github.com/users/dekz/following{/other_user}",
     "gists_url": "https://api.github.com/users/dekz/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dekz/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dekz/subscriptions",
@@ -1356,11 +1356,11 @@
     "email": "jacob@dekz.net",
     "hireable": true,
     "bio": "",
-    "public_repos": 52,
+    "public_repos": 53,
     "followers": 18,
     "following": 29,
     "created_at": "2008-10-03T09:48:15Z",
-    "updated_at": "2013-05-02T04:47:42Z",
+    "updated_at": "2013-05-03T04:50:00Z",
     "public_gists": 31
   },
   {
@@ -1371,7 +1371,7 @@
     "url": "https://api.github.com/users/gcmurphy",
     "html_url": "https://github.com/gcmurphy",
     "followers_url": "https://api.github.com/users/gcmurphy/followers",
-    "following_url": "https://api.github.com/users/gcmurphy/following",
+    "following_url": "https://api.github.com/users/gcmurphy/following{/other_user}",
     "gists_url": "https://api.github.com/users/gcmurphy/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/gcmurphy/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/gcmurphy/subscriptions",
@@ -1391,7 +1391,7 @@
     "followers": 5,
     "following": 29,
     "created_at": "2010-03-15T07:12:16Z",
-    "updated_at": "2013-05-02T07:57:48Z",
+    "updated_at": "2013-05-03T06:18:31Z",
     "public_gists": 22
   },
   {
@@ -1402,7 +1402,7 @@
     "url": "https://api.github.com/users/jamesknelson",
     "html_url": "https://github.com/jamesknelson",
     "followers_url": "https://api.github.com/users/jamesknelson/followers",
-    "following_url": "https://api.github.com/users/jamesknelson/following",
+    "following_url": "https://api.github.com/users/jamesknelson/following{/other_user}",
     "gists_url": "https://api.github.com/users/jamesknelson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/jamesknelson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jamesknelson/subscriptions",
@@ -1422,7 +1422,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2009-12-04T03:39:47Z",
-    "updated_at": "2013-05-01T14:44:18Z",
+    "updated_at": "2013-05-03T14:54:58Z",
     "public_gists": 0
   },
   {
@@ -1433,7 +1433,7 @@
     "url": "https://api.github.com/users/dynmeth",
     "html_url": "https://github.com/dynmeth",
     "followers_url": "https://api.github.com/users/dynmeth/followers",
-    "following_url": "https://api.github.com/users/dynmeth/following",
+    "following_url": "https://api.github.com/users/dynmeth/following{/other_user}",
     "gists_url": "https://api.github.com/users/dynmeth/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dynmeth/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dynmeth/subscriptions",
@@ -1464,7 +1464,7 @@
     "url": "https://api.github.com/users/keeganstreet",
     "html_url": "https://github.com/keeganstreet",
     "followers_url": "https://api.github.com/users/keeganstreet/followers",
-    "following_url": "https://api.github.com/users/keeganstreet/following",
+    "following_url": "https://api.github.com/users/keeganstreet/following{/other_user}",
     "gists_url": "https://api.github.com/users/keeganstreet/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/keeganstreet/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/keeganstreet/subscriptions",
@@ -1495,7 +1495,7 @@
     "url": "https://api.github.com/users/nicholasf",
     "html_url": "https://github.com/nicholasf",
     "followers_url": "https://api.github.com/users/nicholasf/followers",
-    "following_url": "https://api.github.com/users/nicholasf/following",
+    "following_url": "https://api.github.com/users/nicholasf/following{/other_user}",
     "gists_url": "https://api.github.com/users/nicholasf/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/nicholasf/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/nicholasf/subscriptions",
@@ -1526,7 +1526,7 @@
     "url": "https://api.github.com/users/DmitryBaranovskiy",
     "html_url": "https://github.com/DmitryBaranovskiy",
     "followers_url": "https://api.github.com/users/DmitryBaranovskiy/followers",
-    "following_url": "https://api.github.com/users/DmitryBaranovskiy/following",
+    "following_url": "https://api.github.com/users/DmitryBaranovskiy/following{/other_user}",
     "gists_url": "https://api.github.com/users/DmitryBaranovskiy/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/DmitryBaranovskiy/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/DmitryBaranovskiy/subscriptions",
@@ -1546,7 +1546,7 @@
     "followers": 1108,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-05-02T15:29:25Z",
+    "updated_at": "2013-05-03T08:59:15Z",
     "public_gists": 4
   },
   {
@@ -1557,7 +1557,7 @@
     "url": "https://api.github.com/users/iloire",
     "html_url": "https://github.com/iloire",
     "followers_url": "https://api.github.com/users/iloire/followers",
-    "following_url": "https://api.github.com/users/iloire/following",
+    "following_url": "https://api.github.com/users/iloire/following{/other_user}",
     "gists_url": "https://api.github.com/users/iloire/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/iloire/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/iloire/subscriptions",
@@ -1577,7 +1577,7 @@
     "followers": 69,
     "following": 0,
     "created_at": "2010-06-29T19:45:34Z",
-    "updated_at": "2013-05-02T00:17:54Z",
+    "updated_at": "2013-05-03T04:34:48Z",
     "public_gists": 3
   },
   {
@@ -1588,7 +1588,7 @@
     "url": "https://api.github.com/users/moneytribeaustralia",
     "html_url": "https://github.com/moneytribeaustralia",
     "followers_url": "https://api.github.com/users/moneytribeaustralia/followers",
-    "following_url": "https://api.github.com/users/moneytribeaustralia/following",
+    "following_url": "https://api.github.com/users/moneytribeaustralia/following{/other_user}",
     "gists_url": "https://api.github.com/users/moneytribeaustralia/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/moneytribeaustralia/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/moneytribeaustralia/subscriptions",
@@ -1608,7 +1608,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-05-02T07:23:03Z",
+    "updated_at": "2013-05-03T05:25:23Z",
     "public_gists": 0
   },
   {
@@ -1619,7 +1619,7 @@
     "url": "https://api.github.com/users/Connectcomau",
     "html_url": "https://github.com/Connectcomau",
     "followers_url": "https://api.github.com/users/Connectcomau/followers",
-    "following_url": "https://api.github.com/users/Connectcomau/following",
+    "following_url": "https://api.github.com/users/Connectcomau/following{/other_user}",
     "gists_url": "https://api.github.com/users/Connectcomau/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Connectcomau/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Connectcomau/subscriptions",
@@ -1650,7 +1650,7 @@
     "url": "https://api.github.com/users/RobbieClarken",
     "html_url": "https://github.com/RobbieClarken",
     "followers_url": "https://api.github.com/users/RobbieClarken/followers",
-    "following_url": "https://api.github.com/users/RobbieClarken/following",
+    "following_url": "https://api.github.com/users/RobbieClarken/following{/other_user}",
     "gists_url": "https://api.github.com/users/RobbieClarken/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/RobbieClarken/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/RobbieClarken/subscriptions",
@@ -1681,7 +1681,7 @@
     "url": "https://api.github.com/users/chengxianga2008",
     "html_url": "https://github.com/chengxianga2008",
     "followers_url": "https://api.github.com/users/chengxianga2008/followers",
-    "following_url": "https://api.github.com/users/chengxianga2008/following",
+    "following_url": "https://api.github.com/users/chengxianga2008/following{/other_user}",
     "gists_url": "https://api.github.com/users/chengxianga2008/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/chengxianga2008/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/chengxianga2008/subscriptions",
@@ -1712,7 +1712,7 @@
     "url": "https://api.github.com/users/jpillora",
     "html_url": "https://github.com/jpillora",
     "followers_url": "https://api.github.com/users/jpillora/followers",
-    "following_url": "https://api.github.com/users/jpillora/following",
+    "following_url": "https://api.github.com/users/jpillora/following{/other_user}",
     "gists_url": "https://api.github.com/users/jpillora/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/jpillora/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jpillora/subscriptions",
@@ -1732,7 +1732,7 @@
     "followers": 3,
     "following": 15,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-05-02T09:45:19Z",
+    "updated_at": "2013-05-03T07:06:59Z",
     "public_gists": 10
   },
   {
@@ -1743,7 +1743,7 @@
     "url": "https://api.github.com/users/bscarvell",
     "html_url": "https://github.com/bscarvell",
     "followers_url": "https://api.github.com/users/bscarvell/followers",
-    "following_url": "https://api.github.com/users/bscarvell/following",
+    "following_url": "https://api.github.com/users/bscarvell/following{/other_user}",
     "gists_url": "https://api.github.com/users/bscarvell/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/bscarvell/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/bscarvell/subscriptions",
@@ -1763,7 +1763,7 @@
     "followers": 28,
     "following": 31,
     "created_at": "2011-12-16T22:21:46Z",
-    "updated_at": "2013-05-01T10:00:18Z",
+    "updated_at": "2013-05-02T18:48:05Z",
     "public_gists": 12
   },
   {
@@ -1774,7 +1774,7 @@
     "url": "https://api.github.com/users/sidelab",
     "html_url": "https://github.com/sidelab",
     "followers_url": "https://api.github.com/users/sidelab/followers",
-    "following_url": "https://api.github.com/users/sidelab/following",
+    "following_url": "https://api.github.com/users/sidelab/following{/other_user}",
     "gists_url": "https://api.github.com/users/sidelab/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/sidelab/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/sidelab/subscriptions",
@@ -1794,7 +1794,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-05-02T06:50:09Z",
+    "updated_at": "2013-05-03T14:48:04Z",
     "public_gists": 1
   },
   {
@@ -1805,7 +1805,7 @@
     "url": "https://api.github.com/users/topcloud",
     "html_url": "https://github.com/topcloud",
     "followers_url": "https://api.github.com/users/topcloud/followers",
-    "following_url": "https://api.github.com/users/topcloud/following",
+    "following_url": "https://api.github.com/users/topcloud/following{/other_user}",
     "gists_url": "https://api.github.com/users/topcloud/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/topcloud/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/topcloud/subscriptions",
@@ -1836,7 +1836,7 @@
     "url": "https://api.github.com/users/nomiddlename",
     "html_url": "https://github.com/nomiddlename",
     "followers_url": "https://api.github.com/users/nomiddlename/followers",
-    "following_url": "https://api.github.com/users/nomiddlename/following",
+    "following_url": "https://api.github.com/users/nomiddlename/following{/other_user}",
     "gists_url": "https://api.github.com/users/nomiddlename/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/nomiddlename/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/nomiddlename/subscriptions",
@@ -1856,7 +1856,7 @@
     "followers": 18,
     "following": 4,
     "created_at": "2009-05-13T01:05:40Z",
-    "updated_at": "2013-05-02T09:47:19Z",
+    "updated_at": "2013-05-03T09:26:55Z",
     "public_gists": 1
   },
   {
@@ -1867,7 +1867,7 @@
     "url": "https://api.github.com/users/flying-sphinx",
     "html_url": "https://github.com/flying-sphinx",
     "followers_url": "https://api.github.com/users/flying-sphinx/followers",
-    "following_url": "https://api.github.com/users/flying-sphinx/following",
+    "following_url": "https://api.github.com/users/flying-sphinx/following{/other_user}",
     "gists_url": "https://api.github.com/users/flying-sphinx/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/flying-sphinx/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/flying-sphinx/subscriptions",
@@ -1887,7 +1887,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-10-20T00:39:29Z",
-    "updated_at": "2013-04-28T17:53:30Z",
+    "updated_at": "2013-05-02T20:00:00Z",
     "public_gists": 0
   },
   {
@@ -1898,7 +1898,7 @@
     "url": "https://api.github.com/users/mattstone",
     "html_url": "https://github.com/mattstone",
     "followers_url": "https://api.github.com/users/mattstone/followers",
-    "following_url": "https://api.github.com/users/mattstone/following",
+    "following_url": "https://api.github.com/users/mattstone/following{/other_user}",
     "gists_url": "https://api.github.com/users/mattstone/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/mattstone/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/mattstone/subscriptions",
@@ -1918,7 +1918,7 @@
     "followers": 2,
     "following": 0,
     "created_at": "2008-08-15T14:03:09Z",
-    "updated_at": "2013-05-02T07:37:56Z",
+    "updated_at": "2013-05-03T08:13:32Z",
     "public_gists": 2
   },
   {
@@ -1929,7 +1929,7 @@
     "url": "https://api.github.com/users/lemoncreative",
     "html_url": "https://github.com/lemoncreative",
     "followers_url": "https://api.github.com/users/lemoncreative/followers",
-    "following_url": "https://api.github.com/users/lemoncreative/following",
+    "following_url": "https://api.github.com/users/lemoncreative/following{/other_user}",
     "gists_url": "https://api.github.com/users/lemoncreative/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/lemoncreative/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/lemoncreative/subscriptions",
@@ -1960,7 +1960,7 @@
     "url": "https://api.github.com/users/Metacrash",
     "html_url": "https://github.com/Metacrash",
     "followers_url": "https://api.github.com/users/Metacrash/followers",
-    "following_url": "https://api.github.com/users/Metacrash/following",
+    "following_url": "https://api.github.com/users/Metacrash/following{/other_user}",
     "gists_url": "https://api.github.com/users/Metacrash/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Metacrash/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Metacrash/subscriptions",
@@ -1991,7 +1991,7 @@
     "url": "https://api.github.com/users/smebberson",
     "html_url": "https://github.com/smebberson",
     "followers_url": "https://api.github.com/users/smebberson/followers",
-    "following_url": "https://api.github.com/users/smebberson/following",
+    "following_url": "https://api.github.com/users/smebberson/following{/other_user}",
     "gists_url": "https://api.github.com/users/smebberson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/smebberson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/smebberson/subscriptions",
@@ -2022,7 +2022,7 @@
     "url": "https://api.github.com/users/wezm",
     "html_url": "https://github.com/wezm",
     "followers_url": "https://api.github.com/users/wezm/followers",
-    "following_url": "https://api.github.com/users/wezm/following",
+    "following_url": "https://api.github.com/users/wezm/following{/other_user}",
     "gists_url": "https://api.github.com/users/wezm/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/wezm/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/wezm/subscriptions",
@@ -2042,7 +2042,7 @@
     "followers": 14,
     "following": 17,
     "created_at": "2008-08-25T00:27:56Z",
-    "updated_at": "2013-05-02T11:38:32Z",
+    "updated_at": "2013-05-03T05:25:11Z",
     "public_gists": 37
   },
   {
@@ -2053,7 +2053,7 @@
     "url": "https://api.github.com/users/sydneystockholm",
     "html_url": "https://github.com/sydneystockholm",
     "followers_url": "https://api.github.com/users/sydneystockholm/followers",
-    "following_url": "https://api.github.com/users/sydneystockholm/following",
+    "following_url": "https://api.github.com/users/sydneystockholm/following{/other_user}",
     "gists_url": "https://api.github.com/users/sydneystockholm/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/sydneystockholm/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/sydneystockholm/subscriptions",
@@ -2073,7 +2073,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-02T06:50:18Z",
+    "updated_at": "2013-05-03T12:54:47Z",
     "public_gists": 0
   },
   {
@@ -2084,7 +2084,7 @@
     "url": "https://api.github.com/users/runk",
     "html_url": "https://github.com/runk",
     "followers_url": "https://api.github.com/users/runk/followers",
-    "following_url": "https://api.github.com/users/runk/following",
+    "following_url": "https://api.github.com/users/runk/following{/other_user}",
     "gists_url": "https://api.github.com/users/runk/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/runk/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/runk/subscriptions",
@@ -2104,7 +2104,7 @@
     "followers": 1,
     "following": 5,
     "created_at": "2011-07-08T20:28:32Z",
-    "updated_at": "2013-05-02T12:48:02Z",
+    "updated_at": "2013-05-03T09:57:04Z",
     "public_gists": 1
   },
   {
@@ -2115,7 +2115,7 @@
     "url": "https://api.github.com/users/apiengine",
     "html_url": "https://github.com/apiengine",
     "followers_url": "https://api.github.com/users/apiengine/followers",
-    "following_url": "https://api.github.com/users/apiengine/following",
+    "following_url": "https://api.github.com/users/apiengine/following{/other_user}",
     "gists_url": "https://api.github.com/users/apiengine/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/apiengine/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/apiengine/subscriptions",
@@ -2146,7 +2146,7 @@
     "url": "https://api.github.com/users/alphashack",
     "html_url": "https://github.com/alphashack",
     "followers_url": "https://api.github.com/users/alphashack/followers",
-    "following_url": "https://api.github.com/users/alphashack/following",
+    "following_url": "https://api.github.com/users/alphashack/following{/other_user}",
     "gists_url": "https://api.github.com/users/alphashack/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/alphashack/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/alphashack/subscriptions",
@@ -2162,11 +2162,11 @@
     "email": null,
     "hireable": null,
     "bio": null,
-    "public_repos": 33,
+    "public_repos": 34,
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-05-01T23:00:35Z",
+    "updated_at": "2013-05-03T03:26:23Z",
     "public_gists": 0
   },
   {
@@ -2177,7 +2177,7 @@
     "url": "https://api.github.com/users/yehezkielbs",
     "html_url": "https://github.com/yehezkielbs",
     "followers_url": "https://api.github.com/users/yehezkielbs/followers",
-    "following_url": "https://api.github.com/users/yehezkielbs/following",
+    "following_url": "https://api.github.com/users/yehezkielbs/following{/other_user}",
     "gists_url": "https://api.github.com/users/yehezkielbs/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/yehezkielbs/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/yehezkielbs/subscriptions",
@@ -2208,7 +2208,7 @@
     "url": "https://api.github.com/users/smilledge",
     "html_url": "https://github.com/smilledge",
     "followers_url": "https://api.github.com/users/smilledge/followers",
-    "following_url": "https://api.github.com/users/smilledge/following",
+    "following_url": "https://api.github.com/users/smilledge/following{/other_user}",
     "gists_url": "https://api.github.com/users/smilledge/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/smilledge/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/smilledge/subscriptions",
@@ -2228,7 +2228,7 @@
     "followers": 0,
     "following": 4,
     "created_at": "2012-03-14T12:20:25Z",
-    "updated_at": "2013-05-02T03:13:31Z",
+    "updated_at": "2013-05-03T07:27:48Z",
     "public_gists": 0
   },
   {
@@ -2239,7 +2239,7 @@
     "url": "https://api.github.com/users/entrendipity",
     "html_url": "https://github.com/entrendipity",
     "followers_url": "https://api.github.com/users/entrendipity/followers",
-    "following_url": "https://api.github.com/users/entrendipity/following",
+    "following_url": "https://api.github.com/users/entrendipity/following{/other_user}",
     "gists_url": "https://api.github.com/users/entrendipity/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/entrendipity/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/entrendipity/subscriptions",
@@ -2255,11 +2255,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 4,
+    "public_repos": 5,
     "followers": 7,
     "following": 4,
     "created_at": "2011-04-04T08:54:40Z",
-    "updated_at": "2013-05-02T05:43:17Z",
+    "updated_at": "2013-05-03T15:37:31Z",
     "public_gists": 0
   },
   {
@@ -2270,7 +2270,7 @@
     "url": "https://api.github.com/users/indieisaconcept",
     "html_url": "https://github.com/indieisaconcept",
     "followers_url": "https://api.github.com/users/indieisaconcept/followers",
-    "following_url": "https://api.github.com/users/indieisaconcept/following",
+    "following_url": "https://api.github.com/users/indieisaconcept/following{/other_user}",
     "gists_url": "https://api.github.com/users/indieisaconcept/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/indieisaconcept/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/indieisaconcept/subscriptions",
@@ -2301,7 +2301,7 @@
     "url": "https://api.github.com/users/yargalot",
     "html_url": "https://github.com/yargalot",
     "followers_url": "https://api.github.com/users/yargalot/followers",
-    "following_url": "https://api.github.com/users/yargalot/following",
+    "following_url": "https://api.github.com/users/yargalot/following{/other_user}",
     "gists_url": "https://api.github.com/users/yargalot/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/yargalot/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/yargalot/subscriptions",
@@ -2332,7 +2332,7 @@
     "url": "https://api.github.com/users/dancingplatypus",
     "html_url": "https://github.com/dancingplatypus",
     "followers_url": "https://api.github.com/users/dancingplatypus/followers",
-    "following_url": "https://api.github.com/users/dancingplatypus/following",
+    "following_url": "https://api.github.com/users/dancingplatypus/following{/other_user}",
     "gists_url": "https://api.github.com/users/dancingplatypus/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dancingplatypus/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dancingplatypus/subscriptions",
@@ -2352,7 +2352,7 @@
     "followers": 1,
     "following": 1,
     "created_at": "2011-04-18T21:39:24Z",
-    "updated_at": "2013-05-02T15:25:09Z",
+    "updated_at": "2013-05-03T15:21:58Z",
     "public_gists": 1
   },
   {
@@ -2363,7 +2363,7 @@
     "url": "https://api.github.com/users/benjaminpearson",
     "html_url": "https://github.com/benjaminpearson",
     "followers_url": "https://api.github.com/users/benjaminpearson/followers",
-    "following_url": "https://api.github.com/users/benjaminpearson/following",
+    "following_url": "https://api.github.com/users/benjaminpearson/following{/other_user}",
     "gists_url": "https://api.github.com/users/benjaminpearson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/benjaminpearson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/benjaminpearson/subscriptions",
@@ -2394,7 +2394,7 @@
     "url": "https://api.github.com/users/mnot",
     "html_url": "https://github.com/mnot",
     "followers_url": "https://api.github.com/users/mnot/followers",
-    "following_url": "https://api.github.com/users/mnot/following",
+    "following_url": "https://api.github.com/users/mnot/following{/other_user}",
     "gists_url": "https://api.github.com/users/mnot/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/mnot/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/mnot/subscriptions",
@@ -2411,10 +2411,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 30,
-    "followers": 316,
+    "followers": 317,
     "following": 43,
     "created_at": "2009-04-16T09:40:21Z",
-    "updated_at": "2013-05-02T15:02:18Z",
+    "updated_at": "2013-05-03T15:06:11Z",
     "public_gists": 30
   },
   {
@@ -2425,7 +2425,7 @@
     "url": "https://api.github.com/users/jsdavo",
     "html_url": "https://github.com/jsdavo",
     "followers_url": "https://api.github.com/users/jsdavo/followers",
-    "following_url": "https://api.github.com/users/jsdavo/following",
+    "following_url": "https://api.github.com/users/jsdavo/following{/other_user}",
     "gists_url": "https://api.github.com/users/jsdavo/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/jsdavo/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jsdavo/subscriptions",
@@ -2445,7 +2445,7 @@
     "followers": 0,
     "following": 15,
     "created_at": "2012-01-13T04:50:42Z",
-    "updated_at": "2013-04-26T02:39:10Z",
+    "updated_at": "2013-05-03T07:30:52Z",
     "public_gists": 5
   },
   {
@@ -2456,7 +2456,7 @@
     "url": "https://api.github.com/users/Papercloud",
     "html_url": "https://github.com/Papercloud",
     "followers_url": "https://api.github.com/users/Papercloud/followers",
-    "following_url": "https://api.github.com/users/Papercloud/following",
+    "following_url": "https://api.github.com/users/Papercloud/following{/other_user}",
     "gists_url": "https://api.github.com/users/Papercloud/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Papercloud/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Papercloud/subscriptions",
@@ -2476,7 +2476,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-05-02T14:58:01Z",
+    "updated_at": "2013-05-03T08:05:44Z",
     "public_gists": 0
   },
   {
@@ -2487,7 +2487,7 @@
     "url": "https://api.github.com/users/chromecide",
     "html_url": "https://github.com/chromecide",
     "followers_url": "https://api.github.com/users/chromecide/followers",
-    "following_url": "https://api.github.com/users/chromecide/following",
+    "following_url": "https://api.github.com/users/chromecide/following{/other_user}",
     "gists_url": "https://api.github.com/users/chromecide/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/chromecide/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/chromecide/subscriptions",
@@ -2507,7 +2507,7 @@
     "followers": 2,
     "following": 5,
     "created_at": "2009-05-14T00:09:30Z",
-    "updated_at": "2013-05-02T06:39:08Z",
+    "updated_at": "2013-05-03T06:35:20Z",
     "public_gists": 0
   },
   {
@@ -2518,7 +2518,7 @@
     "url": "https://api.github.com/users/sugendran",
     "html_url": "https://github.com/sugendran",
     "followers_url": "https://api.github.com/users/sugendran/followers",
-    "following_url": "https://api.github.com/users/sugendran/following",
+    "following_url": "https://api.github.com/users/sugendran/following{/other_user}",
     "gists_url": "https://api.github.com/users/sugendran/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/sugendran/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/sugendran/subscriptions",
@@ -2549,7 +2549,7 @@
     "url": "https://api.github.com/users/thatguydan",
     "html_url": "https://github.com/thatguydan",
     "followers_url": "https://api.github.com/users/thatguydan/followers",
-    "following_url": "https://api.github.com/users/thatguydan/following",
+    "following_url": "https://api.github.com/users/thatguydan/following{/other_user}",
     "gists_url": "https://api.github.com/users/thatguydan/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/thatguydan/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/thatguydan/subscriptions",
@@ -2569,7 +2569,7 @@
     "followers": 19,
     "following": 1,
     "created_at": "2011-04-07T01:16:01Z",
-    "updated_at": "2013-05-02T06:04:24Z",
+    "updated_at": "2013-05-03T05:27:34Z",
     "public_gists": 8
   },
   {
@@ -2580,7 +2580,7 @@
     "url": "https://api.github.com/users/SomeoneWeird",
     "html_url": "https://github.com/SomeoneWeird",
     "followers_url": "https://api.github.com/users/SomeoneWeird/followers",
-    "following_url": "https://api.github.com/users/SomeoneWeird/following",
+    "following_url": "https://api.github.com/users/SomeoneWeird/following{/other_user}",
     "gists_url": "https://api.github.com/users/SomeoneWeird/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/SomeoneWeird/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/SomeoneWeird/subscriptions",
@@ -2611,7 +2611,7 @@
     "url": "https://api.github.com/users/curiousdannii",
     "html_url": "https://github.com/curiousdannii",
     "followers_url": "https://api.github.com/users/curiousdannii/followers",
-    "following_url": "https://api.github.com/users/curiousdannii/following",
+    "following_url": "https://api.github.com/users/curiousdannii/following{/other_user}",
     "gists_url": "https://api.github.com/users/curiousdannii/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/curiousdannii/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/curiousdannii/subscriptions",
@@ -2631,7 +2631,7 @@
     "followers": 19,
     "following": 17,
     "created_at": "2009-03-01T12:40:35Z",
-    "updated_at": "2013-05-02T14:42:47Z",
+    "updated_at": "2013-05-03T04:29:28Z",
     "public_gists": 12
   },
   {
@@ -2642,7 +2642,7 @@
     "url": "https://api.github.com/users/NorgannasAddOns",
     "html_url": "https://github.com/NorgannasAddOns",
     "followers_url": "https://api.github.com/users/NorgannasAddOns/followers",
-    "following_url": "https://api.github.com/users/NorgannasAddOns/following",
+    "following_url": "https://api.github.com/users/NorgannasAddOns/following{/other_user}",
     "gists_url": "https://api.github.com/users/NorgannasAddOns/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/NorgannasAddOns/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/NorgannasAddOns/subscriptions",
@@ -2662,7 +2662,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-03T04:57:49Z",
-    "updated_at": "2013-05-02T15:00:58Z",
+    "updated_at": "2013-05-03T11:21:35Z",
     "public_gists": 0
   },
   {
@@ -2673,7 +2673,7 @@
     "url": "https://api.github.com/users/justinTNT",
     "html_url": "https://github.com/justinTNT",
     "followers_url": "https://api.github.com/users/justinTNT/followers",
-    "following_url": "https://api.github.com/users/justinTNT/following",
+    "following_url": "https://api.github.com/users/justinTNT/following{/other_user}",
     "gists_url": "https://api.github.com/users/justinTNT/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/justinTNT/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/justinTNT/subscriptions",
@@ -2704,7 +2704,7 @@
     "url": "https://api.github.com/users/devstudio",
     "html_url": "https://github.com/devstudio",
     "followers_url": "https://api.github.com/users/devstudio/followers",
-    "following_url": "https://api.github.com/users/devstudio/following",
+    "following_url": "https://api.github.com/users/devstudio/following{/other_user}",
     "gists_url": "https://api.github.com/users/devstudio/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/devstudio/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/devstudio/subscriptions",
@@ -2735,7 +2735,7 @@
     "url": "https://api.github.com/users/fredwu",
     "html_url": "https://github.com/fredwu",
     "followers_url": "https://api.github.com/users/fredwu/followers",
-    "following_url": "https://api.github.com/users/fredwu/following",
+    "following_url": "https://api.github.com/users/fredwu/following{/other_user}",
     "gists_url": "https://api.github.com/users/fredwu/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/fredwu/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/fredwu/subscriptions",
@@ -2752,10 +2752,10 @@
     "hireable": true,
     "bio": "A back-end developer, front-end developer, designer and manager hybrid.\r\n\r\nHave built the first website back in 1997, and started working in the IT industry since in high school.\r\n\r\nWorked in online publishing, marketing as well as web hosting before becoming a professional web developer and designer.\r\n\r\nHave been an active member of the open source community since then. Contributed to many projects including Ruby on Rails and Slim. For a full list of my contribution, please head over to http://fredwu.me/ and scroll to the bottom of the page.\r\n\r\nA developer who has strong focus on code craftsmanship, business values, UI, UX and most importantly, the user.\r\n\r\nPassionate is my keyword! ",
     "public_repos": 68,
-    "followers": 451,
+    "followers": 450,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-05-02T14:29:11Z",
+    "updated_at": "2013-05-03T08:04:15Z",
     "public_gists": 8
   },
   {
@@ -2766,7 +2766,7 @@
     "url": "https://api.github.com/users/Daniel15",
     "html_url": "https://github.com/Daniel15",
     "followers_url": "https://api.github.com/users/Daniel15/followers",
-    "following_url": "https://api.github.com/users/Daniel15/following",
+    "following_url": "https://api.github.com/users/Daniel15/following{/other_user}",
     "gists_url": "https://api.github.com/users/Daniel15/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Daniel15/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Daniel15/subscriptions",
@@ -2782,11 +2782,11 @@
     "email": "sites+github@dan.cx",
     "hireable": false,
     "bio": null,
-    "public_repos": 51,
+    "public_repos": 52,
     "followers": 35,
     "following": 46,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-05-02T13:38:46Z",
+    "updated_at": "2013-05-03T15:16:52Z",
     "public_gists": 15
   },
   {
@@ -2797,7 +2797,7 @@
     "url": "https://api.github.com/users/kondoot",
     "html_url": "https://github.com/kondoot",
     "followers_url": "https://api.github.com/users/kondoot/followers",
-    "following_url": "https://api.github.com/users/kondoot/following",
+    "following_url": "https://api.github.com/users/kondoot/following{/other_user}",
     "gists_url": "https://api.github.com/users/kondoot/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/kondoot/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/kondoot/subscriptions",
@@ -2828,7 +2828,7 @@
     "url": "https://api.github.com/users/koostudios",
     "html_url": "https://github.com/koostudios",
     "followers_url": "https://api.github.com/users/koostudios/followers",
-    "following_url": "https://api.github.com/users/koostudios/following",
+    "following_url": "https://api.github.com/users/koostudios/following{/other_user}",
     "gists_url": "https://api.github.com/users/koostudios/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/koostudios/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/koostudios/subscriptions",
@@ -2859,7 +2859,7 @@
     "url": "https://api.github.com/users/pomke",
     "html_url": "https://github.com/pomke",
     "followers_url": "https://api.github.com/users/pomke/followers",
-    "following_url": "https://api.github.com/users/pomke/following",
+    "following_url": "https://api.github.com/users/pomke/following{/other_user}",
     "gists_url": "https://api.github.com/users/pomke/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/pomke/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/pomke/subscriptions",
@@ -2890,7 +2890,7 @@
     "url": "https://api.github.com/users/leahciMic",
     "html_url": "https://github.com/leahciMic",
     "followers_url": "https://api.github.com/users/leahciMic/followers",
-    "following_url": "https://api.github.com/users/leahciMic/following",
+    "following_url": "https://api.github.com/users/leahciMic/following{/other_user}",
     "gists_url": "https://api.github.com/users/leahciMic/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/leahciMic/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/leahciMic/subscriptions",
@@ -2910,7 +2910,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-02T06:25:07Z",
+    "updated_at": "2013-05-03T06:27:53Z",
     "public_gists": 0
   },
   {
@@ -2921,7 +2921,7 @@
     "url": "https://api.github.com/users/PinionTech",
     "html_url": "https://github.com/PinionTech",
     "followers_url": "https://api.github.com/users/PinionTech/followers",
-    "following_url": "https://api.github.com/users/PinionTech/following",
+    "following_url": "https://api.github.com/users/PinionTech/following{/other_user}",
     "gists_url": "https://api.github.com/users/PinionTech/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/PinionTech/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/PinionTech/subscriptions",
@@ -2941,7 +2941,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-31T02:23:59Z",
-    "updated_at": "2013-05-02T16:20:46Z",
+    "updated_at": "2013-05-03T07:18:21Z",
     "public_gists": 0
   },
   {
@@ -2952,7 +2952,7 @@
     "url": "https://api.github.com/users/hongymagic",
     "html_url": "https://github.com/hongymagic",
     "followers_url": "https://api.github.com/users/hongymagic/followers",
-    "following_url": "https://api.github.com/users/hongymagic/following",
+    "following_url": "https://api.github.com/users/hongymagic/following{/other_user}",
     "gists_url": "https://api.github.com/users/hongymagic/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/hongymagic/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/hongymagic/subscriptions",
@@ -2972,7 +2972,7 @@
     "followers": 13,
     "following": 24,
     "created_at": "2010-06-11T11:40:03Z",
-    "updated_at": "2013-05-02T13:26:34Z",
+    "updated_at": "2013-05-03T11:39:39Z",
     "public_gists": 47
   },
   {
@@ -2983,7 +2983,7 @@
     "url": "https://api.github.com/users/joshgillies",
     "html_url": "https://github.com/joshgillies",
     "followers_url": "https://api.github.com/users/joshgillies/followers",
-    "following_url": "https://api.github.com/users/joshgillies/following",
+    "following_url": "https://api.github.com/users/joshgillies/following{/other_user}",
     "gists_url": "https://api.github.com/users/joshgillies/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/joshgillies/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/joshgillies/subscriptions",
@@ -3014,7 +3014,7 @@
     "url": "https://api.github.com/users/MadRabbit",
     "html_url": "https://github.com/MadRabbit",
     "followers_url": "https://api.github.com/users/MadRabbit/followers",
-    "following_url": "https://api.github.com/users/MadRabbit/following",
+    "following_url": "https://api.github.com/users/MadRabbit/following{/other_user}",
     "gists_url": "https://api.github.com/users/MadRabbit/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/MadRabbit/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/MadRabbit/subscriptions",
@@ -3034,7 +3034,7 @@
     "followers": 52,
     "following": 7,
     "created_at": "2008-06-21T15:14:17Z",
-    "updated_at": "2013-05-02T08:51:31Z",
+    "updated_at": "2013-05-03T03:49:12Z",
     "public_gists": 24
   },
   {
@@ -3045,7 +3045,7 @@
     "url": "https://api.github.com/users/goulash1971",
     "html_url": "https://github.com/goulash1971",
     "followers_url": "https://api.github.com/users/goulash1971/followers",
-    "following_url": "https://api.github.com/users/goulash1971/following",
+    "following_url": "https://api.github.com/users/goulash1971/following{/other_user}",
     "gists_url": "https://api.github.com/users/goulash1971/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/goulash1971/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/goulash1971/subscriptions",
@@ -3076,7 +3076,7 @@
     "url": "https://api.github.com/users/C1D",
     "html_url": "https://github.com/C1D",
     "followers_url": "https://api.github.com/users/C1D/followers",
-    "following_url": "https://api.github.com/users/C1D/following",
+    "following_url": "https://api.github.com/users/C1D/following{/other_user}",
     "gists_url": "https://api.github.com/users/C1D/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/C1D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/C1D/subscriptions",
@@ -3096,7 +3096,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-12-08T12:26:01Z",
-    "updated_at": "2013-04-25T13:08:12Z",
+    "updated_at": "2013-05-02T19:20:54Z",
     "public_gists": 0
   },
   {
@@ -3107,7 +3107,7 @@
     "url": "https://api.github.com/users/d11wtq",
     "html_url": "https://github.com/d11wtq",
     "followers_url": "https://api.github.com/users/d11wtq/followers",
-    "following_url": "https://api.github.com/users/d11wtq/following",
+    "following_url": "https://api.github.com/users/d11wtq/following{/other_user}",
     "gists_url": "https://api.github.com/users/d11wtq/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/d11wtq/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/d11wtq/subscriptions",
@@ -3124,10 +3124,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 28,
-    "followers": 34,
+    "followers": 35,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-05-02T14:46:39Z",
+    "updated_at": "2013-05-03T11:35:21Z",
     "public_gists": 55
   },
   {
@@ -3138,7 +3138,7 @@
     "url": "https://api.github.com/users/DylanFM",
     "html_url": "https://github.com/DylanFM",
     "followers_url": "https://api.github.com/users/DylanFM/followers",
-    "following_url": "https://api.github.com/users/DylanFM/following",
+    "following_url": "https://api.github.com/users/DylanFM/following{/other_user}",
     "gists_url": "https://api.github.com/users/DylanFM/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/DylanFM/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/DylanFM/subscriptions",
@@ -3158,7 +3158,7 @@
     "followers": 33,
     "following": 56,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-05-02T08:07:47Z",
+    "updated_at": "2013-05-03T00:58:40Z",
     "public_gists": 54
   },
   {
@@ -3169,7 +3169,7 @@
     "url": "https://api.github.com/users/lorentzkim",
     "html_url": "https://github.com/lorentzkim",
     "followers_url": "https://api.github.com/users/lorentzkim/followers",
-    "following_url": "https://api.github.com/users/lorentzkim/following",
+    "following_url": "https://api.github.com/users/lorentzkim/following{/other_user}",
     "gists_url": "https://api.github.com/users/lorentzkim/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/lorentzkim/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/lorentzkim/subscriptions",
@@ -3200,7 +3200,7 @@
     "url": "https://api.github.com/users/margh",
     "html_url": "https://github.com/margh",
     "followers_url": "https://api.github.com/users/margh/followers",
-    "following_url": "https://api.github.com/users/margh/following",
+    "following_url": "https://api.github.com/users/margh/following{/other_user}",
     "gists_url": "https://api.github.com/users/margh/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/margh/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/margh/subscriptions",
@@ -3231,7 +3231,7 @@
     "url": "https://api.github.com/users/maks",
     "html_url": "https://github.com/maks",
     "followers_url": "https://api.github.com/users/maks/followers",
-    "following_url": "https://api.github.com/users/maks/following",
+    "following_url": "https://api.github.com/users/maks/following{/other_user}",
     "gists_url": "https://api.github.com/users/maks/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/maks/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/maks/subscriptions",
@@ -3262,7 +3262,7 @@
     "url": "https://api.github.com/users/rogchap",
     "html_url": "https://github.com/rogchap",
     "followers_url": "https://api.github.com/users/rogchap/followers",
-    "following_url": "https://api.github.com/users/rogchap/following",
+    "following_url": "https://api.github.com/users/rogchap/following{/other_user}",
     "gists_url": "https://api.github.com/users/rogchap/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/rogchap/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/rogchap/subscriptions",
@@ -3282,7 +3282,7 @@
     "followers": 26,
     "following": 0,
     "created_at": "2010-05-07T08:27:04Z",
-    "updated_at": "2013-05-01T23:25:54Z",
+    "updated_at": "2013-05-02T21:32:42Z",
     "public_gists": 0
   },
   {
@@ -3293,7 +3293,7 @@
     "url": "https://api.github.com/users/dgoodlad",
     "html_url": "https://github.com/dgoodlad",
     "followers_url": "https://api.github.com/users/dgoodlad/followers",
-    "following_url": "https://api.github.com/users/dgoodlad/following",
+    "following_url": "https://api.github.com/users/dgoodlad/following{/other_user}",
     "gists_url": "https://api.github.com/users/dgoodlad/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dgoodlad/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dgoodlad/subscriptions",
@@ -3313,7 +3313,7 @@
     "followers": 23,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-05-02T04:08:48Z",
+    "updated_at": "2013-05-03T06:30:16Z",
     "public_gists": 7
   },
   {
@@ -3324,7 +3324,7 @@
     "url": "https://api.github.com/users/gatapia",
     "html_url": "https://github.com/gatapia",
     "followers_url": "https://api.github.com/users/gatapia/followers",
-    "following_url": "https://api.github.com/users/gatapia/following",
+    "following_url": "https://api.github.com/users/gatapia/following{/other_user}",
     "gists_url": "https://api.github.com/users/gatapia/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/gatapia/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/gatapia/subscriptions",
@@ -3344,7 +3344,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2009-10-06T20:26:46Z",
-    "updated_at": "2013-05-01T21:43:09Z",
+    "updated_at": "2013-05-03T12:16:41Z",
     "public_gists": 3
   },
   {
@@ -3355,7 +3355,7 @@
     "url": "https://api.github.com/users/ninjablocks",
     "html_url": "https://github.com/ninjablocks",
     "followers_url": "https://api.github.com/users/ninjablocks/followers",
-    "following_url": "https://api.github.com/users/ninjablocks/following",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
     "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
@@ -3375,7 +3375,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-05-02T08:48:57Z",
+    "updated_at": "2013-05-03T08:01:36Z",
     "public_gists": 0
   },
   {
@@ -3386,7 +3386,7 @@
     "url": "https://api.github.com/users/amitkr",
     "html_url": "https://github.com/amitkr",
     "followers_url": "https://api.github.com/users/amitkr/followers",
-    "following_url": "https://api.github.com/users/amitkr/following",
+    "following_url": "https://api.github.com/users/amitkr/following{/other_user}",
     "gists_url": "https://api.github.com/users/amitkr/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/amitkr/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/amitkr/subscriptions",
@@ -3417,7 +3417,7 @@
     "url": "https://api.github.com/users/nhoss2",
     "html_url": "https://github.com/nhoss2",
     "followers_url": "https://api.github.com/users/nhoss2/followers",
-    "following_url": "https://api.github.com/users/nhoss2/following",
+    "following_url": "https://api.github.com/users/nhoss2/following{/other_user}",
     "gists_url": "https://api.github.com/users/nhoss2/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/nhoss2/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/nhoss2/subscriptions",
@@ -3448,7 +3448,7 @@
     "url": "https://api.github.com/users/C1D",
     "html_url": "https://github.com/C1D",
     "followers_url": "https://api.github.com/users/C1D/followers",
-    "following_url": "https://api.github.com/users/C1D/following",
+    "following_url": "https://api.github.com/users/C1D/following{/other_user}",
     "gists_url": "https://api.github.com/users/C1D/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/C1D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/C1D/subscriptions",
@@ -3468,7 +3468,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-12-08T12:26:01Z",
-    "updated_at": "2013-04-25T13:08:12Z",
+    "updated_at": "2013-05-02T19:20:54Z",
     "public_gists": 0
   },
   {
@@ -3479,7 +3479,7 @@
     "url": "https://api.github.com/users/vjpr",
     "html_url": "https://github.com/vjpr",
     "followers_url": "https://api.github.com/users/vjpr/followers",
-    "following_url": "https://api.github.com/users/vjpr/following",
+    "following_url": "https://api.github.com/users/vjpr/following{/other_user}",
     "gists_url": "https://api.github.com/users/vjpr/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/vjpr/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/vjpr/subscriptions",
@@ -3510,7 +3510,7 @@
     "url": "https://api.github.com/users/willsr",
     "html_url": "https://github.com/willsr",
     "followers_url": "https://api.github.com/users/willsr/followers",
-    "following_url": "https://api.github.com/users/willsr/following",
+    "following_url": "https://api.github.com/users/willsr/following{/other_user}",
     "gists_url": "https://api.github.com/users/willsr/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/willsr/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/willsr/subscriptions",
@@ -3530,7 +3530,7 @@
     "followers": 6,
     "following": 77,
     "created_at": "2012-02-09T11:44:18Z",
-    "updated_at": "2013-05-02T09:12:30Z",
+    "updated_at": "2013-05-03T00:41:30Z",
     "public_gists": 4
   },
   {
@@ -3541,7 +3541,7 @@
     "url": "https://api.github.com/users/siphon-io",
     "html_url": "https://github.com/siphon-io",
     "followers_url": "https://api.github.com/users/siphon-io/followers",
-    "following_url": "https://api.github.com/users/siphon-io/following",
+    "following_url": "https://api.github.com/users/siphon-io/following{/other_user}",
     "gists_url": "https://api.github.com/users/siphon-io/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/siphon-io/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/siphon-io/subscriptions",
@@ -3572,7 +3572,7 @@
     "url": "https://api.github.com/users/mattryall",
     "html_url": "https://github.com/mattryall",
     "followers_url": "https://api.github.com/users/mattryall/followers",
-    "following_url": "https://api.github.com/users/mattryall/following",
+    "following_url": "https://api.github.com/users/mattryall/following{/other_user}",
     "gists_url": "https://api.github.com/users/mattryall/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/mattryall/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/mattryall/subscriptions",
@@ -3589,7 +3589,7 @@
     "hireable": false,
     "bio": null,
     "public_repos": 6,
-    "followers": 2,
+    "followers": 3,
     "following": 0,
     "created_at": "2011-02-15T02:33:54Z",
     "updated_at": "2013-04-21T03:18:14Z",
@@ -3603,7 +3603,7 @@
     "url": "https://api.github.com/users/kimenye",
     "html_url": "https://github.com/kimenye",
     "followers_url": "https://api.github.com/users/kimenye/followers",
-    "following_url": "https://api.github.com/users/kimenye/following",
+    "following_url": "https://api.github.com/users/kimenye/following{/other_user}",
     "gists_url": "https://api.github.com/users/kimenye/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/kimenye/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/kimenye/subscriptions",
@@ -3634,7 +3634,7 @@
     "url": "https://api.github.com/users/Sutto",
     "html_url": "https://github.com/Sutto",
     "followers_url": "https://api.github.com/users/Sutto/followers",
-    "following_url": "https://api.github.com/users/Sutto/following",
+    "following_url": "https://api.github.com/users/Sutto/following{/other_user}",
     "gists_url": "https://api.github.com/users/Sutto/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Sutto/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Sutto/subscriptions",
@@ -3654,7 +3654,7 @@
     "followers": 210,
     "following": 209,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-05-02T10:42:13Z",
+    "updated_at": "2013-05-03T09:19:05Z",
     "public_gists": 113
   },
   {
@@ -3665,7 +3665,7 @@
     "url": "https://api.github.com/users/gabehollombe",
     "html_url": "https://github.com/gabehollombe",
     "followers_url": "https://api.github.com/users/gabehollombe/followers",
-    "following_url": "https://api.github.com/users/gabehollombe/following",
+    "following_url": "https://api.github.com/users/gabehollombe/following{/other_user}",
     "gists_url": "https://api.github.com/users/gabehollombe/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/gabehollombe/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/gabehollombe/subscriptions",
@@ -3696,7 +3696,7 @@
     "url": "https://api.github.com/users/JedWatson",
     "html_url": "https://github.com/JedWatson",
     "followers_url": "https://api.github.com/users/JedWatson/followers",
-    "following_url": "https://api.github.com/users/JedWatson/following",
+    "following_url": "https://api.github.com/users/JedWatson/following{/other_user}",
     "gists_url": "https://api.github.com/users/JedWatson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/JedWatson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/JedWatson/subscriptions",
@@ -3716,7 +3716,7 @@
     "followers": 5,
     "following": 1,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-04-30T18:13:24Z",
+    "updated_at": "2013-05-03T14:53:19Z",
     "public_gists": 0
   },
   {
@@ -3727,7 +3727,7 @@
     "url": "https://api.github.com/users/azza-bazoo",
     "html_url": "https://github.com/azza-bazoo",
     "followers_url": "https://api.github.com/users/azza-bazoo/followers",
-    "following_url": "https://api.github.com/users/azza-bazoo/following",
+    "following_url": "https://api.github.com/users/azza-bazoo/following{/other_user}",
     "gists_url": "https://api.github.com/users/azza-bazoo/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/azza-bazoo/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/azza-bazoo/subscriptions",
@@ -3758,7 +3758,7 @@
     "url": "https://api.github.com/users/shirro",
     "html_url": "https://github.com/shirro",
     "followers_url": "https://api.github.com/users/shirro/followers",
-    "following_url": "https://api.github.com/users/shirro/following",
+    "following_url": "https://api.github.com/users/shirro/following{/other_user}",
     "gists_url": "https://api.github.com/users/shirro/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/shirro/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/shirro/subscriptions",
@@ -3789,7 +3789,7 @@
     "url": "https://api.github.com/users/cjwoodward",
     "html_url": "https://github.com/cjwoodward",
     "followers_url": "https://api.github.com/users/cjwoodward/followers",
-    "following_url": "https://api.github.com/users/cjwoodward/following",
+    "following_url": "https://api.github.com/users/cjwoodward/following{/other_user}",
     "gists_url": "https://api.github.com/users/cjwoodward/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/cjwoodward/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/cjwoodward/subscriptions",
@@ -3820,7 +3820,7 @@
     "url": "https://api.github.com/users/benw",
     "html_url": "https://github.com/benw",
     "followers_url": "https://api.github.com/users/benw/followers",
-    "following_url": "https://api.github.com/users/benw/following",
+    "following_url": "https://api.github.com/users/benw/following{/other_user}",
     "gists_url": "https://api.github.com/users/benw/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/benw/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/benw/subscriptions",
@@ -3836,11 +3836,11 @@
     "email": null,
     "hireable": true,
     "bio": "",
-    "public_repos": 8,
+    "public_repos": 9,
     "followers": 4,
     "following": 0,
     "created_at": "2008-06-03T00:46:58Z",
-    "updated_at": "2013-05-02T03:42:22Z",
+    "updated_at": "2013-05-03T05:54:03Z",
     "public_gists": 10
   },
   {
@@ -3851,7 +3851,7 @@
     "url": "https://api.github.com/users/chrislloyd",
     "html_url": "https://github.com/chrislloyd",
     "followers_url": "https://api.github.com/users/chrislloyd/followers",
-    "following_url": "https://api.github.com/users/chrislloyd/following",
+    "following_url": "https://api.github.com/users/chrislloyd/following{/other_user}",
     "gists_url": "https://api.github.com/users/chrislloyd/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/chrislloyd/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/chrislloyd/subscriptions",
@@ -3871,7 +3871,7 @@
     "followers": 110,
     "following": 148,
     "created_at": "2008-02-23T23:58:36Z",
-    "updated_at": "2013-05-02T03:07:48Z",
+    "updated_at": "2013-05-02T18:51:53Z",
     "public_gists": 80
   },
   {
@@ -3882,7 +3882,7 @@
     "url": "https://api.github.com/users/russholio",
     "html_url": "https://github.com/russholio",
     "followers_url": "https://api.github.com/users/russholio/followers",
-    "following_url": "https://api.github.com/users/russholio/following",
+    "following_url": "https://api.github.com/users/russholio/following{/other_user}",
     "gists_url": "https://api.github.com/users/russholio/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/russholio/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/russholio/subscriptions",
@@ -3902,7 +3902,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2012-02-29T04:15:49Z",
-    "updated_at": "2013-05-02T06:02:51Z",
+    "updated_at": "2013-05-03T09:19:19Z",
     "public_gists": 0
   },
   {
@@ -3913,7 +3913,7 @@
     "url": "https://api.github.com/users/cjheath",
     "html_url": "https://github.com/cjheath",
     "followers_url": "https://api.github.com/users/cjheath/followers",
-    "following_url": "https://api.github.com/users/cjheath/following",
+    "following_url": "https://api.github.com/users/cjheath/following{/other_user}",
     "gists_url": "https://api.github.com/users/cjheath/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/cjheath/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/cjheath/subscriptions",
@@ -3933,7 +3933,7 @@
     "followers": 39,
     "following": 14,
     "created_at": "2008-02-29T06:55:16Z",
-    "updated_at": "2013-05-02T04:58:02Z",
+    "updated_at": "2013-05-03T07:04:55Z",
     "public_gists": 19
   },
   {
@@ -3944,7 +3944,7 @@
     "url": "https://api.github.com/users/jdub",
     "html_url": "https://github.com/jdub",
     "followers_url": "https://api.github.com/users/jdub/followers",
-    "following_url": "https://api.github.com/users/jdub/following",
+    "following_url": "https://api.github.com/users/jdub/following{/other_user}",
     "gists_url": "https://api.github.com/users/jdub/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/jdub/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jdub/subscriptions",
@@ -3964,7 +3964,7 @@
     "followers": 24,
     "following": 2,
     "created_at": "2010-05-14T05:43:52Z",
-    "updated_at": "2013-05-01T04:53:30Z",
+    "updated_at": "2013-05-03T02:40:26Z",
     "public_gists": 8
   },
   {
@@ -3975,7 +3975,7 @@
     "url": "https://api.github.com/users/dgwynne",
     "html_url": "https://github.com/dgwynne",
     "followers_url": "https://api.github.com/users/dgwynne/followers",
-    "following_url": "https://api.github.com/users/dgwynne/following",
+    "following_url": "https://api.github.com/users/dgwynne/following{/other_user}",
     "gists_url": "https://api.github.com/users/dgwynne/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dgwynne/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dgwynne/subscriptions",
@@ -4006,7 +4006,7 @@
     "url": "https://api.github.com/users/Smithamax",
     "html_url": "https://github.com/Smithamax",
     "followers_url": "https://api.github.com/users/Smithamax/followers",
-    "following_url": "https://api.github.com/users/Smithamax/following",
+    "following_url": "https://api.github.com/users/Smithamax/following{/other_user}",
     "gists_url": "https://api.github.com/users/Smithamax/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Smithamax/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Smithamax/subscriptions",
@@ -4026,7 +4026,7 @@
     "followers": 3,
     "following": 6,
     "created_at": "2010-10-27T14:43:20Z",
-    "updated_at": "2013-05-02T13:00:56Z",
+    "updated_at": "2013-05-03T09:19:17Z",
     "public_gists": 5
   },
   {
@@ -4037,7 +4037,7 @@
     "url": "https://api.github.com/users/dhotson",
     "html_url": "https://github.com/dhotson",
     "followers_url": "https://api.github.com/users/dhotson/followers",
-    "following_url": "https://api.github.com/users/dhotson/following",
+    "following_url": "https://api.github.com/users/dhotson/following{/other_user}",
     "gists_url": "https://api.github.com/users/dhotson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dhotson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dhotson/subscriptions",
@@ -4057,7 +4057,7 @@
     "followers": 83,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
-    "updated_at": "2013-05-01T23:29:44Z",
+    "updated_at": "2013-05-03T01:14:32Z",
     "public_gists": 24
   },
   {
@@ -4068,7 +4068,7 @@
     "url": "https://api.github.com/users/joshwnj",
     "html_url": "https://github.com/joshwnj",
     "followers_url": "https://api.github.com/users/joshwnj/followers",
-    "following_url": "https://api.github.com/users/joshwnj/following",
+    "following_url": "https://api.github.com/users/joshwnj/following{/other_user}",
     "gists_url": "https://api.github.com/users/joshwnj/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/joshwnj/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/joshwnj/subscriptions",
@@ -4088,7 +4088,7 @@
     "followers": 10,
     "following": 5,
     "created_at": "2008-11-26T05:24:20Z",
-    "updated_at": "2013-04-25T22:17:31Z",
+    "updated_at": "2013-05-03T10:09:49Z",
     "public_gists": 22
   },
   {
@@ -4099,7 +4099,7 @@
     "url": "https://api.github.com/users/maelstrom",
     "html_url": "https://github.com/maelstrom",
     "followers_url": "https://api.github.com/users/maelstrom/followers",
-    "following_url": "https://api.github.com/users/maelstrom/following",
+    "following_url": "https://api.github.com/users/maelstrom/following{/other_user}",
     "gists_url": "https://api.github.com/users/maelstrom/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/maelstrom/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/maelstrom/subscriptions",
@@ -4119,7 +4119,7 @@
     "followers": 12,
     "following": 4,
     "created_at": "2009-09-28T11:16:06Z",
-    "updated_at": "2013-05-02T10:44:58Z",
+    "updated_at": "2013-05-03T01:57:09Z",
     "public_gists": 4
   },
   {
@@ -4130,7 +4130,7 @@
     "url": "https://api.github.com/users/simonswain",
     "html_url": "https://github.com/simonswain",
     "followers_url": "https://api.github.com/users/simonswain/followers",
-    "following_url": "https://api.github.com/users/simonswain/following",
+    "following_url": "https://api.github.com/users/simonswain/following{/other_user}",
     "gists_url": "https://api.github.com/users/simonswain/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/simonswain/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/simonswain/subscriptions",
@@ -4146,11 +4146,11 @@
     "email": "simon@modus.com.au",
     "hireable": true,
     "bio": null,
-    "public_repos": 3,
+    "public_repos": 4,
     "followers": 6,
     "following": 3,
     "created_at": "2012-09-11T00:59:17Z",
-    "updated_at": "2013-05-01T06:06:17Z",
+    "updated_at": "2013-05-03T12:48:06Z",
     "public_gists": 0
   },
   {
@@ -4161,7 +4161,7 @@
     "url": "https://api.github.com/users/lachlan",
     "html_url": "https://github.com/lachlan",
     "followers_url": "https://api.github.com/users/lachlan/followers",
-    "following_url": "https://api.github.com/users/lachlan/following",
+    "following_url": "https://api.github.com/users/lachlan/following{/other_user}",
     "gists_url": "https://api.github.com/users/lachlan/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/lachlan/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/lachlan/subscriptions",
@@ -4192,7 +4192,7 @@
     "url": "https://api.github.com/users/greywolf001au",
     "html_url": "https://github.com/greywolf001au",
     "followers_url": "https://api.github.com/users/greywolf001au/followers",
-    "following_url": "https://api.github.com/users/greywolf001au/following",
+    "following_url": "https://api.github.com/users/greywolf001au/following{/other_user}",
     "gists_url": "https://api.github.com/users/greywolf001au/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/greywolf001au/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/greywolf001au/subscriptions",
@@ -4223,7 +4223,7 @@
     "url": "https://api.github.com/users/felix",
     "html_url": "https://github.com/felix",
     "followers_url": "https://api.github.com/users/felix/followers",
-    "following_url": "https://api.github.com/users/felix/following",
+    "following_url": "https://api.github.com/users/felix/following{/other_user}",
     "gists_url": "https://api.github.com/users/felix/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/felix/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/felix/subscriptions",
@@ -4254,7 +4254,7 @@
     "url": "https://api.github.com/users/henrylawson",
     "html_url": "https://github.com/henrylawson",
     "followers_url": "https://api.github.com/users/henrylawson/followers",
-    "following_url": "https://api.github.com/users/henrylawson/following",
+    "following_url": "https://api.github.com/users/henrylawson/following{/other_user}",
     "gists_url": "https://api.github.com/users/henrylawson/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/henrylawson/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/henrylawson/subscriptions",
@@ -4285,7 +4285,7 @@
     "url": "https://api.github.com/users/vaskas",
     "html_url": "https://github.com/vaskas",
     "followers_url": "https://api.github.com/users/vaskas/followers",
-    "following_url": "https://api.github.com/users/vaskas/following",
+    "following_url": "https://api.github.com/users/vaskas/following{/other_user}",
     "gists_url": "https://api.github.com/users/vaskas/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/vaskas/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/vaskas/subscriptions",
@@ -4305,7 +4305,7 @@
     "followers": 15,
     "following": 29,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-05-01T21:31:06Z",
+    "updated_at": "2013-05-03T15:10:07Z",
     "public_gists": 3
   },
   {
@@ -4316,7 +4316,7 @@
     "url": "https://api.github.com/users/thomasdavis",
     "html_url": "https://github.com/thomasdavis",
     "followers_url": "https://api.github.com/users/thomasdavis/followers",
-    "following_url": "https://api.github.com/users/thomasdavis/following",
+    "following_url": "https://api.github.com/users/thomasdavis/following{/other_user}",
     "gists_url": "https://api.github.com/users/thomasdavis/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/thomasdavis/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/thomasdavis/subscriptions",
@@ -4333,10 +4333,10 @@
     "hireable": true,
     "bio": "Australian Web Developer,\r\n\r\nLooking for some open source projects to commit to",
     "public_repos": 66,
-    "followers": 294,
+    "followers": 295,
     "following": 20,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-05-02T15:34:51Z",
+    "updated_at": "2013-05-03T16:45:49Z",
     "public_gists": 7
   },
   {
@@ -4347,7 +4347,7 @@
     "url": "https://api.github.com/users/dannymidnight",
     "html_url": "https://github.com/dannymidnight",
     "followers_url": "https://api.github.com/users/dannymidnight/followers",
-    "following_url": "https://api.github.com/users/dannymidnight/following",
+    "following_url": "https://api.github.com/users/dannymidnight/following{/other_user}",
     "gists_url": "https://api.github.com/users/dannymidnight/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dannymidnight/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dannymidnight/subscriptions",
@@ -4367,7 +4367,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-05-01T21:53:17Z",
+    "updated_at": "2013-05-03T06:52:41Z",
     "public_gists": 0
   },
   {
@@ -4378,7 +4378,7 @@
     "url": "https://api.github.com/users/dunse",
     "html_url": "https://github.com/dunse",
     "followers_url": "https://api.github.com/users/dunse/followers",
-    "following_url": "https://api.github.com/users/dunse/following",
+    "following_url": "https://api.github.com/users/dunse/following{/other_user}",
     "gists_url": "https://api.github.com/users/dunse/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/dunse/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/dunse/subscriptions",
@@ -4409,7 +4409,7 @@
     "url": "https://api.github.com/users/Adslot",
     "html_url": "https://github.com/Adslot",
     "followers_url": "https://api.github.com/users/Adslot/followers",
-    "following_url": "https://api.github.com/users/Adslot/following",
+    "following_url": "https://api.github.com/users/Adslot/following{/other_user}",
     "gists_url": "https://api.github.com/users/Adslot/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/Adslot/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/Adslot/subscriptions",
@@ -4429,7 +4429,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-05-02T07:37:41Z",
+    "updated_at": "2013-05-03T13:27:40Z",
     "public_gists": 0
   },
   {
@@ -4440,7 +4440,7 @@
     "url": "https://api.github.com/users/davekinkead",
     "html_url": "https://github.com/davekinkead",
     "followers_url": "https://api.github.com/users/davekinkead/followers",
-    "following_url": "https://api.github.com/users/davekinkead/following",
+    "following_url": "https://api.github.com/users/davekinkead/following{/other_user}",
     "gists_url": "https://api.github.com/users/davekinkead/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/davekinkead/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/davekinkead/subscriptions",
@@ -4471,7 +4471,7 @@
     "url": "https://api.github.com/users/schme16",
     "html_url": "https://github.com/schme16",
     "followers_url": "https://api.github.com/users/schme16/followers",
-    "following_url": "https://api.github.com/users/schme16/following",
+    "following_url": "https://api.github.com/users/schme16/following{/other_user}",
     "gists_url": "https://api.github.com/users/schme16/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/schme16/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/schme16/subscriptions",
@@ -4487,11 +4487,11 @@
     "email": "schme16@gmail.com",
     "hireable": true,
     "bio": "",
-    "public_repos": 16,
+    "public_repos": 17,
     "followers": 1,
     "following": 2,
     "created_at": "2009-08-17T11:36:50Z",
-    "updated_at": "2013-04-27T14:29:59Z",
+    "updated_at": "2013-05-03T02:21:20Z",
     "public_gists": 0
   },
   {
@@ -4502,7 +4502,7 @@
     "url": "https://api.github.com/users/tukutela",
     "html_url": "https://github.com/tukutela",
     "followers_url": "https://api.github.com/users/tukutela/followers",
-    "following_url": "https://api.github.com/users/tukutela/following",
+    "following_url": "https://api.github.com/users/tukutela/following{/other_user}",
     "gists_url": "https://api.github.com/users/tukutela/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/tukutela/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/tukutela/subscriptions",
@@ -4522,7 +4522,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2010-07-22T12:15:50Z",
-    "updated_at": "2013-05-02T06:04:01Z",
+    "updated_at": "2013-05-02T20:59:53Z",
     "public_gists": 4
   },
   {
@@ -4533,7 +4533,7 @@
     "url": "https://api.github.com/users/matthewpalmer",
     "html_url": "https://github.com/matthewpalmer",
     "followers_url": "https://api.github.com/users/matthewpalmer/followers",
-    "following_url": "https://api.github.com/users/matthewpalmer/following",
+    "following_url": "https://api.github.com/users/matthewpalmer/following{/other_user}",
     "gists_url": "https://api.github.com/users/matthewpalmer/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/matthewpalmer/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/matthewpalmer/subscriptions",
@@ -4551,9 +4551,9 @@
     "bio": null,
     "public_repos": 32,
     "followers": 4,
-    "following": 25,
+    "following": 26,
     "created_at": "2012-07-03T10:05:08Z",
-    "updated_at": "2013-05-02T01:10:33Z",
+    "updated_at": "2013-05-03T09:38:57Z",
     "public_gists": 16
   },
   {
@@ -4564,7 +4564,7 @@
     "url": "https://api.github.com/users/rprieto",
     "html_url": "https://github.com/rprieto",
     "followers_url": "https://api.github.com/users/rprieto/followers",
-    "following_url": "https://api.github.com/users/rprieto/following",
+    "following_url": "https://api.github.com/users/rprieto/following{/other_user}",
     "gists_url": "https://api.github.com/users/rprieto/gists{/gist_id}",
     "starred_url": "https://api.github.com/users/rprieto/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/rprieto/subscriptions",
@@ -4582,7 +4582,7 @@
     "bio": null,
     "public_repos": 26,
     "followers": 14,
-    "following": 8,
+    "following": 9,
     "created_at": "2010-01-25T01:04:27Z",
     "updated_at": "2013-05-02T03:23:01Z",
     "public_gists": 3
