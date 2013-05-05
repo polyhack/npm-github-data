@@ -12235,6 +12235,11 @@
     "npmPackage": "chaos-monkeyware"
   },
   {
+    "githubUser": "chaplinjs",
+    "githubRepo": "chaplin",
+    "npmPackage": "chaplin"
+  },
+  {
     "githubUser": "twolfson",
     "githubRepo": "char-props",
     "npmPackage": "char-props"
@@ -112610,6 +112615,11 @@
     "npmPackage": "node-planvine"
   },
   {
+    "githubUser": "discore",
+    "githubRepo": "dcss",
+    "npmPackage": "dcss"
+  },
+  {
     "githubUser": "diversario",
     "githubRepo": "node-ssdp",
     "npmPackage": "node-ssdp"
@@ -115483,5 +115493,265 @@
     "githubUser": "paulhayes",
     "githubRepo": "jshashtable-nodejs",
     "npmPackage": "jshashtable"
+  },
+  {
+    "githubUser": "soldair",
+    "githubRepo": "node-iamhard",
+    "npmPackage": "iamhard"
+  },
+  {
+    "githubUser": "paulhayes",
+    "githubRepo": "text_based_adventure_engine",
+    "npmPackage": "text_based_adventure_engine"
+  },
+  {
+    "githubUser": "katanastabstudios",
+    "githubRepo": "assertmessage",
+    "npmPackage": "assertmessage"
+  },
+  {
+    "githubUser": "jmanero",
+    "githubRepo": "glyphicons-css",
+    "npmPackage": "glyphicons-css"
+  },
+  {
+    "githubUser": "o-js",
+    "githubRepo": "o-core",
+    "npmPackage": "o-core"
+  },
+  {
+    "githubUser": "metabench",
+    "githubRepo": "jsgui-node-fs2-core",
+    "npmPackage": "jsgui-node-fs2-core"
+  },
+  {
+    "githubUser": "jupe",
+    "githubRepo": "gridfstore",
+    "npmPackage": "gridfstore"
+  },
+  {
+    "githubUser": "jaredhanson",
+    "githubRepo": "kerouac-sitemap",
+    "npmPackage": "kerouac-sitemap"
+  },
+  {
+    "githubUser": "kennknowles",
+    "githubRepo": "zoetropic",
+    "npmPackage": "zoetropic"
+  },
+  {
+    "githubUser": "luisfarzati",
+    "githubRepo": "moment-interval",
+    "npmPackage": "moment-interval"
+  },
+  {
+    "githubUser": "luisfarzati",
+    "githubRepo": "moment-duration",
+    "npmPackage": "moment-duration"
+  },
+  {
+    "githubUser": "ahultgren",
+    "githubRepo": "monguurl",
+    "npmPackage": "monguurl"
+  },
+  {
+    "githubUser": "benjie",
+    "githubRepo": "gocardless-node",
+    "npmPackage": "gocardless"
+  },
+  {
+    "githubUser": "karlgoldstein",
+    "githubRepo": "grunt-angular-annotator",
+    "npmPackage": "grunt-angular-annotator"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "pull-glob",
+    "npmPackage": "pull-glob"
+  },
+  {
+    "githubUser": "sindresorhus",
+    "githubRepo": "junk",
+    "npmPackage": "junk"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "tree-query",
+    "npmPackage": "tree-query"
+  },
+  {
+    "githubUser": "gmalysa",
+    "githubRepo": "db-filters",
+    "npmPackage": "db-filters"
+  },
+  {
+    "githubUser": "CLowbrow",
+    "githubRepo": "node-caja-sanitizer",
+    "npmPackage": "html-css-sanitizer"
+  },
+  {
+    "githubUser": "xdissent",
+    "githubRepo": "node-alsa",
+    "npmPackage": "alsa"
+  },
+  {
+    "githubUser": "tgies",
+    "githubRepo": "client-certificate-auth",
+    "npmPackage": "client-certificate-auth"
+  },
+  {
+    "githubUser": "wolfeidau",
+    "githubRepo": "aws-pricing",
+    "npmPackage": "aws-pricing"
+  },
+  {
+    "githubUser": "hurrymaplelad",
+    "githubRepo": "docpad-plugin-teacup",
+    "npmPackage": "docpad-plugin-teacup"
+  },
+  {
+    "githubUser": "buddyjs",
+    "githubRepo": "buddy-minimal",
+    "npmPackage": "buddy-minimal"
+  },
+  {
+    "githubUser": "JamesMGreene",
+    "githubRepo": "qunit-assert-step",
+    "npmPackage": "qunit-assert-step"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "ticker",
+    "npmPackage": "ticker"
+  },
+  {
+    "githubUser": "JamesMGreene",
+    "githubRepo": "qunit-assert-close",
+    "npmPackage": "qunit-assert-close"
+  },
+  {
+    "githubUser": "JamesMGreene",
+    "githubRepo": "qunit-assert-canvas",
+    "npmPackage": "qunit-assert-canvas"
+  },
+  {
+    "githubUser": "xzyfer",
+    "githubRepo": "ie9-selector-counter",
+    "npmPackage": "ie9-selector-counter"
+  },
+  {
+    "githubUser": "matthewpalmer",
+    "githubRepo": "panther",
+    "npmPackage": "panther"
+  },
+  {
+    "githubUser": "faebeee",
+    "githubRepo": "fsUtil",
+    "npmPackage": "fshelper"
+  },
+  {
+    "githubUser": "twolfson",
+    "githubRepo": "icomoon-phantomjs",
+    "npmPackage": "icomoon-phantomjs"
+  },
+  {
+    "githubUser": "jiyinyiyong",
+    "githubRepo": "ws-json-client",
+    "npmPackage": "ws-json"
+  },
+  {
+    "githubUser": "jiyinyiyong",
+    "githubRepo": "ws-json-server",
+    "npmPackage": "ws-json-server"
+  },
+  {
+    "githubUser": "bencevans",
+    "githubRepo": "node-spidercheck",
+    "npmPackage": "spidercheck"
+  },
+  {
+    "githubUser": "twolfson",
+    "githubRepo": "fontsmith",
+    "npmPackage": "fontsmith"
+  },
+  {
+    "githubUser": "mahnunchik",
+    "githubRepo": "mag",
+    "npmPackage": "mag"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "barse",
+    "npmPackage": "barse"
+  },
+  {
+    "githubUser": "buddyjs",
+    "githubRepo": "buddy-tap",
+    "npmPackage": "buddy-tap"
+  },
+  {
+    "githubUser": "buddyjs",
+    "githubRepo": "buddy-browser",
+    "npmPackage": "buddy-browser"
+  },
+  {
+    "githubUser": "pferreir",
+    "githubRepo": "monsieur-bot",
+    "npmPackage": "monsieur-bot"
+  },
+  {
+    "githubUser": "xzyfer",
+    "githubRepo": "grunt-ie9-selector-counter",
+    "npmPackage": "grunt-ie9-selector-counter"
+  },
+  {
+    "githubUser": "alexchicn",
+    "githubRepo": "scratch",
+    "npmPackage": "scratchjs"
+  },
+  {
+    "githubUser": "marcel-devdude",
+    "githubRepo": "mite-api",
+    "npmPackage": "mite-api"
+  },
+  {
+    "githubUser": "tjchaplin",
+    "githubRepo": "YAEnumerable",
+    "npmPackage": "yaenumerable"
+  },
+  {
+    "githubUser": "quarterto",
+    "githubRepo": "rfolderify",
+    "npmPackage": "rfolderify"
+  },
+  {
+    "githubUser": "simondean",
+    "githubRepo": "myriad",
+    "npmPackage": "myriad"
+  },
+  {
+    "githubUser": "simondean",
+    "githubRepo": "myriad-server",
+    "npmPackage": "myriad-server"
+  },
+  {
+    "githubUser": "simondean",
+    "githubRepo": "myriad-cucumber",
+    "npmPackage": "myriad-cucumber"
+  },
+  {
+    "githubUser": "bobrik",
+    "githubRepo": "node-mess",
+    "npmPackage": "mess"
+  },
+  {
+    "githubUser": "dciccale",
+    "githubRepo": "grunt-directives",
+    "npmPackage": "grunt-directives"
+  },
+  {
+    "githubUser": "shaekuronen",
+    "githubRepo": "grunt-ejs-static",
+    "npmPackage": "grunt-ejs-static"
   }
 ]
