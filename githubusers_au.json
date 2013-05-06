@@ -27,7 +27,7 @@
     "followers": 124,
     "following": 14,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-05-05T12:41:55Z",
+    "updated_at": "2013-05-06T12:11:04Z",
     "public_gists": 23
   },
   {
@@ -58,7 +58,7 @@
     "followers": 84,
     "following": 136,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-05-05T10:50:14Z",
+    "updated_at": "2013-05-06T13:22:45Z",
     "public_gists": 18
   },
   {
@@ -85,11 +85,11 @@
     "email": "christopher.giffard@cgiffard.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 33,
+    "public_repos": 34,
     "followers": 35,
     "following": 29,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-05-05T06:34:23Z",
+    "updated_at": "2013-05-06T10:47:31Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 27,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-05-03T05:31:47Z",
+    "updated_at": "2013-05-06T11:43:23Z",
     "public_gists": 7
   },
   {
@@ -182,7 +182,7 @@
     "followers": 110,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-05-05T09:39:37Z",
+    "updated_at": "2013-05-06T15:00:34Z",
     "public_gists": 1
   },
   {
@@ -211,9 +211,9 @@
     "bio": "",
     "public_repos": 73,
     "followers": 19,
-    "following": 61,
+    "following": 62,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-05-05T07:21:00Z",
+    "updated_at": "2013-05-05T22:00:50Z",
     "public_gists": 6
   },
   {
@@ -244,7 +244,7 @@
     "followers": 173,
     "following": 29,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-05-04T13:54:04Z",
+    "updated_at": "2013-05-06T09:49:58Z",
     "public_gists": 53
   },
   {
@@ -306,7 +306,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-03T06:27:53Z",
+    "updated_at": "2013-05-06T12:32:31Z",
     "public_gists": 0
   },
   {
@@ -337,7 +337,7 @@
     "followers": 21,
     "following": 17,
     "created_at": "2010-12-21T06:43:12Z",
-    "updated_at": "2013-05-05T10:17:46Z",
+    "updated_at": "2013-05-06T04:42:57Z",
     "public_gists": 5
   },
   {
@@ -365,10 +365,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 32,
-    "followers": 198,
+    "followers": 199,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-05-05T04:04:09Z",
+    "updated_at": "2013-05-06T12:44:19Z",
     "public_gists": 22
   },
   {
@@ -430,7 +430,7 @@
     "followers": 4,
     "following": 1,
     "created_at": "2011-01-01T12:52:47Z",
-    "updated_at": "2013-05-04T12:15:14Z",
+    "updated_at": "2013-05-06T12:42:07Z",
     "public_gists": 6
   },
   {
@@ -457,11 +457,11 @@
     "email": null,
     "hireable": false,
     "bio": "",
-    "public_repos": 39,
+    "public_repos": 40,
     "followers": 11,
     "following": 74,
     "created_at": "2010-08-18T02:32:33Z",
-    "updated_at": "2013-05-03T05:06:59Z",
+    "updated_at": "2013-05-06T13:31:30Z",
     "public_gists": 6
   },
   {
@@ -492,7 +492,7 @@
     "followers": 12,
     "following": 23,
     "created_at": "2008-12-03T23:25:48Z",
-    "updated_at": "2013-04-30T07:00:10Z",
+    "updated_at": "2013-05-06T11:41:40Z",
     "public_gists": 3
   },
   {
@@ -520,10 +520,10 @@
     "hireable": true,
     "bio": "## [Benjamin \"balupton\" Lupton][1] <br/> \r\n### Web 2.0 Architect · January 2005 to present · Perth, Western Australia <br/>\r\n<br/>\r\nEach day my products are installed in thousands of websites, empower millions of website users, and are constantly praised in social media networks. These outstanding results are achieved through my extreme commitment to quality and excellence in everything I do. My time isn't spent spreading word through social media, instead my time is spent in creating quality solutions that inspire people to spread praise everywhere they go. I'm an expert at what I do and I love doing it. <br/>\r\n<br/>\r\n\r\n## My Projects <br/><br/>\r\n\r\n### [Aloha Editor · October 2010 to present][2]\r\nAloha Editor is more than just the leading HTML5 WYSIWYG editor. It's revolutionising the way we create and interact with content on the web. It's already the next big thing, and will be for many many years to come. It's just purely phenomenal to be able to direct, develop and contribute to such an amazing product.\r\n\r\n### [jQuery Ajaxy · July 2008 to present][3]\r\njQuery Ajaxy allows you to easily upgrade your web site into a full featured Ajax web application. It aims at solving complicated AJAX Paradigms by providing you with a easy managed solution to bind into page state (URL Hash) changes, AJAX form submits, and support AJAX links\r\n\r\n### [jQuery Sparkle · December 2009 to present][4]\r\njQuery Sparkle is a simple but powerful DRY Plugin/Effect Framework aimed to simplify your jQuery development such that you no longer have to repeat yourself. But at it's core it is mostly just a framework to allow you to develop faster, utilising the Don't-Repeat-Yourself ideology.\r\n\r\n### [jQuery Lightbox · December 2007 to present][5]\r\nEver had to link to many images within a page, and noticed how merely satifactory it is requiring the user to view each image in a new window or tab? Yeah, we thought so. Lightboxes enable you to seamlessly display images within your website easily and literally with a click of a button.\r\n\r\n### [BalCMS · August 2009 to present][6]\r\nBalCMS is a Zend Framework and Doctrine ORM powered CMS. It supports such features as i18n, widget, caching, themes and modules.\r\n<br/><br/>\r\n\r\n## Ready to make it happen? <br/><br/>\r\n\r\n**Skype:** balupton <br/>\r\n**Email:** contact@balupton.com <br/>\r\n**Website:** http://www.balupton.com <br/>\r\n**Twitter:** http://twitter.com/balupton <br/>\r\n**GitHub:** http://github.com/balupton <br/>\r\n**LinkedIn:** http://au.linkedin.com/in/balupton\r\n\r\n\r\n  [1]: http://balupton.com\r\n  [2]: http://aloha-editor.com\r\n  [3]: http://balupton.com/projects/jquery-ajaxy\r\n  [4]: http://balupton.com/projects/jquery-sparkle\r\n  [5]: http://balupton.com/projects/jquery-lightbox\r\n  [6]: http://balupton.com/projects/balcms",
     "public_repos": 81,
-    "followers": 344,
+    "followers": 345,
     "following": 98,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-05-05T02:53:59Z",
+    "updated_at": "2013-05-06T15:14:43Z",
     "public_gists": 90
   },
   {
@@ -554,7 +554,7 @@
     "followers": 26,
     "following": 3,
     "created_at": "2010-08-23T07:05:33Z",
-    "updated_at": "2013-05-05T07:57:40Z",
+    "updated_at": "2013-05-06T08:09:42Z",
     "public_gists": 3
   },
   {
@@ -585,7 +585,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-04T00:44:08Z",
+    "updated_at": "2013-05-06T13:17:34Z",
     "public_gists": 0
   },
   {
@@ -614,9 +614,9 @@
     "bio": null,
     "public_repos": 32,
     "followers": 32,
-    "following": 39,
+    "following": 40,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-05-05T09:45:40Z",
+    "updated_at": "2013-05-06T10:10:24Z",
     "public_gists": 2
   },
   {
@@ -647,7 +647,7 @@
     "followers": 54,
     "following": 0,
     "created_at": "2010-10-10T08:05:27Z",
-    "updated_at": "2013-05-03T05:31:48Z",
+    "updated_at": "2013-05-06T04:30:32Z",
     "public_gists": 59
   },
   {
@@ -678,7 +678,7 @@
     "followers": 135,
     "following": 6,
     "created_at": "2009-01-18T03:29:23Z",
-    "updated_at": "2013-05-05T13:15:27Z",
+    "updated_at": "2013-05-06T11:11:23Z",
     "public_gists": 28
   },
   {
@@ -709,7 +709,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2011-08-22T07:16:43Z",
-    "updated_at": "2013-05-04T17:46:58Z",
+    "updated_at": "2013-05-06T02:57:52Z",
     "public_gists": 0
   },
   {
@@ -740,7 +740,7 @@
     "followers": 29,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-05-03T15:10:15Z",
+    "updated_at": "2013-05-06T00:58:46Z",
     "public_gists": 4
   },
   {
@@ -799,10 +799,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 34,
-    "followers": 243,
+    "followers": 242,
     "following": 25,
     "created_at": "2009-10-22T22:13:53Z",
-    "updated_at": "2013-05-04T19:56:53Z",
+    "updated_at": "2013-05-06T10:28:00Z",
     "public_gists": 16
   },
   {
@@ -833,7 +833,7 @@
     "followers": 7,
     "following": 7,
     "created_at": "2009-02-26T11:58:02Z",
-    "updated_at": "2013-05-01T19:37:18Z",
+    "updated_at": "2013-05-06T12:50:57Z",
     "public_gists": 3
   },
   {
@@ -926,7 +926,7 @@
     "followers": 6,
     "following": 11,
     "created_at": "2012-02-09T16:32:29Z",
-    "updated_at": "2013-05-05T05:22:53Z",
+    "updated_at": "2013-05-05T23:05:32Z",
     "public_gists": 0
   },
   {
@@ -1019,7 +1019,7 @@
     "followers": 130,
     "following": 157,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-05-05T09:01:24Z",
+    "updated_at": "2013-05-05T23:56:12Z",
     "public_gists": 69
   },
   {
@@ -1050,7 +1050,7 @@
     "followers": 4,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-05-03T22:55:15Z",
+    "updated_at": "2013-05-06T12:54:06Z",
     "public_gists": 34
   },
   {
@@ -1081,7 +1081,7 @@
     "followers": 61,
     "following": 7,
     "created_at": "2009-12-28T01:52:44Z",
-    "updated_at": "2013-05-05T14:31:25Z",
+    "updated_at": "2013-05-06T02:50:19Z",
     "public_gists": 21
   },
   {
@@ -1112,7 +1112,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-05-05T07:25:26Z",
+    "updated_at": "2013-05-06T11:21:49Z",
     "public_gists": 0
   },
   {
@@ -1205,7 +1205,7 @@
     "followers": 3,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-05-05T09:38:11Z",
+    "updated_at": "2013-05-06T14:54:05Z",
     "public_gists": 0
   },
   {
@@ -1236,7 +1236,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-03-19T01:17:40Z",
-    "updated_at": "2013-05-03T06:06:49Z",
+    "updated_at": "2013-05-06T11:41:39Z",
     "public_gists": 0
   },
   {
@@ -1263,12 +1263,12 @@
     "email": "mark@wolfe.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 101,
+    "public_repos": 102,
     "followers": 10,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-05-05T12:41:21Z",
-    "public_gists": 61
+    "updated_at": "2013-05-06T11:36:24Z",
+    "public_gists": 62
   },
   {
     "login": "liammclennan",
@@ -1294,11 +1294,11 @@
     "email": "@liammclennan",
     "hireable": true,
     "bio": "Twitter: @liammclennan",
-    "public_repos": 37,
+    "public_repos": 38,
     "followers": 58,
     "following": 33,
     "created_at": "2010-05-09T06:27:54Z",
-    "updated_at": "2013-05-04T17:08:20Z",
+    "updated_at": "2013-05-06T11:40:05Z",
     "public_gists": 85
   },
   {
@@ -1329,8 +1329,8 @@
     "followers": 58,
     "following": 82,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-05-05T12:59:50Z",
-    "public_gists": 22
+    "updated_at": "2013-05-06T00:15:42Z",
+    "public_gists": 23
   },
   {
     "login": "dekz",
@@ -1360,7 +1360,7 @@
     "followers": 18,
     "following": 29,
     "created_at": "2008-10-03T09:48:15Z",
-    "updated_at": "2013-05-03T20:12:53Z",
+    "updated_at": "2013-05-05T18:45:51Z",
     "public_gists": 31
   },
   {
@@ -1385,13 +1385,13 @@
     "blog": "http://gcmurphy.wordpress.com",
     "location": "Brisbane, Australia",
     "email": null,
-    "hireable": false,
+    "hireable": true,
     "bio": "",
     "public_repos": 23,
     "followers": 6,
     "following": 29,
     "created_at": "2010-03-15T07:12:16Z",
-    "updated_at": "2013-05-03T06:18:31Z",
+    "updated_at": "2013-05-05T23:11:29Z",
     "public_gists": 22
   },
   {
@@ -1546,7 +1546,7 @@
     "followers": 1108,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-05-05T13:52:43Z",
+    "updated_at": "2013-05-06T15:32:57Z",
     "public_gists": 4
   },
   {
@@ -1608,7 +1608,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-05-03T05:25:23Z",
+    "updated_at": "2013-05-06T12:29:13Z",
     "public_gists": 0
   },
   {
@@ -1639,7 +1639,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T13:11:40Z",
-    "updated_at": "2013-05-02T00:17:20Z",
+    "updated_at": "2013-05-06T01:48:09Z",
     "public_gists": 0
   },
   {
@@ -1732,7 +1732,7 @@
     "followers": 3,
     "following": 15,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-05-05T14:22:38Z",
+    "updated_at": "2013-05-06T15:38:27Z",
     "public_gists": 10
   },
   {
@@ -1763,7 +1763,7 @@
     "followers": 28,
     "following": 31,
     "created_at": "2011-12-16T22:21:46Z",
-    "updated_at": "2013-05-05T08:20:49Z",
+    "updated_at": "2013-05-06T13:51:17Z",
     "public_gists": 12
   },
   {
@@ -1794,7 +1794,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-05-05T10:01:13Z",
+    "updated_at": "2013-05-06T14:54:05Z",
     "public_gists": 1
   },
   {
@@ -1853,10 +1853,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 11,
-    "followers": 18,
+    "followers": 19,
     "following": 4,
     "created_at": "2009-05-13T01:05:40Z",
-    "updated_at": "2013-05-05T04:02:17Z",
+    "updated_at": "2013-05-06T15:01:36Z",
     "public_gists": 1
   },
   {
@@ -1887,7 +1887,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-10-20T00:39:29Z",
-    "updated_at": "2013-05-04T05:45:59Z",
+    "updated_at": "2013-05-06T07:10:13Z",
     "public_gists": 0
   },
   {
@@ -1914,11 +1914,11 @@
     "email": "matthieu.stone@gmail.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 0,
+    "public_repos": 1,
     "followers": 2,
     "following": 0,
     "created_at": "2008-08-15T14:03:09Z",
-    "updated_at": "2013-05-03T08:13:32Z",
+    "updated_at": "2013-05-06T05:44:11Z",
     "public_gists": 2
   },
   {
@@ -2011,7 +2011,7 @@
     "followers": 0,
     "following": 6,
     "created_at": "2009-04-17T01:18:42Z",
-    "updated_at": "2013-05-05T07:48:18Z",
+    "updated_at": "2013-05-06T11:28:19Z",
     "public_gists": 12
   },
   {
@@ -2073,7 +2073,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-04T00:44:08Z",
+    "updated_at": "2013-05-06T13:17:34Z",
     "public_gists": 0
   },
   {
@@ -2104,7 +2104,7 @@
     "followers": 1,
     "following": 6,
     "created_at": "2011-07-08T20:28:32Z",
-    "updated_at": "2013-05-05T03:39:33Z",
+    "updated_at": "2013-05-06T01:28:39Z",
     "public_gists": 1
   },
   {
@@ -2228,7 +2228,7 @@
     "followers": 0,
     "following": 4,
     "created_at": "2012-03-14T12:20:25Z",
-    "updated_at": "2013-05-03T07:27:48Z",
+    "updated_at": "2013-05-06T02:48:31Z",
     "public_gists": 0
   },
   {
@@ -2259,7 +2259,7 @@
     "followers": 7,
     "following": 4,
     "created_at": "2011-04-04T08:54:40Z",
-    "updated_at": "2013-05-05T14:36:43Z",
+    "updated_at": "2013-05-06T12:14:24Z",
     "public_gists": 0
   },
   {
@@ -2286,11 +2286,11 @@
     "email": null,
     "hireable": true,
     "bio": null,
-    "public_repos": 10,
+    "public_repos": 11,
     "followers": 8,
     "following": 16,
     "created_at": "2011-02-27T09:41:23Z",
-    "updated_at": "2013-05-04T14:43:09Z",
+    "updated_at": "2013-05-06T13:32:55Z",
     "public_gists": 4
   },
   {
@@ -2411,10 +2411,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 30,
-    "followers": 318,
+    "followers": 319,
     "following": 43,
     "created_at": "2009-04-16T09:40:21Z",
-    "updated_at": "2013-05-05T09:27:54Z",
+    "updated_at": "2013-05-06T11:56:41Z",
     "public_gists": 30
   },
   {
@@ -2476,7 +2476,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-05-05T13:20:44Z",
+    "updated_at": "2013-05-06T09:23:28Z",
     "public_gists": 0
   },
   {
@@ -2507,7 +2507,7 @@
     "followers": 2,
     "following": 5,
     "created_at": "2009-05-14T00:09:30Z",
-    "updated_at": "2013-05-03T06:35:20Z",
+    "updated_at": "2013-05-06T06:31:35Z",
     "public_gists": 0
   },
   {
@@ -2569,7 +2569,7 @@
     "followers": 20,
     "following": 1,
     "created_at": "2011-04-07T01:16:01Z",
-    "updated_at": "2013-05-03T05:27:34Z",
+    "updated_at": "2013-05-06T10:51:45Z",
     "public_gists": 8
   },
   {
@@ -2629,7 +2629,7 @@
     "bio": null,
     "public_repos": 9,
     "followers": 19,
-    "following": 17,
+    "following": 16,
     "created_at": "2009-03-01T12:40:35Z",
     "updated_at": "2013-05-03T04:29:28Z",
     "public_gists": 12
@@ -2693,7 +2693,7 @@
     "followers": 2,
     "following": 29,
     "created_at": "2010-03-17T23:15:40Z",
-    "updated_at": "2013-05-02T00:27:55Z",
+    "updated_at": "2013-05-06T15:33:43Z",
     "public_gists": 0
   },
   {
@@ -2752,10 +2752,10 @@
     "hireable": true,
     "bio": "A back-end developer, front-end developer, designer and manager hybrid.\r\n\r\nHave built the first website back in 1997, and started working in the IT industry since in high school.\r\n\r\nWorked in online publishing, marketing as well as web hosting before becoming a professional web developer and designer.\r\n\r\nHave been an active member of the open source community since then. Contributed to many projects including Ruby on Rails and Slim. For a full list of my contribution, please head over to http://fredwu.me/ and scroll to the bottom of the page.\r\n\r\nA developer who has strong focus on code craftsmanship, business values, UI, UX and most importantly, the user.\r\n\r\nPassionate is my keyword! ",
     "public_repos": 68,
-    "followers": 451,
+    "followers": 453,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-05-05T10:17:18Z",
+    "updated_at": "2013-05-06T13:37:44Z",
     "public_gists": 8
   },
   {
@@ -2786,7 +2786,7 @@
     "followers": 35,
     "following": 46,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-05-05T11:51:40Z",
+    "updated_at": "2013-05-06T02:39:28Z",
     "public_gists": 15
   },
   {
@@ -2877,9 +2877,9 @@
     "bio": null,
     "public_repos": 15,
     "followers": 7,
-    "following": 10,
+    "following": 11,
     "created_at": "2011-01-07T03:36:10Z",
-    "updated_at": "2013-05-02T05:08:09Z",
+    "updated_at": "2013-05-05T23:31:01Z",
     "public_gists": 11
   },
   {
@@ -2910,7 +2910,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-03T06:27:53Z",
+    "updated_at": "2013-05-06T12:32:31Z",
     "public_gists": 0
   },
   {
@@ -2941,7 +2941,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-31T02:23:59Z",
-    "updated_at": "2013-05-05T15:01:20Z",
+    "updated_at": "2013-05-06T16:05:58Z",
     "public_gists": 0
   },
   {
@@ -2972,7 +2972,7 @@
     "followers": 13,
     "following": 24,
     "created_at": "2010-06-11T11:40:03Z",
-    "updated_at": "2013-05-04T12:20:52Z",
+    "updated_at": "2013-05-06T09:59:12Z",
     "public_gists": 47
   },
   {
@@ -3124,10 +3124,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 28,
-    "followers": 35,
+    "followers": 36,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-05-04T10:21:37Z",
+    "updated_at": "2013-05-06T16:22:38Z",
     "public_gists": 55
   },
   {
@@ -3158,8 +3158,8 @@
     "followers": 33,
     "following": 56,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-05-03T00:58:40Z",
-    "public_gists": 54
+    "updated_at": "2013-05-06T07:25:27Z",
+    "public_gists": 55
   },
   {
     "login": "lorentzkim",
@@ -3313,8 +3313,8 @@
     "followers": 23,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-05-05T04:38:19Z",
-    "public_gists": 7
+    "updated_at": "2013-05-06T04:00:10Z",
+    "public_gists": 8
   },
   {
     "login": "gatapia",
@@ -3344,7 +3344,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2009-10-06T20:26:46Z",
-    "updated_at": "2013-05-03T12:16:41Z",
+    "updated_at": "2013-05-06T00:48:57Z",
     "public_gists": 3
   },
   {
@@ -3375,7 +3375,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-05-04T16:24:26Z",
+    "updated_at": "2013-05-06T10:51:45Z",
     "public_gists": 0
   },
   {
@@ -3437,7 +3437,7 @@
     "followers": 11,
     "following": 5,
     "created_at": "2009-06-01T09:06:40Z",
-    "updated_at": "2013-05-04T16:51:31Z",
+    "updated_at": "2013-05-06T12:28:43Z",
     "public_gists": 7
   },
   {
@@ -3499,7 +3499,7 @@
     "followers": 6,
     "following": 13,
     "created_at": "2010-05-19T14:12:00Z",
-    "updated_at": "2013-05-05T05:40:05Z",
+    "updated_at": "2013-05-06T06:04:31Z",
     "public_gists": 4
   },
   {
@@ -3530,7 +3530,7 @@
     "followers": 6,
     "following": 77,
     "created_at": "2012-02-09T11:44:18Z",
-    "updated_at": "2013-05-03T00:41:30Z",
+    "updated_at": "2013-05-06T11:46:46Z",
     "public_gists": 4
   },
   {
@@ -3623,7 +3623,7 @@
     "followers": 3,
     "following": 1,
     "created_at": "2010-05-05T00:50:42Z",
-    "updated_at": "2013-04-30T14:13:15Z",
+    "updated_at": "2013-05-06T13:06:47Z",
     "public_gists": 7
   },
   {
@@ -3654,7 +3654,7 @@
     "followers": 210,
     "following": 209,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-05-05T13:53:07Z",
+    "updated_at": "2013-05-06T04:09:00Z",
     "public_gists": 113
   },
   {
@@ -3685,7 +3685,7 @@
     "followers": 29,
     "following": 5,
     "created_at": "2008-10-09T15:30:22Z",
-    "updated_at": "2013-05-05T16:32:22Z",
+    "updated_at": "2013-05-06T11:54:25Z",
     "public_gists": 13
   },
   {
@@ -3716,7 +3716,7 @@
     "followers": 5,
     "following": 1,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-05-03T14:53:19Z",
+    "updated_at": "2013-05-06T13:53:32Z",
     "public_gists": 0
   },
   {
@@ -3840,7 +3840,7 @@
     "followers": 4,
     "following": 0,
     "created_at": "2008-06-03T00:46:58Z",
-    "updated_at": "2013-05-05T01:42:56Z",
+    "updated_at": "2013-05-06T06:42:52Z",
     "public_gists": 10
   },
   {
@@ -3867,11 +3867,11 @@
     "email": "christopher.lloyd@gmail.com",
     "hireable": false,
     "bio": "",
-    "public_repos": 17,
+    "public_repos": 18,
     "followers": 110,
     "following": 148,
     "created_at": "2008-02-23T23:58:36Z",
-    "updated_at": "2013-05-05T16:33:13Z",
+    "updated_at": "2013-05-05T18:40:52Z",
     "public_gists": 80
   },
   {
@@ -3898,11 +3898,11 @@
     "email": "russholio@gmail.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 4,
+    "public_repos": 5,
     "followers": 1,
     "following": 0,
     "created_at": "2012-02-29T04:15:49Z",
-    "updated_at": "2013-05-05T16:47:59Z",
+    "updated_at": "2013-05-06T08:58:23Z",
     "public_gists": 0
   },
   {
@@ -3933,7 +3933,7 @@
     "followers": 39,
     "following": 14,
     "created_at": "2008-02-29T06:55:16Z",
-    "updated_at": "2013-05-03T07:04:55Z",
+    "updated_at": "2013-05-06T04:17:42Z",
     "public_gists": 19
   },
   {
@@ -3964,7 +3964,7 @@
     "followers": 24,
     "following": 2,
     "created_at": "2010-05-14T05:43:52Z",
-    "updated_at": "2013-05-04T23:08:55Z",
+    "updated_at": "2013-05-06T09:51:20Z",
     "public_gists": 8
   },
   {
@@ -4026,7 +4026,7 @@
     "followers": 3,
     "following": 6,
     "created_at": "2010-10-27T14:43:20Z",
-    "updated_at": "2013-05-03T09:19:17Z",
+    "updated_at": "2013-05-05T18:42:34Z",
     "public_gists": 5
   },
   {
@@ -4057,7 +4057,7 @@
     "followers": 83,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
-    "updated_at": "2013-05-05T08:30:54Z",
+    "updated_at": "2013-05-06T08:36:18Z",
     "public_gists": 24
   },
   {
@@ -4116,10 +4116,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 38,
-    "followers": 12,
+    "followers": 13,
     "following": 4,
     "created_at": "2009-09-28T11:16:06Z",
-    "updated_at": "2013-05-04T04:27:52Z",
+    "updated_at": "2013-05-06T10:17:48Z",
     "public_gists": 4
   },
   {
@@ -4305,7 +4305,7 @@
     "followers": 15,
     "following": 29,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-05-03T15:10:07Z",
+    "updated_at": "2013-05-06T07:36:00Z",
     "public_gists": 3
   },
   {
@@ -4336,7 +4336,7 @@
     "followers": 295,
     "following": 20,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-05-05T15:06:28Z",
+    "updated_at": "2013-05-06T16:45:40Z",
     "public_gists": 7
   },
   {
@@ -4367,7 +4367,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-05-03T06:52:41Z",
+    "updated_at": "2013-05-06T07:43:39Z",
     "public_gists": 0
   },
   {
@@ -4398,7 +4398,7 @@
     "followers": 2,
     "following": 0,
     "created_at": "2012-02-03T16:30:17Z",
-    "updated_at": "2013-05-05T12:54:12Z",
+    "updated_at": "2013-05-06T13:27:36Z",
     "public_gists": 3
   },
   {
@@ -4429,7 +4429,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-05-05T14:17:40Z",
+    "updated_at": "2013-05-06T10:05:32Z",
     "public_gists": 0
   },
   {
@@ -4584,7 +4584,7 @@
     "followers": 14,
     "following": 9,
     "created_at": "2010-01-25T01:04:27Z",
-    "updated_at": "2013-05-05T15:23:04Z",
+    "updated_at": "2013-05-06T13:36:17Z",
     "public_gists": 3
   }
 ]
