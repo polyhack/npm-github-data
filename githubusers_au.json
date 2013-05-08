@@ -23,11 +23,11 @@
     "email": "rod@vagg.org",
     "hireable": true,
     "bio": null,
-    "public_repos": 98,
-    "followers": 124,
+    "public_repos": 99,
+    "followers": 125,
     "following": 14,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-05-07T12:21:21Z",
+    "updated_at": "2013-05-08T10:41:18Z",
     "public_gists": 23
   },
   {
@@ -54,11 +54,11 @@
     "email": "damon.oehlman@gmail.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 195,
+    "public_repos": 196,
     "followers": 84,
     "following": 136,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-05-07T12:37:36Z",
+    "updated_at": "2013-05-08T12:46:15Z",
     "public_gists": 18
   },
   {
@@ -85,11 +85,11 @@
     "email": "christopher.giffard@cgiffard.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 34,
-    "followers": 35,
-    "following": 29,
+    "public_repos": 38,
+    "followers": 36,
+    "following": 30,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-05-07T13:24:54Z",
+    "updated_at": "2013-05-08T13:27:21Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 27,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-05-06T11:43:23Z",
+    "updated_at": "2013-05-08T12:22:53Z",
     "public_gists": 7
   },
   {
@@ -182,7 +182,7 @@
     "followers": 110,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-05-07T14:04:52Z",
+    "updated_at": "2013-05-08T13:30:28Z",
     "public_gists": 1
   },
   {
@@ -211,9 +211,9 @@
     "bio": "",
     "public_repos": 73,
     "followers": 20,
-    "following": 62,
+    "following": 63,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-05-07T05:56:52Z",
+    "updated_at": "2013-05-08T06:55:19Z",
     "public_gists": 6
   },
   {
@@ -242,9 +242,9 @@
     "bio": null,
     "public_repos": 59,
     "followers": 174,
-    "following": 29,
+    "following": 30,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-05-07T15:27:08Z",
+    "updated_at": "2013-05-08T14:21:58Z",
     "public_gists": 53
   },
   {
@@ -271,11 +271,11 @@
     "email": "deoxxa@fknsrs.biz",
     "hireable": false,
     "bio": null,
-    "public_repos": 104,
-    "followers": 68,
+    "public_repos": 105,
+    "followers": 70,
     "following": 40,
     "created_at": "2010-11-12T16:22:12Z",
-    "updated_at": "2013-05-07T10:29:05Z",
+    "updated_at": "2013-05-08T07:55:18Z",
     "public_gists": 106
   },
   {
@@ -302,11 +302,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 6,
+    "public_repos": 7,
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-07T06:59:55Z",
+    "updated_at": "2013-05-08T06:34:56Z",
     "public_gists": 0
   },
   {
@@ -335,7 +335,7 @@
     "bio": null,
     "public_repos": 57,
     "followers": 21,
-    "following": 17,
+    "following": 18,
     "created_at": "2010-12-21T06:43:12Z",
     "updated_at": "2013-05-07T03:25:18Z",
     "public_gists": 5
@@ -368,7 +368,7 @@
     "followers": 199,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-05-07T15:05:56Z",
+    "updated_at": "2013-05-08T15:02:37Z",
     "public_gists": 22
   },
   {
@@ -395,11 +395,11 @@
     "email": "zack@z0w0.me",
     "hireable": true,
     "bio": null,
-    "public_repos": 18,
+    "public_repos": 14,
     "followers": 11,
     "following": 9,
     "created_at": "2011-03-18T03:55:32Z",
-    "updated_at": "2013-05-07T13:53:30Z",
+    "updated_at": "2013-05-08T15:20:22Z",
     "public_gists": 18
   },
   {
@@ -430,7 +430,7 @@
     "followers": 4,
     "following": 1,
     "created_at": "2011-01-01T12:52:47Z",
-    "updated_at": "2013-05-07T11:08:49Z",
+    "updated_at": "2013-05-08T03:50:12Z",
     "public_gists": 6
   },
   {
@@ -461,7 +461,7 @@
     "followers": 11,
     "following": 74,
     "created_at": "2010-08-18T02:32:33Z",
-    "updated_at": "2013-05-07T08:01:11Z",
+    "updated_at": "2013-05-08T07:23:46Z",
     "public_gists": 6
   },
   {
@@ -523,8 +523,8 @@
     "followers": 345,
     "following": 98,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-05-07T12:49:24Z",
-    "public_gists": 90
+    "updated_at": "2013-05-08T15:27:32Z",
+    "public_gists": 91
   },
   {
     "login": "sebarmeli",
@@ -554,7 +554,7 @@
     "followers": 26,
     "following": 3,
     "created_at": "2010-08-23T07:05:33Z",
-    "updated_at": "2013-05-07T14:33:43Z",
+    "updated_at": "2013-05-07T19:16:21Z",
     "public_gists": 3
   },
   {
@@ -585,7 +585,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-07T05:21:04Z",
+    "updated_at": "2013-05-08T07:47:36Z",
     "public_gists": 0
   },
   {
@@ -616,7 +616,7 @@
     "followers": 32,
     "following": 40,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-05-07T08:26:49Z",
+    "updated_at": "2013-05-08T10:29:57Z",
     "public_gists": 2
   },
   {
@@ -647,7 +647,7 @@
     "followers": 54,
     "following": 0,
     "created_at": "2010-10-10T08:05:27Z",
-    "updated_at": "2013-05-07T04:34:55Z",
+    "updated_at": "2013-05-08T15:02:29Z",
     "public_gists": 59
   },
   {
@@ -674,11 +674,11 @@
     "email": "josephg@gmail.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 43,
+    "public_repos": 44,
     "followers": 136,
     "following": 6,
     "created_at": "2009-01-18T03:29:23Z",
-    "updated_at": "2013-05-07T14:50:33Z",
+    "updated_at": "2013-05-08T14:07:31Z",
     "public_gists": 28
   },
   {
@@ -740,7 +740,7 @@
     "followers": 29,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-05-06T00:58:46Z",
+    "updated_at": "2013-05-08T06:45:41Z",
     "public_gists": 4
   },
   {
@@ -802,7 +802,7 @@
     "followers": 243,
     "following": 25,
     "created_at": "2009-10-22T22:13:53Z",
-    "updated_at": "2013-05-07T00:37:55Z",
+    "updated_at": "2013-05-08T13:18:26Z",
     "public_gists": 16
   },
   {
@@ -833,7 +833,7 @@
     "followers": 7,
     "following": 7,
     "created_at": "2009-02-26T11:58:02Z",
-    "updated_at": "2013-05-07T06:57:50Z",
+    "updated_at": "2013-05-08T08:10:09Z",
     "public_gists": 3
   },
   {
@@ -862,9 +862,9 @@
     "bio": null,
     "public_repos": 25,
     "followers": 24,
-    "following": 36,
+    "following": 38,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-05-06T23:19:37Z",
+    "updated_at": "2013-05-08T02:36:50Z",
     "public_gists": 7
   },
   {
@@ -926,7 +926,7 @@
     "followers": 6,
     "following": 11,
     "created_at": "2012-02-09T16:32:29Z",
-    "updated_at": "2013-05-07T01:00:26Z",
+    "updated_at": "2013-05-08T01:23:07Z",
     "public_gists": 0
   },
   {
@@ -1019,7 +1019,7 @@
     "followers": 132,
     "following": 157,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-05-07T14:29:54Z",
+    "updated_at": "2013-05-08T09:59:22Z",
     "public_gists": 70
   },
   {
@@ -1050,7 +1050,7 @@
     "followers": 4,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-05-07T11:33:15Z",
+    "updated_at": "2013-05-08T08:41:18Z",
     "public_gists": 34
   },
   {
@@ -1081,7 +1081,7 @@
     "followers": 61,
     "following": 7,
     "created_at": "2009-12-28T01:52:44Z",
-    "updated_at": "2013-05-06T02:50:19Z",
+    "updated_at": "2013-05-07T23:56:02Z",
     "public_gists": 21
   },
   {
@@ -1112,7 +1112,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-05-07T14:02:50Z",
+    "updated_at": "2013-05-08T11:00:14Z",
     "public_gists": 0
   },
   {
@@ -1205,7 +1205,7 @@
     "followers": 3,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-05-07T07:33:31Z",
+    "updated_at": "2013-05-08T12:22:14Z",
     "public_gists": 0
   },
   {
@@ -1236,7 +1236,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-03-19T01:17:40Z",
-    "updated_at": "2013-05-07T07:48:36Z",
+    "updated_at": "2013-05-08T15:56:22Z",
     "public_gists": 0
   },
   {
@@ -1267,7 +1267,7 @@
     "followers": 10,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-05-07T07:28:03Z",
+    "updated_at": "2013-05-08T09:55:51Z",
     "public_gists": 62
   },
   {
@@ -1298,7 +1298,7 @@
     "followers": 58,
     "following": 33,
     "created_at": "2010-05-09T06:27:54Z",
-    "updated_at": "2013-05-07T05:35:58Z",
+    "updated_at": "2013-05-08T10:09:16Z",
     "public_gists": 85
   },
   {
@@ -1329,7 +1329,7 @@
     "followers": 59,
     "following": 82,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-05-07T05:06:54Z",
+    "updated_at": "2013-05-08T14:41:03Z",
     "public_gists": 23
   },
   {
@@ -1422,7 +1422,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2009-12-04T03:39:47Z",
-    "updated_at": "2013-05-03T16:12:33Z",
+    "updated_at": "2013-05-08T14:54:55Z",
     "public_gists": 0
   },
   {
@@ -1484,7 +1484,7 @@
     "followers": 17,
     "following": 28,
     "created_at": "2010-12-07T16:27:54Z",
-    "updated_at": "2013-05-06T17:36:02Z",
+    "updated_at": "2013-05-08T03:25:30Z",
     "public_gists": 5
   },
   {
@@ -1546,7 +1546,7 @@
     "followers": 1108,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-05-07T13:21:41Z",
+    "updated_at": "2013-05-08T09:39:02Z",
     "public_gists": 4
   },
   {
@@ -1608,7 +1608,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-05-07T09:12:52Z",
+    "updated_at": "2013-05-08T05:45:34Z",
     "public_gists": 0
   },
   {
@@ -1728,11 +1728,11 @@
     "email": "dev@jpillora.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 41,
+    "public_repos": 42,
     "followers": 3,
     "following": 15,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-05-07T12:29:11Z",
+    "updated_at": "2013-05-08T13:58:24Z",
     "public_gists": 10
   },
   {
@@ -1794,7 +1794,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-05-07T09:39:54Z",
+    "updated_at": "2013-05-08T13:29:34Z",
     "public_gists": 1
   },
   {
@@ -1852,11 +1852,11 @@
     "email": "gareth.jones@sensis.com.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 11,
+    "public_repos": 13,
     "followers": 19,
     "following": 4,
     "created_at": "2009-05-13T01:05:40Z",
-    "updated_at": "2013-05-07T03:57:24Z",
+    "updated_at": "2013-05-08T14:30:46Z",
     "public_gists": 1
   },
   {
@@ -1887,7 +1887,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-10-20T00:39:29Z",
-    "updated_at": "2013-05-07T00:32:15Z",
+    "updated_at": "2013-05-08T04:55:48Z",
     "public_gists": 0
   },
   {
@@ -1918,7 +1918,7 @@
     "followers": 2,
     "following": 0,
     "created_at": "2008-08-15T14:03:09Z",
-    "updated_at": "2013-05-07T12:54:03Z",
+    "updated_at": "2013-05-08T12:54:23Z",
     "public_gists": 2
   },
   {
@@ -2042,7 +2042,7 @@
     "followers": 14,
     "following": 17,
     "created_at": "2008-08-25T00:27:56Z",
-    "updated_at": "2013-05-05T15:38:23Z",
+    "updated_at": "2013-05-08T07:06:58Z",
     "public_gists": 37
   },
   {
@@ -2073,7 +2073,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-05-07T05:21:04Z",
+    "updated_at": "2013-05-08T07:47:36Z",
     "public_gists": 0
   },
   {
@@ -2135,7 +2135,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T10:24:12Z",
-    "updated_at": "2013-05-01T17:50:44Z",
+    "updated_at": "2013-05-07T18:47:21Z",
     "public_gists": 0
   },
   {
@@ -2166,7 +2166,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-05-07T03:52:39Z",
+    "updated_at": "2013-05-08T03:22:41Z",
     "public_gists": 0
   },
   {
@@ -2228,7 +2228,7 @@
     "followers": 0,
     "following": 4,
     "created_at": "2012-03-14T12:20:25Z",
-    "updated_at": "2013-05-07T07:38:35Z",
+    "updated_at": "2013-05-08T07:08:10Z",
     "public_gists": 0
   },
   {
@@ -2259,7 +2259,7 @@
     "followers": 7,
     "following": 4,
     "created_at": "2011-04-04T08:54:40Z",
-    "updated_at": "2013-05-07T13:30:55Z",
+    "updated_at": "2013-05-08T13:23:46Z",
     "public_gists": 0
   },
   {
@@ -2290,7 +2290,7 @@
     "followers": 8,
     "following": 16,
     "created_at": "2011-02-27T09:41:23Z",
-    "updated_at": "2013-05-07T10:35:40Z",
+    "updated_at": "2013-05-08T02:47:36Z",
     "public_gists": 4
   },
   {
@@ -2414,7 +2414,7 @@
     "followers": 319,
     "following": 43,
     "created_at": "2009-04-16T09:40:21Z",
-    "updated_at": "2013-05-07T12:14:59Z",
+    "updated_at": "2013-05-08T12:40:58Z",
     "public_gists": 30
   },
   {
@@ -2476,7 +2476,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-05-07T10:20:09Z",
+    "updated_at": "2013-05-08T10:13:09Z",
     "public_gists": 0
   },
   {
@@ -2507,7 +2507,7 @@
     "followers": 2,
     "following": 5,
     "created_at": "2009-05-14T00:09:30Z",
-    "updated_at": "2013-05-07T01:20:07Z",
+    "updated_at": "2013-05-08T06:42:10Z",
     "public_gists": 0
   },
   {
@@ -2538,7 +2538,7 @@
     "followers": 9,
     "following": 4,
     "created_at": "2010-02-22T11:28:23Z",
-    "updated_at": "2013-05-07T15:52:00Z",
+    "updated_at": "2013-05-08T11:31:11Z",
     "public_gists": 10
   },
   {
@@ -2569,7 +2569,7 @@
     "followers": 20,
     "following": 1,
     "created_at": "2011-04-07T01:16:01Z",
-    "updated_at": "2013-05-07T04:49:53Z",
+    "updated_at": "2013-05-08T07:12:15Z",
     "public_gists": 8
   },
   {
@@ -2631,7 +2631,7 @@
     "followers": 19,
     "following": 16,
     "created_at": "2009-03-01T12:40:35Z",
-    "updated_at": "2013-05-06T22:37:35Z",
+    "updated_at": "2013-05-08T07:52:29Z",
     "public_gists": 12
   },
   {
@@ -2693,7 +2693,7 @@
     "followers": 2,
     "following": 29,
     "created_at": "2010-03-17T23:15:40Z",
-    "updated_at": "2013-05-07T11:39:52Z",
+    "updated_at": "2013-05-08T08:12:16Z",
     "public_gists": 0
   },
   {
@@ -2752,10 +2752,10 @@
     "hireable": true,
     "bio": "A back-end developer, front-end developer, designer and manager hybrid.\r\n\r\nHave built the first website back in 1997, and started working in the IT industry since in high school.\r\n\r\nWorked in online publishing, marketing as well as web hosting before becoming a professional web developer and designer.\r\n\r\nHave been an active member of the open source community since then. Contributed to many projects including Ruby on Rails and Slim. For a full list of my contribution, please head over to http://fredwu.me/ and scroll to the bottom of the page.\r\n\r\nA developer who has strong focus on code craftsmanship, business values, UI, UX and most importantly, the user.\r\n\r\nPassionate is my keyword! ",
     "public_repos": 68,
-    "followers": 453,
+    "followers": 456,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-05-07T07:35:44Z",
+    "updated_at": "2013-05-08T09:27:48Z",
     "public_gists": 8
   },
   {
@@ -2786,7 +2786,7 @@
     "followers": 35,
     "following": 46,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-05-07T15:16:27Z",
+    "updated_at": "2013-05-08T13:40:30Z",
     "public_gists": 15
   },
   {
@@ -2906,11 +2906,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 6,
+    "public_repos": 7,
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-05-07T06:59:55Z",
+    "updated_at": "2013-05-08T06:34:56Z",
     "public_gists": 0
   },
   {
@@ -2941,7 +2941,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-31T02:23:59Z",
-    "updated_at": "2013-05-07T14:34:57Z",
+    "updated_at": "2013-05-08T13:04:40Z",
     "public_gists": 0
   },
   {
@@ -2972,7 +2972,7 @@
     "followers": 13,
     "following": 24,
     "created_at": "2010-06-11T11:40:03Z",
-    "updated_at": "2013-05-06T09:59:12Z",
+    "updated_at": "2013-05-07T23:48:06Z",
     "public_gists": 47
   },
   {
@@ -3124,10 +3124,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 28,
-    "followers": 36,
+    "followers": 39,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-05-07T13:10:56Z",
+    "updated_at": "2013-05-08T16:35:16Z",
     "public_gists": 55
   },
   {
@@ -3158,7 +3158,7 @@
     "followers": 33,
     "following": 56,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-05-07T04:22:29Z",
+    "updated_at": "2013-05-08T12:15:15Z",
     "public_gists": 55
   },
   {
@@ -3309,11 +3309,11 @@
     "email": "david@goodlad.net",
     "hireable": false,
     "bio": null,
-    "public_repos": 50,
+    "public_repos": 51,
     "followers": 23,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-05-07T08:16:33Z",
+    "updated_at": "2013-05-08T15:51:01Z",
     "public_gists": 8
   },
   {
@@ -3344,7 +3344,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2009-10-06T20:26:46Z",
-    "updated_at": "2013-05-07T02:41:41Z",
+    "updated_at": "2013-05-07T23:34:24Z",
     "public_gists": 3
   },
   {
@@ -3375,7 +3375,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-05-07T14:29:54Z",
+    "updated_at": "2013-05-08T15:23:26Z",
     "public_gists": 0
   },
   {
@@ -3623,7 +3623,7 @@
     "followers": 3,
     "following": 1,
     "created_at": "2010-05-05T00:50:42Z",
-    "updated_at": "2013-05-07T13:10:20Z",
+    "updated_at": "2013-05-08T13:39:27Z",
     "public_gists": 7
   },
   {
@@ -3654,7 +3654,7 @@
     "followers": 210,
     "following": 209,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-05-06T04:09:00Z",
+    "updated_at": "2013-05-08T12:23:10Z",
     "public_gists": 113
   },
   {
@@ -3716,7 +3716,7 @@
     "followers": 5,
     "following": 1,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-05-07T03:51:09Z",
+    "updated_at": "2013-05-08T08:45:44Z",
     "public_gists": 0
   },
   {
@@ -3747,7 +3747,7 @@
     "followers": 4,
     "following": 11,
     "created_at": "2011-02-24T21:20:15Z",
-    "updated_at": "2013-04-30T06:42:56Z",
+    "updated_at": "2013-05-08T07:18:15Z",
     "public_gists": 0
   },
   {
@@ -3840,7 +3840,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2008-06-03T00:46:58Z",
-    "updated_at": "2013-05-07T06:43:29Z",
+    "updated_at": "2013-05-08T12:37:09Z",
     "public_gists": 10
   },
   {
@@ -3902,7 +3902,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2012-02-29T04:15:49Z",
-    "updated_at": "2013-05-06T23:55:20Z",
+    "updated_at": "2013-05-08T07:35:10Z",
     "public_gists": 0
   },
   {
@@ -4027,7 +4027,7 @@
     "following": 6,
     "created_at": "2010-10-27T14:43:20Z",
     "updated_at": "2013-05-05T18:42:34Z",
-    "public_gists": 5
+    "public_gists": 6
   },
   {
     "login": "dhotson",
@@ -4057,7 +4057,7 @@
     "followers": 83,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
-    "updated_at": "2013-05-07T15:29:06Z",
+    "updated_at": "2013-05-08T12:07:33Z",
     "public_gists": 24
   },
   {
@@ -4305,7 +4305,7 @@
     "followers": 15,
     "following": 29,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-05-07T07:37:45Z",
+    "updated_at": "2013-05-08T16:12:13Z",
     "public_gists": 3
   },
   {
@@ -4336,7 +4336,7 @@
     "followers": 298,
     "following": 21,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-05-07T16:04:48Z",
+    "updated_at": "2013-05-08T17:06:23Z",
     "public_gists": 7
   },
   {
@@ -4367,7 +4367,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-05-07T07:46:48Z",
+    "updated_at": "2013-05-08T09:25:44Z",
     "public_gists": 0
   },
   {
@@ -4398,7 +4398,7 @@
     "followers": 2,
     "following": 0,
     "created_at": "2012-02-03T16:30:17Z",
-    "updated_at": "2013-05-07T13:31:52Z",
+    "updated_at": "2013-05-08T12:59:34Z",
     "public_gists": 3
   },
   {
@@ -4429,38 +4429,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-05-07T08:28:32Z",
-    "public_gists": 0
-  },
-  {
-    "login": "davekinkead",
-    "id": 611877,
-    "avatar_url": "https://secure.gravatar.com/avatar/6ee4ce46deafee68da8ae793f7f10add?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "6ee4ce46deafee68da8ae793f7f10add",
-    "url": "https://api.github.com/users/davekinkead",
-    "html_url": "https://github.com/davekinkead",
-    "followers_url": "https://api.github.com/users/davekinkead/followers",
-    "following_url": "https://api.github.com/users/davekinkead/following{/other_user}",
-    "gists_url": "https://api.github.com/users/davekinkead/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/davekinkead/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/davekinkead/subscriptions",
-    "organizations_url": "https://api.github.com/users/davekinkead/orgs",
-    "repos_url": "https://api.github.com/users/davekinkead/repos",
-    "events_url": "https://api.github.com/users/davekinkead/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/davekinkead/received_events",
-    "type": "User",
-    "name": "Dave Kinkead",
-    "company": null,
-    "blog": "http://dave.kinkead.com.au",
-    "location": "Brisbane, AU",
-    "email": "dave@kinkead.com.au",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 19,
-    "followers": 1,
-    "following": 2,
-    "created_at": "2011-02-10T23:44:47Z",
-    "updated_at": "2013-05-02T02:45:45Z",
+    "updated_at": "2013-05-08T14:23:48Z",
     "public_gists": 0
   },
   {
@@ -4549,11 +4518,11 @@
     "email": "matt@palmer.im",
     "hireable": true,
     "bio": null,
-    "public_repos": 34,
+    "public_repos": 35,
     "followers": 4,
     "following": 27,
     "created_at": "2012-07-03T10:05:08Z",
-    "updated_at": "2013-05-05T10:54:34Z",
+    "updated_at": "2013-05-08T10:43:12Z",
     "public_gists": 16
   },
   {
@@ -4584,7 +4553,69 @@
     "followers": 15,
     "following": 9,
     "created_at": "2010-01-25T01:04:27Z",
-    "updated_at": "2013-05-07T10:31:25Z",
+    "updated_at": "2013-05-08T12:28:44Z",
     "public_gists": 3
+  },
+  {
+    "login": "RallySoftware",
+    "id": 1316658,
+    "avatar_url": "https://secure.gravatar.com/avatar/e28538798d1a99642ce9d0ee5f20d0c9?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
+    "gravatar_id": "e28538798d1a99642ce9d0ee5f20d0c9",
+    "url": "https://api.github.com/users/RallySoftware",
+    "html_url": "https://github.com/RallySoftware",
+    "followers_url": "https://api.github.com/users/RallySoftware/followers",
+    "following_url": "https://api.github.com/users/RallySoftware/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RallySoftware/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RallySoftware/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RallySoftware/subscriptions",
+    "organizations_url": "https://api.github.com/users/RallySoftware/orgs",
+    "repos_url": "https://api.github.com/users/RallySoftware/repos",
+    "events_url": "https://api.github.com/users/RallySoftware/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RallySoftware/received_events",
+    "type": "Organization",
+    "name": "Rally Software",
+    "company": null,
+    "blog": "http://www.rallydev.com/",
+    "location": "Boulder, CO; Raleigh, NC; London, UK; and Melbourne, Australia",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "public_repos": 32,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2012-01-09T22:17:38Z",
+    "updated_at": "2013-05-08T17:10:31Z",
+    "public_gists": 0
+  },
+  {
+    "login": "pollen-digital",
+    "id": 1582478,
+    "avatar_url": "https://secure.gravatar.com/avatar/eb21ab33c37db6e3284b01e3d57c9e8c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
+    "gravatar_id": "eb21ab33c37db6e3284b01e3d57c9e8c",
+    "url": "https://api.github.com/users/pollen-digital",
+    "html_url": "https://github.com/pollen-digital",
+    "followers_url": "https://api.github.com/users/pollen-digital/followers",
+    "following_url": "https://api.github.com/users/pollen-digital/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pollen-digital/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pollen-digital/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pollen-digital/subscriptions",
+    "organizations_url": "https://api.github.com/users/pollen-digital/orgs",
+    "repos_url": "https://api.github.com/users/pollen-digital/repos",
+    "events_url": "https://api.github.com/users/pollen-digital/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pollen-digital/received_events",
+    "type": "Organization",
+    "name": "Pollen",
+    "company": null,
+    "blog": "www.pollen.com.au",
+    "location": "Sydney Australia",
+    "email": null,
+    "hireable": null,
+    "bio": null,
+    "public_repos": 1,
+    "followers": 0,
+    "following": 0,
+    "created_at": "2012-03-28T07:20:32Z",
+    "updated_at": "2013-05-08T05:13:40Z",
+    "public_gists": 0
   }
 ]
