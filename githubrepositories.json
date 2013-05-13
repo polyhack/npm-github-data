@@ -117455,6 +117455,11 @@
     "npmPackage": "walk-dag"
   },
   {
+    "githubUser": "presenter",
+    "githubRepo": "enyo-depends",
+    "npmPackage": "enyo-depends"
+  },
+  {
     "githubUser": "KenanY",
     "githubRepo": "isInteger",
     "npmPackage": "isinteger-component"
@@ -117498,6 +117503,11 @@
     "githubUser": "goatslacker",
     "githubRepo": "instabio",
     "npmPackage": "instabio"
+  },
+  {
+    "githubUser": "jf7",
+    "githubRepo": "man",
+    "npmPackage": "man"
   },
   {
     "githubUser": "tco",
@@ -118268,5 +118278,200 @@
     "githubUser": "kesla",
     "githubRepo": "mit",
     "npmPackage": "mit"
+  },
+  {
+    "githubUser": "OrfeasZ",
+    "githubRepo": "node-binutils-hiperf",
+    "npmPackage": "binutils-hiperf"
+  },
+  {
+    "githubUser": "ifraixedes",
+    "githubRepo": "wirexroutes",
+    "npmPackage": "wirexroutes"
+  },
+  {
+    "githubUser": "queckezz",
+    "githubRepo": "component-roole",
+    "npmPackage": "component-roole"
+  },
+  {
+    "githubUser": "MikeMcl",
+    "githubRepo": "big",
+    "npmPackage": "big.js"
+  },
+  {
+    "githubUser": "triplem",
+    "githubRepo": "mongoskin-slug",
+    "npmPackage": "mongoskin-slug"
+  },
+  {
+    "githubUser": "Boxee",
+    "githubRepo": "mkimage-server",
+    "npmPackage": "mkimage-server"
+  },
+  {
+    "githubUser": "askabt",
+    "githubRepo": "andthen",
+    "npmPackage": "and-then"
+  },
+  {
+    "githubUser": "Setheck",
+    "githubRepo": "safeconfig",
+    "npmPackage": "safeconfig"
+  },
+  {
+    "githubUser": "jeromegn",
+    "githubRepo": "Backbone",
+    "npmPackage": "backbone.localstorage"
+  },
+  {
+    "githubUser": "mikolalysenko",
+    "githubRepo": "ndarray-fft",
+    "npmPackage": "ndarray-fft"
+  },
+  {
+    "githubUser": "bloglovin",
+    "githubRepo": "mcl",
+    "npmPackage": "mcl"
+  },
+  {
+    "githubUser": "shane-tomlinson",
+    "githubRepo": "connect-fonts-lora",
+    "npmPackage": "connect-fonts-lora"
+  },
+  {
+    "githubUser": "jrief",
+    "githubRepo": "angular-retina",
+    "npmPackage": "angular-retina"
+  },
+  {
+    "githubUser": "vacay",
+    "githubRepo": "kue",
+    "npmPackage": "vacay-kue"
+  },
+  {
+    "githubUser": "vacay",
+    "githubRepo": "node-beatport",
+    "npmPackage": "vacay-beatport"
+  },
+  {
+    "githubUser": "crcn",
+    "githubRepo": "browsertap-cli",
+    "npmPackage": "browsertap"
+  },
+  {
+    "githubUser": "joliss",
+    "githubRepo": "js-string-escape",
+    "npmPackage": "js-string-escape"
+  },
+  {
+    "githubUser": "crcn",
+    "githubRepo": "eyebrowse",
+    "npmPackage": "eyebrowse"
+  },
+  {
+    "githubUser": "isnovid",
+    "githubRepo": "isa",
+    "npmPackage": "isnovid.isa"
+  },
+  {
+    "githubUser": "isnovid",
+    "githubRepo": "merge",
+    "npmPackage": "isnovid.merge"
+  },
+  {
+    "githubUser": "isnovid",
+    "githubRepo": "clone",
+    "npmPackage": "isnovid.clone"
+  },
+  {
+    "githubUser": "kapouer",
+    "githubRepo": "marked-man",
+    "npmPackage": "marked-man"
+  },
+  {
+    "githubUser": "mccormicka",
+    "githubRepo": "Mockgoose",
+    "npmPackage": "mockgoose"
+  },
+  {
+    "githubUser": "askmike",
+    "githubRepo": "gekko",
+    "npmPackage": "gekko"
+  },
+  {
+    "githubUser": "jenius",
+    "githubRepo": "fresher",
+    "npmPackage": "fresher"
+  },
+  {
+    "githubUser": "azer",
+    "githubRepo": "read-json",
+    "npmPackage": "read-json"
+  },
+  {
+    "githubUser": "kevinbeaty",
+    "githubRepo": "oneself",
+    "npmPackage": "oneself"
+  },
+  {
+    "githubUser": "kfranqueiro",
+    "githubRepo": "node-irssi-log-parser",
+    "npmPackage": "node-irssi-log-parser"
+  },
+  {
+    "githubUser": "jarofghosts",
+    "githubRepo": "uncanny",
+    "npmPackage": "uncanny"
+  },
+  {
+    "githubUser": "hbouvier",
+    "githubRepo": "node-network-monitor",
+    "npmPackage": "node-network-monitor"
+  },
+  {
+    "githubUser": "deoxxa",
+    "githubRepo": "leg",
+    "npmPackage": "leg"
+  },
+  {
+    "githubUser": "bahamas10",
+    "githubRepo": "fskv-client",
+    "npmPackage": "fskv-client"
+  },
+  {
+    "githubUser": "chrisocast",
+    "githubRepo": "grunt-faker",
+    "npmPackage": "grunt-faker"
+  },
+  {
+    "githubUser": "balderdashy",
+    "githubRepo": "sails-irc",
+    "npmPackage": "sails-irc"
+  },
+  {
+    "githubUser": "azer",
+    "githubRepo": "door",
+    "npmPackage": "door"
+  },
+  {
+    "githubUser": "polyhack",
+    "githubRepo": "npm-maintainers",
+    "npmPackage": "npm-maintainers"
+  },
+  {
+    "githubUser": "polyhack",
+    "githubRepo": "npm-maintainers-au",
+    "npmPackage": "npm-maintainers-au"
+  },
+  {
+    "githubUser": "xdissent",
+    "githubRepo": "node-pcm-utils",
+    "npmPackage": "pcm-utils"
+  },
+  {
+    "githubUser": "suckgamoni",
+    "githubRepo": "fromjs",
+    "npmPackage": "fromjs"
   }
 ]
