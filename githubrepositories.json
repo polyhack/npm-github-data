@@ -38880,7 +38880,7 @@
     "npmPackage": "grunt-bumpx"
   },
   {
-    "githubUser": "thedersen",
+    "githubUser": "busterjs",
     "githubRepo": "grunt-buster",
     "npmPackage": "grunt-buster"
   },
@@ -118473,5 +118473,95 @@
     "githubUser": "suckgamoni",
     "githubRepo": "fromjs",
     "npmPackage": "fromjs"
+  },
+  {
+    "githubUser": "xcambar",
+    "githubRepo": "huggybear",
+    "npmPackage": "huggybear"
+  },
+  {
+    "githubUser": "thomax",
+    "githubRepo": "ascii-animator",
+    "npmPackage": "ascii-animator"
+  },
+  {
+    "githubUser": "Topface",
+    "githubRepo": "node-replicate-http",
+    "npmPackage": "replicate-http"
+  },
+  {
+    "githubUser": "markwillis82",
+    "githubRepo": "passport-socket",
+    "npmPackage": "passport.socket.io"
+  },
+  {
+    "githubUser": "jden",
+    "githubRepo": "npdx",
+    "npmPackage": "npdx"
+  },
+  {
+    "githubUser": "nharbour",
+    "githubRepo": "byteup",
+    "npmPackage": "byteup"
+  },
+  {
+    "githubUser": "michaelnisi",
+    "githubRepo": "starget",
+    "npmPackage": "starget"
+  },
+  {
+    "githubUser": "documentcloud",
+    "githubRepo": "underscore-contrib",
+    "npmPackage": "underscore-contrib"
+  },
+  {
+    "githubUser": "minsh",
+    "githubRepo": "fancypants",
+    "npmPackage": "fancypants.user.geo"
+  },
+  {
+    "githubUser": "richmarr",
+    "githubRepo": "solo",
+    "npmPackage": "node-solo"
+  },
+  {
+    "githubUser": "nadav-dav",
+    "githubRepo": "EasyPattern",
+    "npmPackage": "easypattern"
+  },
+  {
+    "githubUser": "grimen",
+    "githubRepo": "node-document-api",
+    "npmPackage": "node-document-api"
+  },
+  {
+    "githubUser": "markselby",
+    "githubRepo": "node-db-pool",
+    "npmPackage": "db-pool"
+  },
+  {
+    "githubUser": "BagosGiAr",
+    "githubRepo": "TubeJS",
+    "npmPackage": "tubejs"
+  },
+  {
+    "githubUser": "rranauro",
+    "githubRepo": "js-lookup",
+    "npmPackage": "js-lookup"
+  },
+  {
+    "githubUser": "devan5",
+    "githubRepo": "dances",
+    "npmPackage": "dances"
+  },
+  {
+    "githubUser": "filshmedia",
+    "githubRepo": "acetic",
+    "npmPackage": "acetic"
+  },
+  {
+    "githubUser": "devan5",
+    "githubRepo": "dances",
+    "npmPackage": "dances.js"
   }
 ]
