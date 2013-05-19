@@ -8735,7 +8735,7 @@
     "npmPackage": "bormat"
   },
   {
-    "githubUser": "veged",
+    "githubUser": "bem",
     "githubRepo": "borschik",
     "npmPackage": "borschik"
   },
@@ -43420,7 +43420,7 @@
     "npmPackage": "helmet"
   },
   {
-    "githubUser": "sislab",
+    "githubUser": "melkior",
     "githubRepo": "helper",
     "npmPackage": "helper"
   },
@@ -55255,8 +55255,8 @@
     "npmPackage": "lev"
   },
   {
-    "githubUser": "rvagg",
-    "githubRepo": "node-level",
+    "githubUser": "Level",
+    "githubRepo": "level",
     "npmPackage": "level"
   },
   {
@@ -69983,6 +69983,11 @@
     "githubUser": "Kenshin",
     "githubRepo": "node-xml2json",
     "npmPackage": "node-xml2json"
+  },
+  {
+    "githubUser": "astro",
+    "githubRepo": "node-xmpp",
+    "npmPackage": "node-xmpp"
   },
   {
     "githubUser": "Eagull",
@@ -89395,7 +89400,7 @@
     "npmPackage": "sealegs"
   },
   {
-    "githubUser": "sislab",
+    "githubUser": "melkior",
     "githubRepo": "seance",
     "npmPackage": "seance"
   },
@@ -93705,7 +93710,7 @@
     "npmPackage": "socketful"
   },
   {
-    "githubUser": "sockethub",
+    "githubUser": "sockcwethub",
     "githubRepo": "sockethub",
     "npmPackage": "sockethub"
   },
@@ -100180,7 +100185,7 @@
     "npmPackage": "template-clone"
   },
   {
-    "githubUser": "aui",
+    "githubUser": "cdc-im",
     "githubRepo": "atc",
     "npmPackage": "template-compiler"
   },
@@ -104601,7 +104606,7 @@
   },
   {
     "githubUser": "mishoo",
-    "githubRepo": "UglifyJS",
+    "githubRepo": "UglifyJS2",
     "npmPackage": "uglify-js"
   },
   {
@@ -106373,6 +106378,11 @@
     "githubUser": "jasperla",
     "githubRepo": "node-vcard",
     "npmPackage": "vcard"
+  },
+  {
+    "githubUser": "woutervroege",
+    "githubRepo": "node-vcardparser",
+    "npmPackage": "vcardparser"
   },
   {
     "githubUser": "comoyo",
@@ -110453,6 +110463,11 @@
     "githubUser": "pwnall",
     "githubRepo": "xhr2",
     "npmPackage": "xhr2"
+  },
+  {
+    "githubUser": "steveukx",
+    "githubRepo": "xhrequest",
+    "npmPackage": "xhrequest"
   },
   {
     "githubUser": "theangryangel",
@@ -120403,5 +120418,275 @@
     "githubUser": "ttaubert",
     "githubRepo": "consequence-js",
     "npmPackage": "consequence"
+  },
+  {
+    "githubUser": "snffcnt",
+    "githubRepo": "externalized-config",
+    "npmPackage": "externalized-config"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "tmp-stream",
+    "npmPackage": "tmp-stream"
+  },
+  {
+    "githubUser": "jriecken",
+    "githubRepo": "dependency-graph",
+    "npmPackage": "dependency-graph"
+  },
+  {
+    "githubUser": "acerix",
+    "githubRepo": "rational",
+    "npmPackage": "bigrat"
+  },
+  {
+    "githubUser": "petersirka",
+    "githubRepo": "node-mongolab",
+    "npmPackage": "mongolab-provider"
+  },
+  {
+    "githubUser": "gammasoft",
+    "githubRepo": "ie",
+    "npmPackage": "inscricaoestadual"
+  },
+  {
+    "githubUser": "jamesarosen",
+    "githubRepo": "ember-i18n",
+    "npmPackage": "ember-i18n"
+  },
+  {
+    "githubUser": "tomlane",
+    "githubRepo": "generator-yui",
+    "npmPackage": "generator-yui"
+  },
+  {
+    "githubUser": "jansepar",
+    "githubRepo": "node-jenkins-api",
+    "npmPackage": "jenkins-api"
+  },
+  {
+    "githubUser": "JoshRagem",
+    "githubRepo": "QCNode",
+    "npmPackage": "qcnode"
+  },
+  {
+    "githubUser": "doug-martin",
+    "githubRepo": "inflect-extended",
+    "npmPackage": "inflection-extended"
+  },
+  {
+    "githubUser": "curious-attempt-bunny",
+    "githubRepo": "npm-package-latest",
+    "npmPackage": "npm-package-latest"
+  },
+  {
+    "githubUser": "badunk",
+    "githubRepo": "bower-license",
+    "npmPackage": "bower-license"
+  },
+  {
+    "githubUser": "mtabini",
+    "githubRepo": "huxtable",
+    "npmPackage": "huxtable"
+  },
+  {
+    "githubUser": "symfio",
+    "githubRepo": "symfio-contrib-nconf",
+    "npmPackage": "symfio-contrib-nconf"
+  },
+  {
+    "githubUser": "dionjwa",
+    "githubRepo": "catapult",
+    "npmPackage": "catapult"
+  },
+  {
+    "githubUser": "davglass",
+    "githubRepo": "license-checker",
+    "npmPackage": "npm-license"
+  },
+  {
+    "githubUser": "jamescostian",
+    "githubRepo": "irc-web-sockets-client",
+    "npmPackage": "irc-web-socket-client"
+  },
+  {
+    "githubUser": "jaz303",
+    "githubRepo": "bag",
+    "npmPackage": "bag"
+  },
+  {
+    "githubUser": "arei",
+    "githubRepo": "npmbox",
+    "npmPackage": "npmbox"
+  },
+  {
+    "githubUser": "shinuza",
+    "githubRepo": "polymer-bootstrap",
+    "npmPackage": "polymer-bootstrap"
+  },
+  {
+    "githubUser": "h2oloopan",
+    "githubRepo": "alke",
+    "npmPackage": "alke"
+  },
+  {
+    "githubUser": "jamescostian",
+    "githubRepo": "irc-web-sockets-bot",
+    "npmPackage": "irc-web-socket-bot"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "pull-switch",
+    "npmPackage": "pull-switch"
+  },
+  {
+    "githubUser": "liamondrop",
+    "githubRepo": "simple-hogan",
+    "npmPackage": "simple-hogan"
+  },
+  {
+    "githubUser": "shripadk",
+    "githubRepo": "node-bips",
+    "npmPackage": "bips"
+  },
+  {
+    "githubUser": "CoryG89",
+    "githubRepo": "markedejs",
+    "npmPackage": "markedejs"
+  },
+  {
+    "githubUser": "jamescostian",
+    "githubRepo": "irc-web-sockets-server",
+    "npmPackage": "irc-web-socket-server"
+  },
+  {
+    "githubUser": "riga",
+    "githubRepo": "jclass",
+    "npmPackage": "jclass"
+  },
+  {
+    "githubUser": "strongloop",
+    "githubRepo": "sl-mq",
+    "npmPackage": "sl-mq"
+  },
+  {
+    "githubUser": "curious-attempt-bunny",
+    "githubRepo": "module-driven",
+    "npmPackage": "module-driven"
+  },
+  {
+    "githubUser": "bpostlethwaite",
+    "githubRepo": "checkmates",
+    "npmPackage": "checkmates"
+  },
+  {
+    "githubUser": "doug-martin",
+    "githubRepo": "number-extended",
+    "npmPackage": "number-extended"
+  },
+  {
+    "githubUser": "kaelzhang",
+    "githubRepo": "grunt-cortex-validator",
+    "npmPackage": "grunt-cortex-validator"
+  },
+  {
+    "githubUser": "stomita",
+    "githubRepo": "mustang",
+    "npmPackage": "mustang"
+  },
+  {
+    "githubUser": "alanshaw",
+    "githubRepo": "grunt-markdown-pdf",
+    "npmPackage": "grunt-markdown-pdf"
+  },
+  {
+    "githubUser": "jaz303",
+    "githubRepo": "gapbuffer",
+    "npmPackage": "gapbuffer"
+  },
+  {
+    "githubUser": "kaelzhang",
+    "githubRepo": "npmw",
+    "npmPackage": "npmw"
+  },
+  {
+    "githubUser": "kaelzhang",
+    "githubRepo": "grunt-cortex-validate",
+    "npmPackage": "grunt-cortex-validate"
+  },
+  {
+    "githubUser": "chrisekelley",
+    "githubRepo": "voxel-label",
+    "npmPackage": "voxel-label"
+  },
+  {
+    "githubUser": "ajlopez",
+    "githubRepo": "Eternity",
+    "npmPackage": "eternity"
+  },
+  {
+    "githubUser": "halfblood369",
+    "githubRepo": "doxTemplate",
+    "npmPackage": "doxmake"
+  },
+  {
+    "githubUser": "tasogarepg",
+    "githubRepo": "hdoc",
+    "npmPackage": "hdoc"
+  },
+  {
+    "githubUser": "l20n",
+    "githubRepo": "l20n",
+    "npmPackage": "l20n"
+  },
+  {
+    "githubUser": "steveukx",
+    "githubRepo": "session-middleware",
+    "npmPackage": "session-middleware"
+  },
+  {
+    "githubUser": "JacksonTian",
+    "githubRepo": "re-captcha",
+    "npmPackage": "re-captcha"
+  },
+  {
+    "githubUser": "memolog",
+    "githubRepo": "grunt-bulk-symlink",
+    "npmPackage": "grunt-bulk-symlink"
+  },
+  {
+    "githubUser": "JamieMason",
+    "githubRepo": "grunt-imageoptim",
+    "npmPackage": "grunt-imageoptim"
+  },
+  {
+    "githubUser": "queckezz",
+    "githubRepo": "component-engine",
+    "npmPackage": "component-engine"
+  },
+  {
+    "githubUser": "Wolfy87",
+    "githubRepo": "tarmac",
+    "npmPackage": "tarmac"
+  },
+  {
+    "githubUser": "matthewp",
+    "githubRepo": "webcomponent-pack",
+    "npmPackage": "wcpack"
+  },
+  {
+    "githubUser": "clear",
+    "githubRepo": "platos-model",
+    "npmPackage": "platos-model"
+  },
+  {
+    "githubUser": "gammasoft",
+    "githubRepo": "brasil",
+    "npmPackage": "brasil"
+  },
+  {
+    "githubUser": "mu574n6",
+    "githubRepo": "generator-pix",
+    "npmPackage": "generator-pix"
   }
 ]
