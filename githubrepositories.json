@@ -30815,6 +30815,11 @@
     "npmPackage": "factory-boy"
   },
   {
+    "githubUser": "davidgovea",
+    "githubRepo": "factory-castrado",
+    "npmPackage": "factory-castrado"
+  },
+  {
     "githubUser": "petejkim",
     "githubRepo": "factory-lady",
     "npmPackage": "factory-lady"
@@ -54335,6 +54340,11 @@
     "npmPackage": "Lactate"
   },
   {
+    "githubUser": "yawnt",
+    "githubRepo": "ladder",
+    "npmPackage": "ladder"
+  },
+  {
     "githubUser": "ypocat",
     "githubRepo": "laeh",
     "npmPackage": "laeh"
@@ -54421,7 +54431,7 @@
   },
   {
     "githubUser": "skaterdav85",
-    "githubRepo": "Validator",
+    "githubRepo": "validatorjs",
     "npmPackage": "laravel-validator-for-js"
   },
   {
@@ -65865,6 +65875,11 @@
     "npmPackage": "network-address"
   },
   {
+    "githubUser": "mattcg",
+    "githubRepo": "network-byte-order",
+    "npmPackage": "network-byte-order"
+  },
+  {
     "githubUser": "ecto",
     "githubRepo": "neural",
     "npmPackage": "neural"
@@ -66223,6 +66238,11 @@
     "githubUser": "btford",
     "githubRepo": "ngmin",
     "npmPackage": "ngmin"
+  },
+  {
+    "githubUser": "thinkfirst",
+    "githubRepo": "NGN",
+    "npmPackage": "ngn"
   },
   {
     "githubUser": "coreybutler",
@@ -86940,8 +86960,8 @@
     "npmPackage": "ripple"
   },
   {
-    "githubUser": "jedmccaleb",
-    "githubRepo": "NewCoin",
+    "githubUser": "rippleFoundation",
+    "githubRepo": "ripple-lib",
     "npmPackage": "ripple-lib"
   },
   {
@@ -90040,7 +90060,7 @@
     "npmPackage": "seq-queue"
   },
   {
-    "githubUser": "sdepold",
+    "githubUser": "sequelize",
     "githubRepo": "sequelize",
     "npmPackage": "sequelize"
   },
@@ -93840,6 +93860,21 @@
     "npmPackage": "socks"
   },
   {
+    "githubUser": "mattcg",
+    "githubRepo": "socks5-client",
+    "npmPackage": "socks5-client"
+  },
+  {
+    "githubUser": "mattcg",
+    "githubRepo": "socks5-http-client",
+    "npmPackage": "socks5-http-client"
+  },
+  {
+    "githubUser": "mattcg",
+    "githubRepo": "socks5-https-client",
+    "npmPackage": "socks5-https-client"
+  },
+  {
     "githubUser": "vially",
     "githubRepo": "node-socksified",
     "npmPackage": "socksified"
@@ -96050,6 +96085,11 @@
     "npmPackage": "startpoint"
   },
   {
+    "githubUser": "mattcg",
+    "githubRepo": "starttls",
+    "npmPackage": "starttls"
+  },
+  {
     "githubUser": "CamShaft",
     "githubRepo": "startup",
     "npmPackage": "startup"
@@ -96838,6 +96878,11 @@
     "githubUser": "ForbesLindesay",
     "githubRepo": "stop",
     "npmPackage": "stop"
+  },
+  {
+    "githubUser": "mattcg",
+    "githubRepo": "stopImmediatePropagation",
+    "npmPackage": "stopimmediatepropagation"
   },
   {
     "githubUser": "emerleite",
@@ -112651,7 +112696,7 @@
   },
   {
     "githubUser": "totorojs",
-    "githubRepo": "totoro-linter",
+    "githubRepo": "catbus",
     "npmPackage": "catbus"
   },
   {
@@ -113683,6 +113728,11 @@
     "githubUser": "blacksea",
     "githubRepo": "tele",
     "npmPackage": "tele"
+  },
+  {
+    "githubUser": "mattcg",
+    "githubRepo": "css3-translate",
+    "npmPackage": "css3-translate"
   },
   {
     "githubUser": "mikeal",
@@ -117728,6 +117778,11 @@
     "githubUser": "klclee",
     "githubRepo": "epsomjs",
     "npmPackage": "epsom"
+  },
+  {
+    "githubUser": "observing",
+    "githubRepo": "leverage",
+    "npmPackage": "leverage"
   },
   {
     "githubUser": "yi",
@@ -122198,5 +122253,370 @@
     "githubUser": "eliias",
     "githubRepo": "grunt-docco",
     "npmPackage": "grunt-docco2"
+  },
+  {
+    "githubUser": "jclem",
+    "githubRepo": "grunt-simple-templates",
+    "npmPackage": "grunt-simple-templates"
+  },
+  {
+    "githubUser": "mudge",
+    "githubRepo": "pacta",
+    "npmPackage": "pacta"
+  },
+  {
+    "githubUser": "amazingSurge",
+    "githubRepo": "node-logable",
+    "npmPackage": "logable"
+  },
+  {
+    "githubUser": "sheknows",
+    "githubRepo": "passport-sheknows",
+    "npmPackage": "passport-sheknows"
+  },
+  {
+    "githubUser": "FutureAdLabs",
+    "githubRepo": "redis-sentinel",
+    "npmPackage": "redis-watchtower"
+  },
+  {
+    "githubUser": "schteppe",
+    "githubRepo": "p2",
+    "npmPackage": "p2"
+  },
+  {
+    "githubUser": "jeffbski",
+    "githubRepo": "react-q",
+    "npmPackage": "react-q"
+  },
+  {
+    "githubUser": "finalclass",
+    "githubRepo": "marknow",
+    "npmPackage": "marknow"
+  },
+  {
+    "githubUser": "mcwhittemore",
+    "githubRepo": "ejs-layouts",
+    "npmPackage": "ejs-layouts"
+  },
+  {
+    "githubUser": "askmike",
+    "githubRepo": "bitstamp",
+    "npmPackage": "bitstamp"
+  },
+  {
+    "githubUser": "brainling",
+    "githubRepo": "cpuid-node",
+    "npmPackage": "cpuid"
+  },
+  {
+    "githubUser": "shama",
+    "githubRepo": "grunt-beep",
+    "npmPackage": "grunt-beep"
+  },
+  {
+    "githubUser": "alexscheelmeyer",
+    "githubRepo": "csv-stream",
+    "npmPackage": "csv-streamer"
+  },
+  {
+    "githubUser": "ModelN",
+    "githubRepo": "grunt-blanket-qunit",
+    "npmPackage": "grunt-blanket-qunit"
+  },
+  {
+    "githubUser": "henrik",
+    "githubRepo": "cookie-getter",
+    "npmPackage": "cookie-getter"
+  },
+  {
+    "githubUser": "lchi",
+    "githubRepo": "westegg",
+    "npmPackage": "westegg"
+  },
+  {
+    "githubUser": "jearle",
+    "githubRepo": "rjson-search",
+    "npmPackage": "rjson-search"
+  },
+  {
+    "githubUser": "DevelopmentIL",
+    "githubRepo": "dcms",
+    "npmPackage": "dcms"
+  },
+  {
+    "githubUser": "jamescostian",
+    "githubRepo": "brayns",
+    "npmPackage": "generator-brayns"
+  },
+  {
+    "githubUser": "cts",
+    "githubRepo": "fetch-url",
+    "npmPackage": "fetch-url"
+  },
+  {
+    "githubUser": "ilinsky",
+    "githubRepo": "jquery-xpath",
+    "npmPackage": "jquery-xpath"
+  },
+  {
+    "githubUser": "skaterdav85",
+    "githubRepo": "validatorjs",
+    "npmPackage": "validatorjs"
+  },
+  {
+    "githubUser": "Raynos",
+    "githubRepo": "npmify",
+    "npmPackage": "npmify"
+  },
+  {
+    "githubUser": "auth0",
+    "githubRepo": "express-passport-logout",
+    "npmPackage": "express-passport-logout"
+  },
+  {
+    "githubUser": "codeparty",
+    "githubRepo": "arraydiff",
+    "npmPackage": "arraydiff"
+  },
+  {
+    "githubUser": "tellnes",
+    "githubRepo": "http-close",
+    "npmPackage": "http-close"
+  },
+  {
+    "githubUser": "dmaevsky",
+    "githubRepo": "rd-parse",
+    "npmPackage": "rd-parse"
+  },
+  {
+    "githubUser": "tildeio",
+    "githubRepo": "jsframe",
+    "npmPackage": "jsframe"
+  },
+  {
+    "githubUser": "yahoo",
+    "githubRepo": "express-combo",
+    "npmPackage": "express-combo"
+  },
+  {
+    "githubUser": "SydneyStockholm",
+    "githubRepo": "wordpress",
+    "npmPackage": "wordpress.js"
+  },
+  {
+    "githubUser": "jclem",
+    "githubRepo": "generator-phonegap-backbone",
+    "npmPackage": "generator-phonegap-backbone"
+  },
+  {
+    "githubUser": "yahoo",
+    "githubRepo": "express-yui",
+    "npmPackage": "express-yui"
+  },
+  {
+    "githubUser": "thlorenz",
+    "githubRepo": "resolve-git-remote",
+    "npmPackage": "resolve-git-remote"
+  },
+  {
+    "githubUser": "polar-bear",
+    "githubRepo": "ding",
+    "npmPackage": "ding"
+  },
+  {
+    "githubUser": "gotdibbs",
+    "githubRepo": "grunt-qunit-minimalist",
+    "npmPackage": "grunt-qunit-minimalist"
+  },
+  {
+    "githubUser": "killdream",
+    "githubRepo": "shoutout",
+    "npmPackage": "shoutout"
+  },
+  {
+    "githubUser": "creationix",
+    "githubRepo": "min-stream",
+    "npmPackage": "min-stream"
+  },
+  {
+    "githubUser": "gmuteam",
+    "githubRepo": "jsbint",
+    "npmPackage": "jsbint"
+  },
+  {
+    "githubUser": "TimeBomb",
+    "githubRepo": "GW2NodeLib",
+    "npmPackage": "gw2nodelib"
+  },
+  {
+    "githubUser": "davidosomething",
+    "githubRepo": "grunt-peach",
+    "npmPackage": "grunt-peach"
+  },
+  {
+    "githubUser": "mastercactapus",
+    "githubRepo": "node-q-squared",
+    "npmPackage": "q-squared"
+  },
+  {
+    "githubUser": "uber",
+    "githubRepo": "rainbow-dash",
+    "npmPackage": "rainbow-dash"
+  },
+  {
+    "githubUser": "gmuteam",
+    "githubRepo": "jsbint",
+    "npmPackage": "grunt-jsbint"
+  },
+  {
+    "githubUser": "firede",
+    "githubRepo": "msee",
+    "npmPackage": "msee"
+  },
+  {
+    "githubUser": "sidorares",
+    "githubRepo": "vnc-over-gif",
+    "npmPackage": "vnc-over-gif"
+  },
+  {
+    "githubUser": "s-p-n",
+    "githubRepo": "scope",
+    "npmPackage": "scope-lang"
+  },
+  {
+    "githubUser": "acuminous",
+    "githubRepo": "yadda",
+    "npmPackage": "yadda"
+  },
+  {
+    "githubUser": "wsmlby",
+    "githubRepo": "socketpool",
+    "npmPackage": "socketpool"
+  },
+  {
+    "githubUser": "sunesimonsen",
+    "githubRepo": "less-border-layout",
+    "npmPackage": "less-border-layout"
+  },
+  {
+    "githubUser": "chaosim",
+    "githubRepo": "node-utils",
+    "npmPackage": "node-utilities"
+  },
+  {
+    "githubUser": "meryn",
+    "githubRepo": "process-events-shim",
+    "npmPackage": "process-events-shim"
+  },
+  {
+    "githubUser": "undoZen",
+    "githubRepo": "freighter",
+    "npmPackage": "freighter"
+  },
+  {
+    "githubUser": "koding",
+    "githubRepo": "kd",
+    "npmPackage": "koding"
+  },
+  {
+    "githubUser": "alexferreira",
+    "githubRepo": "restgen",
+    "npmPackage": "restgen"
+  },
+  {
+    "githubUser": "radekstepan",
+    "githubRepo": "github-notify",
+    "npmPackage": "github-notify"
+  },
+  {
+    "githubUser": "nikhilk",
+    "githubRepo": "scriptsharp",
+    "npmPackage": "scriptsharp"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoute-output-repl",
+    "npmPackage": "ecoute-output-repl"
+  },
+  {
+    "githubUser": "koding",
+    "githubRepo": "kd",
+    "npmPackage": "koding-tools"
+  },
+  {
+    "githubUser": "koding",
+    "githubRepo": "kd",
+    "npmPackage": "kd-installer"
+  },
+  {
+    "githubUser": "velocityzen",
+    "githubRepo": "coleccionista",
+    "npmPackage": "coleccionista"
+  },
+  {
+    "githubUser": "ubilabs",
+    "githubRepo": "node-batch-geocoder",
+    "npmPackage": "batch-geocoder"
+  },
+  {
+    "githubUser": "OrfeasZ",
+    "githubRepo": "node-couchbase",
+    "npmPackage": "node-couchbase"
+  },
+  {
+    "githubUser": "grunt-generate",
+    "githubRepo": "grunt-generate",
+    "npmPackage": "grunt-generate"
+  },
+  {
+    "githubUser": "baslr",
+    "githubRepo": "node-openweathermap",
+    "npmPackage": "openweathermap"
+  },
+  {
+    "githubUser": "100hz",
+    "githubRepo": "grunt-dirskeleton",
+    "npmPackage": "grunt-dirskeleton"
+  },
+  {
+    "githubUser": "creationix",
+    "githubRepo": "js-git",
+    "npmPackage": "js-git"
+  },
+  {
+    "githubUser": "ubilabs",
+    "githubRepo": "node-stagger",
+    "npmPackage": "stagger"
+  },
+  {
+    "githubUser": "kommander",
+    "githubRepo": "conflate",
+    "npmPackage": "conflate"
+  },
+  {
+    "githubUser": "jmar777",
+    "githubRepo": "suspend",
+    "npmPackage": "suspend"
+  },
+  {
+    "githubUser": "joshuah",
+    "githubRepo": "mpp-server",
+    "npmPackage": "mpp-server"
+  },
+  {
+    "githubUser": "joshuah",
+    "githubRepo": "mpp-client",
+    "npmPackage": "mpp-client"
+  },
+  {
+    "githubUser": "cwacek",
+    "githubRepo": "bigint_node",
+    "npmPackage": "bigint-node"
+  },
+  {
+    "githubUser": "jacquestardie",
+    "githubRepo": "tsr",
+    "npmPackage": "tsr"
   }
 ]
