@@ -29290,6 +29290,11 @@
     "npmPackage": "express_layout"
   },
   {
+    "githubUser": "simov",
+    "githubRepo": "express-admin",
+    "npmPackage": "express-admin"
+  },
+  {
     "githubUser": "Tim-Smart",
     "githubRepo": "express-aid",
     "npmPackage": "express-aid"
@@ -122006,7 +122011,7 @@
   },
   {
     "githubUser": "philiporange",
-    "githubRepo": "shell-trigger",
+    "githubRepo": "node-shell-trigger",
     "npmPackage": "shell-trigger"
   },
   {
@@ -122236,7 +122241,7 @@
   },
   {
     "githubUser": "philiporange",
-    "githubRepo": "load-manager",
+    "githubRepo": "node-load-manager",
     "npmPackage": "load-manager"
   },
   {
@@ -122928,5 +122933,260 @@
     "githubUser": "jsdevel",
     "githubRepo": "xforjs-amd-builder",
     "npmPackage": "xforjs-amd-builder"
+  },
+  {
+    "githubUser": "GoldCome",
+    "githubRepo": "js-lib",
+    "npmPackage": "js-lib"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule",
+    "npmPackage": "ecoule"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule-source-csv",
+    "npmPackage": "ecoule-source-csv"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule-source-file-system",
+    "npmPackage": "ecoule-source-file-system"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule-data-handler-markdown-with-byline-metadata",
+    "npmPackage": "ecoule-data-handler-markdown-with-byline-metadata"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule-output-hinge-http-server",
+    "npmPackage": "ecoule-output-hinge-http-server"
+  },
+  {
+    "githubUser": "gausby",
+    "githubRepo": "ecoule-output-repl",
+    "npmPackage": "ecoule-output-repl"
+  },
+  {
+    "githubUser": "robingl",
+    "githubRepo": "json-stream-events",
+    "npmPackage": "json-stream-events"
+  },
+  {
+    "githubUser": "jacquestardie",
+    "githubRepo": "shotratio",
+    "npmPackage": "shotratio"
+  },
+  {
+    "githubUser": "georgerogers42",
+    "githubRepo": "hashtbl2",
+    "npmPackage": "hashtbl2"
+  },
+  {
+    "githubUser": "sandeepmistry",
+    "githubRepo": "node-bluetooth-bulb",
+    "npmPackage": "bluetooth-bulb"
+  },
+  {
+    "githubUser": "emilisto",
+    "githubRepo": "readit",
+    "npmPackage": "readit"
+  },
+  {
+    "githubUser": "gjohnson",
+    "githubRepo": "paranoid",
+    "npmPackage": "paranoid"
+  },
+  {
+    "githubUser": "Colingo",
+    "githubRepo": "npm-less",
+    "npmPackage": "npm-less"
+  },
+  {
+    "githubUser": "JamesHight",
+    "githubRepo": "node-hooks-callback",
+    "npmPackage": "hooks-callback"
+  },
+  {
+    "githubUser": "olalonde",
+    "githubRepo": "connect-csrf-cookie",
+    "npmPackage": "connect-csrf-cookie"
+  },
+  {
+    "githubUser": "Raynos",
+    "githubRepo": "jsonml-stringify",
+    "npmPackage": "jsonml-stringify"
+  },
+  {
+    "githubUser": "holidayextras",
+    "githubRepo": "wsdl2",
+    "npmPackage": "wsdl2.js"
+  },
+  {
+    "githubUser": "TooTallNate",
+    "githubRepo": "spotify-uri",
+    "npmPackage": "spotify-uri"
+  },
+  {
+    "githubUser": "thlorenz",
+    "githubRepo": "find-parent-dir",
+    "npmPackage": "find-parent-dir"
+  },
+  {
+    "githubUser": "alanshaw",
+    "githubRepo": "node-webpap",
+    "npmPackage": "webpap"
+  },
+  {
+    "githubUser": "Raynos",
+    "githubRepo": "require-fresh",
+    "npmPackage": "require-fresh"
+  },
+  {
+    "githubUser": "Raynos",
+    "githubRepo": "node-env",
+    "npmPackage": "node-env"
+  },
+  {
+    "githubUser": "avoid3d",
+    "githubRepo": "mixpanel-mxit-node",
+    "npmPackage": "mixpanel-mxit"
+  },
+  {
+    "githubUser": "kevinbeaty",
+    "githubRepo": "basketcase",
+    "npmPackage": "basketcase"
+  },
+  {
+    "githubUser": "zship",
+    "githubRepo": "constructors",
+    "npmPackage": "constructors"
+  },
+  {
+    "githubUser": "robbrit",
+    "githubRepo": "node-time-series",
+    "npmPackage": "time-series"
+  },
+  {
+    "githubUser": "sefaira",
+    "githubRepo": "rho-contracts",
+    "npmPackage": "rho-contracts"
+  },
+  {
+    "githubUser": "pjnovas",
+    "githubRepo": "lobby",
+    "npmPackage": "lobby"
+  },
+  {
+    "githubUser": "rkatic",
+    "githubRepo": "nextTurn",
+    "npmPackage": "next-turn"
+  },
+  {
+    "githubUser": "maxnachlinger",
+    "githubRepo": "grunt-node-tap",
+    "npmPackage": "grunt-node-tap"
+  },
+  {
+    "githubUser": "bebraw",
+    "githubRepo": "pingdom-api",
+    "npmPackage": "pingdom-api"
+  },
+  {
+    "githubUser": "shovon",
+    "githubRepo": "sync-prompt",
+    "npmPackage": "sync-prompt"
+  },
+  {
+    "githubUser": "freewil",
+    "githubRepo": "stemplate",
+    "npmPackage": "stemplate"
+  },
+  {
+    "githubUser": "torworx",
+    "githubRepo": "ro",
+    "npmPackage": "midst"
+  },
+  {
+    "githubUser": "andrewkeig",
+    "githubRepo": "grunt-jscoverage",
+    "npmPackage": "grunt-jscoverage"
+  },
+  {
+    "githubUser": "matthewpalmer",
+    "githubRepo": "slender",
+    "npmPackage": "slender"
+  },
+  {
+    "githubUser": "danstocker",
+    "githubRepo": "phil",
+    "npmPackage": "phil"
+  },
+  {
+    "githubUser": "nulltask",
+    "githubRepo": "node-env-fallback",
+    "npmPackage": "node-env-fallback"
+  },
+  {
+    "githubUser": "vslinko",
+    "githubRepo": "lcs",
+    "npmPackage": "lcs"
+  },
+  {
+    "githubUser": "simov",
+    "githubRepo": "express-admin-static",
+    "npmPackage": "express-admin-static"
+  },
+  {
+    "githubUser": "interactivethings",
+    "githubRepo": "d3-indent",
+    "npmPackage": "d3-indent"
+  },
+  {
+    "githubUser": "arunoda",
+    "githubRepo": "laika",
+    "npmPackage": "laika"
+  },
+  {
+    "githubUser": "vslinko",
+    "githubRepo": "mlcs",
+    "npmPackage": "mlcs"
+  },
+  {
+    "githubUser": "punkave",
+    "githubRepo": "apostrophe-people",
+    "npmPackage": "apostrophe-people"
+  },
+  {
+    "githubUser": "fullerjs",
+    "githubRepo": "fuller-uglify",
+    "npmPackage": "fuller-uglify"
+  },
+  {
+    "githubUser": "fullerjs",
+    "githubRepo": "fuller-less",
+    "npmPackage": "fuller-less"
+  },
+  {
+    "githubUser": "fullerjs",
+    "githubRepo": "fuller-js",
+    "npmPackage": "fuller-js"
+  },
+  {
+    "githubUser": "fullerjs",
+    "githubRepo": "fuller-common-js",
+    "npmPackage": "fuller-common-js"
+  },
+  {
+    "githubUser": "seykron",
+    "githubRepo": "fb-profile-extension",
+    "npmPackage": "fb-profile-ext"
+  },
+  {
+    "githubUser": "thlorenz",
+    "githubRepo": "testlingify",
+    "npmPackage": "testlingify"
   }
 ]
