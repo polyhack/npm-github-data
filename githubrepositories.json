@@ -15125,6 +15125,11 @@
     "npmPackage": "collectd"
   },
   {
+    "githubUser": "tfeng",
+    "githubRepo": "collection",
+    "npmPackage": "collection"
+  },
+  {
     "githubUser": "sconover",
     "githubRepo": "collection_functions",
     "npmPackage": "collection_functions"
@@ -28728,6 +28733,11 @@
     "githubUser": "Raynos",
     "githubRepo": "eventemitter-light",
     "npmPackage": "eventemitter-light"
+  },
+  {
+    "githubUser": "hij1nx",
+    "githubRepo": "EventEmitter2",
+    "npmPackage": "eventemitter2"
   },
   {
     "githubUser": "cpsubrian",
@@ -116255,7 +116265,7 @@
     "npmPackage": "grunt-ie9-selector-counter"
   },
   {
-    "githubUser": "alexchicn",
+    "githubUser": "steamedtaro",
     "githubRepo": "scratch",
     "npmPackage": "scratchjs"
   },
@@ -122680,6 +122690,11 @@
     "npmPackage": "p2"
   },
   {
+    "githubUser": "lfdoherty",
+    "githubRepo": "primitivemap",
+    "npmPackage": "primitivemap"
+  },
+  {
     "githubUser": "jeffbski",
     "githubRepo": "react-q",
     "npmPackage": "react-q"
@@ -129060,6 +129075,11 @@
     "npmPackage": "ansi-canvas"
   },
   {
+    "githubUser": "tcr",
+    "githubRepo": "unmarked",
+    "npmPackage": "unmarked"
+  },
+  {
     "githubUser": "okize",
     "githubRepo": "selector-detector",
     "npmPackage": "selector-detector"
@@ -130798,5 +130818,120 @@
     "githubUser": "rvagg",
     "githubRepo": "bl",
     "npmPackage": "bl"
+  },
+  {
+    "githubUser": "lazerwalker",
+    "githubRepo": "hubot-osx-scripts",
+    "npmPackage": "lazerwalker-hubot-scripts"
+  },
+  {
+    "githubUser": "lazerwalker",
+    "githubRepo": "CafeAuLait",
+    "npmPackage": "cafe-au-lait"
+  },
+  {
+    "githubUser": "tjfontaine",
+    "githubRepo": "node-nf",
+    "npmPackage": "nf"
+  },
+  {
+    "githubUser": "aldonline",
+    "githubRepo": "notifying",
+    "npmPackage": "notifying"
+  },
+  {
+    "githubUser": "pilwon",
+    "githubRepo": "node-ivona",
+    "npmPackage": "ivona"
+  },
+  {
+    "githubUser": "Elgaeb",
+    "githubRepo": "express-uglify-middleware",
+    "npmPackage": "express-uglify-middleware"
+  },
+  {
+    "githubUser": "kevinsawicki",
+    "githubRepo": "grunt-cson",
+    "npmPackage": "grunt-cson"
+  },
+  {
+    "githubUser": "jarofghosts",
+    "githubRepo": "loveseat",
+    "npmPackage": "loveseat"
+  },
+  {
+    "githubUser": "xiaoshan5733",
+    "githubRepo": "aliyun-ecs",
+    "npmPackage": "aliyun-ecs"
+  },
+  {
+    "githubUser": "wolfeidau",
+    "githubRepo": "follow-file",
+    "npmPackage": "follow-file"
+  },
+  {
+    "githubUser": "davedoesdev",
+    "githubRepo": "qlobber",
+    "npmPackage": "qlobber"
+  },
+  {
+    "githubUser": "Ziv-Barber",
+    "githubRepo": "officegen",
+    "npmPackage": "officegen"
+  },
+  {
+    "githubUser": "robertomarte",
+    "githubRepo": "grunt-git-ftp",
+    "npmPackage": "grunt-git-ftp"
+  },
+  {
+    "githubUser": "Lapple",
+    "githubRepo": "generator-noscript",
+    "npmPackage": "generator-noscript"
+  },
+  {
+    "githubUser": "kaelzhang",
+    "githubRepo": "typo",
+    "npmPackage": "typo"
+  },
+  {
+    "githubUser": "orlin",
+    "githubRepo": "ponder",
+    "npmPackage": "ponder"
+  },
+  {
+    "githubUser": "Alright",
+    "githubRepo": "include",
+    "npmPackage": "include.js"
+  },
+  {
+    "githubUser": "adamrenklint",
+    "githubRepo": "asimov-markup-plugin",
+    "npmPackage": "asimov-markup-plugin"
+  },
+  {
+    "githubUser": "pigulla",
+    "githubRepo": "mersennetwister",
+    "npmPackage": "mersennetwister"
+  },
+  {
+    "githubUser": "shihongzhi",
+    "githubRepo": "node-ynote",
+    "npmPackage": "ynote"
+  },
+  {
+    "githubUser": "evo-cloud",
+    "githubRepo": "dendrite",
+    "npmPackage": "evo-dendrite"
+  },
+  {
+    "githubUser": "gildean",
+    "githubRepo": "node-http-get-shim",
+    "npmPackage": "http-get-shim"
+  },
+  {
+    "githubUser": "azer",
+    "githubRepo": "domquery",
+    "npmPackage": "domquery"
   }
 ]
