@@ -9135,7 +9135,7 @@
     "npmPackage": "brassband"
   },
   {
-    "githubUser": "danielgtaylor",
+    "githubUser": "homebrewing",
     "githubRepo": "brauhausjs",
     "npmPackage": "brauhaus"
   },
@@ -16575,7 +16575,7 @@
     "npmPackage": "connect-couchdb"
   },
   {
-    "githubUser": "yanush",
+    "githubUser": "kessler-y",
     "githubRepo": "connect-crypto",
     "npmPackage": "connect-crypto"
   },
@@ -20620,8 +20620,8 @@
     "npmPackage": "data.io"
   },
   {
-    "githubUser": "appsattic",
-    "githubRepo": "node-data2xml",
+    "githubUser": "chilts",
+    "githubRepo": "data2xml",
     "npmPackage": "data2xml"
   },
   {
@@ -34650,7 +34650,7 @@
     "npmPackage": "fullcontact.js"
   },
   {
-    "githubUser": "velocityzen",
+    "githubUser": "fullerjs",
     "githubRepo": "fuller",
     "npmPackage": "fuller"
   },
@@ -63560,7 +63560,7 @@
     "npmPackage": "monitor-min"
   },
   {
-    "githubUser": "yanush",
+    "githubUser": "kessler-y",
     "githubRepo": "monitor-url-tool",
     "npmPackage": "monitor-url-tool"
   },
@@ -69325,7 +69325,7 @@
     "npmPackage": "node-redis"
   },
   {
-    "githubUser": "yanush",
+    "githubUser": "kessler-y",
     "githubRepo": "redis-cluster",
     "npmPackage": "node-redis-cluster"
   },
@@ -122760,6 +122760,11 @@
     "npmPackage": "p2"
   },
   {
+    "githubUser": "kessler-y",
+    "githubRepo": "simple-file-writer",
+    "npmPackage": "simple-file-writer"
+  },
+  {
     "githubUser": "lfdoherty",
     "githubRepo": "primitivemap",
     "npmPackage": "primitivemap"
@@ -130675,6 +130680,11 @@
     "npmPackage": "syntax-checker"
   },
   {
+    "githubUser": "kessler-y",
+    "githubRepo": "stream-slicer",
+    "npmPackage": "stream-slicer"
+  },
+  {
     "githubUser": "bodokaiser",
     "githubRepo": "node-addons",
     "npmPackage": "node-addons"
@@ -133043,5 +133053,290 @@
     "githubUser": "nkzawa",
     "githubRepo": "socket",
     "npmPackage": "socket.io-stream"
+  },
+  {
+    "githubUser": "tango42",
+    "githubRepo": "grunt-strip-nodes",
+    "npmPackage": "grunt-strip-node"
+  },
+  {
+    "githubUser": "rumkin",
+    "githubRepo": "blank-js",
+    "npmPackage": "blank-js"
+  },
+  {
+    "githubUser": "sayar",
+    "githubRepo": "node-wporg",
+    "npmPackage": "wporg"
+  },
+  {
+    "githubUser": "shesek",
+    "githubRepo": "qruri",
+    "npmPackage": "qruri"
+  },
+  {
+    "githubUser": "bjouhier",
+    "githubRepo": "galaxy-stack",
+    "npmPackage": "galaxy-stack"
+  },
+  {
+    "githubUser": "colinhb",
+    "githubRepo": "doze-pg",
+    "npmPackage": "doze-pg"
+  },
+  {
+    "githubUser": "mheap",
+    "githubRepo": "passport-offline",
+    "npmPackage": "passport-offline"
+  },
+  {
+    "githubUser": "aslakhellesoy",
+    "githubRepo": "express-uri-template",
+    "npmPackage": "express-uri-template"
+  },
+  {
+    "githubUser": "colinhb",
+    "githubRepo": "doze",
+    "npmPackage": "doze"
+  },
+  {
+    "githubUser": "tysoncadenhead",
+    "githubRepo": "grunt-bing-translate",
+    "npmPackage": "grunt-bing-translate"
+  },
+  {
+    "githubUser": "chrisfosterelli",
+    "githubRepo": "akismet-api",
+    "npmPackage": "akismet-api"
+  },
+  {
+    "githubUser": "JeremS",
+    "githubRepo": "wispc",
+    "npmPackage": "wispc"
+  },
+  {
+    "githubUser": "makeusabrew",
+    "githubRepo": "tidy-prompt",
+    "npmPackage": "tidy-prompt"
+  },
+  {
+    "githubUser": "aaronogle",
+    "githubRepo": "node-CurlDownloader",
+    "npmPackage": "curldownloader"
+  },
+  {
+    "githubUser": "chaoran",
+    "githubRepo": "node-serialize",
+    "npmPackage": "serialize"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "canvas-browserify",
+    "npmPackage": "canvas-browserify"
+  },
+  {
+    "githubUser": "jamescostian",
+    "githubRepo": "diet-dot",
+    "npmPackage": "diet-dot"
+  },
+  {
+    "githubUser": "praveen",
+    "githubRepo": "grunt-scss-selected-compile",
+    "npmPackage": "grunt-scss-selected-compile"
+  },
+  {
+    "githubUser": "mikolalysenko",
+    "githubRepo": "simple-2d-shader",
+    "npmPackage": "simple-2d-shader"
+  },
+  {
+    "githubUser": "simondean",
+    "githubRepo": "grunt-cuke-tree",
+    "npmPackage": "grunt-cuke-tree"
+  },
+  {
+    "githubUser": "mikolalysenko",
+    "githubRepo": "gl-vao",
+    "npmPackage": "gl-vao"
+  },
+  {
+    "githubUser": "pluma",
+    "githubRepo": "moduleify",
+    "npmPackage": "moduleify"
+  },
+  {
+    "githubUser": "IndigoUnited",
+    "githubRepo": "node-happening",
+    "npmPackage": "happening"
+  },
+  {
+    "githubUser": "squaremo",
+    "githubRepo": "amqp",
+    "npmPackage": "amqplib"
+  },
+  {
+    "githubUser": "sethvincent",
+    "githubRepo": "ebook",
+    "npmPackage": "ebook"
+  },
+  {
+    "githubUser": "homebrewing",
+    "githubRepo": "brauhaus-beerxml",
+    "npmPackage": "brauhaus-beerxml"
+  },
+  {
+    "githubUser": "classdojo",
+    "githubRepo": "sherpa",
+    "npmPackage": "sherpaa"
+  },
+  {
+    "githubUser": "alexfernandez",
+    "githubRepo": "loadtest",
+    "npmPackage": "loadtest"
+  },
+  {
+    "githubUser": "timshadel",
+    "githubRepo": "smd",
+    "npmPackage": "smd"
+  },
+  {
+    "githubUser": "thriqon",
+    "githubRepo": "random-word-generator",
+    "npmPackage": "random-word-generator"
+  },
+  {
+    "githubUser": "jkeylu",
+    "githubRepo": "connect-file-store",
+    "npmPackage": "connect-file-store"
+  },
+  {
+    "githubUser": "millern",
+    "githubRepo": "mongorest",
+    "npmPackage": "restfulgoose"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "canvas-progress-bar",
+    "npmPackage": "canvas-progress-bar"
+  },
+  {
+    "githubUser": "james2doyle",
+    "githubRepo": "rework-math",
+    "npmPackage": "rework-math"
+  },
+  {
+    "githubUser": "llkats",
+    "githubRepo": "grunt-snapshots",
+    "npmPackage": "grunt-snapshots"
+  },
+  {
+    "githubUser": "blessenm",
+    "githubRepo": "handlebars-watch",
+    "npmPackage": "handlebars-watch"
+  },
+  {
+    "githubUser": "itsjoesullivan",
+    "githubRepo": "mauve",
+    "npmPackage": "mauve"
+  },
+  {
+    "githubUser": "shama",
+    "githubRepo": "voxel-tile",
+    "npmPackage": "voxel-tile"
+  },
+  {
+    "githubUser": "kaelzhang",
+    "githubRepo": "sub-commander",
+    "npmPackage": "comfort"
+  },
+  {
+    "githubUser": "scien",
+    "githubRepo": "mongofb",
+    "npmPackage": "mongofb"
+  },
+  {
+    "githubUser": "clowwindy",
+    "githubRepo": "shadowsocks-nodejs",
+    "npmPackage": "shadowsocks"
+  },
+  {
+    "githubUser": "homebrewing",
+    "githubRepo": "brauhaus-styles",
+    "npmPackage": "brauhaus-styles"
+  },
+  {
+    "githubUser": "iambumblehead",
+    "githubRepo": "lockfn",
+    "npmPackage": "lockfn"
+  },
+  {
+    "githubUser": "jamesdphillips",
+    "githubRepo": "hubot-eyebleach",
+    "npmPackage": "hubot-eyebleach"
+  },
+  {
+    "githubUser": "briankircho",
+    "githubRepo": "mongoose-tree",
+    "npmPackage": "mongoose-tree2"
+  },
+  {
+    "githubUser": "Dahie",
+    "githubRepo": "Scraperrr",
+    "npmPackage": "scraperrr"
+  },
+  {
+    "githubUser": "delch",
+    "githubRepo": "jStructure",
+    "npmPackage": "jstructure"
+  },
+  {
+    "githubUser": "youxiachai",
+    "githubRepo": "BaeRedisRestful",
+    "npmPackage": "baeredishttp"
+  },
+  {
+    "githubUser": "brunch",
+    "githubRepo": "styl-brunch",
+    "npmPackage": "styl-brunch"
+  },
+  {
+    "githubUser": "rex",
+    "githubRepo": "rex-redis",
+    "npmPackage": "rex-redis"
+  },
+  {
+    "githubUser": "rex",
+    "githubRepo": "rex-utils",
+    "npmPackage": "rex-utils"
+  },
+  {
+    "githubUser": "finnsson",
+    "githubRepo": "pagerjs",
+    "npmPackage": "pagerjs"
+  },
+  {
+    "githubUser": "JamesKyburz",
+    "githubRepo": "canvas-colorpicker",
+    "npmPackage": "canvas-colorpicker"
+  },
+  {
+    "githubUser": "tango42",
+    "githubRepo": "grunt-strip-nodes",
+    "npmPackage": "grunt-strip-nodes"
+  },
+  {
+    "githubUser": "Fauntleroy",
+    "githubRepo": "igneous",
+    "npmPackage": "igneous-0.10.6"
+  },
+  {
+    "githubUser": "usishi",
+    "githubRepo": "node-ldap2json",
+    "npmPackage": "node-ldap2json"
+  },
+  {
+    "githubUser": "asmblah",
+    "githubRepo": "coffee",
+    "npmPackage": "coffee"
   }
 ]
