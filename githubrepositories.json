@@ -11580,7 +11580,7 @@
     "npmPackage": "cartel"
   },
   {
-    "githubUser": "Mortchek",
+    "githubUser": "dwcook",
     "githubRepo": "cartesian-product",
     "npmPackage": "cartesian-product"
   },
@@ -12246,7 +12246,7 @@
   },
   {
     "githubUser": "blakeembrey",
-    "githubRepo": "change-case",
+    "githubRepo": "node-change-case",
     "npmPackage": "change-case"
   },
   {
@@ -80650,8 +80650,8 @@
     "npmPackage": "progressify-emitter"
   },
   {
-    "githubUser": "temsa",
-    "githubRepo": "node-proj4js",
+    "githubUser": "proj4js",
+    "githubRepo": "proj4js",
     "npmPackage": "proj4js"
   },
   {
@@ -92611,7 +92611,7 @@
   },
   {
     "githubUser": "micnic",
-    "githubRepo": "simplet",
+    "githubRepo": "simpleT",
     "npmPackage": "simplet"
   },
   {
@@ -139053,5 +139053,385 @@
     "githubUser": "kobezzza",
     "githubRepo": "NeJS",
     "npmPackage": "nejs"
+  },
+  {
+    "githubUser": "thomasDUPRE",
+    "githubRepo": "unix-cmd",
+    "npmPackage": "unix-cmd"
+  },
+  {
+    "githubUser": "symfio",
+    "githubRepo": "symfio-contrib-cruder",
+    "npmPackage": "symfio-contrib-cruder"
+  },
+  {
+    "githubUser": "kordon",
+    "githubRepo": "darius",
+    "npmPackage": "darius"
+  },
+  {
+    "githubUser": "Floby",
+    "githubRepo": "node-disect",
+    "npmPackage": "disect"
+  },
+  {
+    "githubUser": "ttab",
+    "githubRepo": "static-jade-brunch",
+    "npmPackage": "static-jade-brunch2"
+  },
+  {
+    "githubUser": "kerphi",
+    "githubRepo": "node-inotifywatch",
+    "npmPackage": "inotifywait"
+  },
+  {
+    "githubUser": "dyuss",
+    "githubRepo": "dld",
+    "npmPackage": "dld"
+  },
+  {
+    "githubUser": "azer",
+    "githubRepo": "every-time",
+    "npmPackage": "every-time"
+  },
+  {
+    "githubUser": "darvin",
+    "githubRepo": "github",
+    "npmPackage": "github-api"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "level-fs-browser",
+    "npmPackage": "level-fs-browser"
+  },
+  {
+    "githubUser": "shannonmoeller",
+    "githubRepo": "grunt-demo",
+    "npmPackage": "handlebars-layouts"
+  },
+  {
+    "githubUser": "GeReV",
+    "githubRepo": "mpdisco",
+    "npmPackage": "mpdisco"
+  },
+  {
+    "githubUser": "ojjs",
+    "githubRepo": "oj",
+    "npmPackage": "oj-twitter-follow-button"
+  },
+  {
+    "githubUser": "sabinmarcu",
+    "githubRepo": "dataurl-brunch",
+    "npmPackage": "dataurl-brunch"
+  },
+  {
+    "githubUser": "benjamine",
+    "githubRepo": "phenotype",
+    "npmPackage": "phenotype"
+  },
+  {
+    "githubUser": "dpweb",
+    "githubRepo": "qdb",
+    "npmPackage": "qdb"
+  },
+  {
+    "githubUser": "noptic",
+    "githubRepo": "nail",
+    "npmPackage": "nail"
+  },
+  {
+    "githubUser": "phidelta",
+    "githubRepo": "NodeJS-FSEvents",
+    "npmPackage": "fsevents"
+  },
+  {
+    "githubUser": "cayasso",
+    "githubRepo": "primus-rooms",
+    "npmPackage": "primus-rooms"
+  },
+  {
+    "githubUser": "majorleaguesoccer",
+    "githubRepo": "stacklog",
+    "npmPackage": "stacklog"
+  },
+  {
+    "githubUser": "mikolalysenko",
+    "githubRepo": "isabella-texture-pack",
+    "npmPackage": "isabella-texture-pack"
+  },
+  {
+    "githubUser": "digitalsadhu",
+    "githubRepo": "admittance",
+    "npmPackage": "admittance"
+  },
+  {
+    "githubUser": "jeduan",
+    "githubRepo": "grunt-multiresize",
+    "npmPackage": "grunt-multiresize"
+  },
+  {
+    "githubUser": "Raynos",
+    "githubRepo": "spells-demo-app",
+    "npmPackage": "spells-demo-app"
+  },
+  {
+    "githubUser": "carlos8f",
+    "githubRepo": "cryptic",
+    "npmPackage": "cryptic"
+  },
+  {
+    "githubUser": "andreychizh",
+    "githubRepo": "grunt-migration-tool",
+    "npmPackage": "grunt-migration-tool"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "SLEEP",
+    "npmPackage": "sleep-ref"
+  },
+  {
+    "githubUser": "mal",
+    "githubRepo": "si-prefix",
+    "npmPackage": "si-prefix"
+  },
+  {
+    "githubUser": "bower",
+    "githubRepo": "config",
+    "npmPackage": "bower-config"
+  },
+  {
+    "githubUser": "bingeboy",
+    "githubRepo": "TableTopAPI",
+    "npmPackage": "tabletop-api"
+  },
+  {
+    "githubUser": "RobertWHurst",
+    "githubRepo": "node-trees",
+    "npmPackage": "node-trees"
+  },
+  {
+    "githubUser": "carlos8f",
+    "githubRepo": "safer",
+    "npmPackage": "safer"
+  },
+  {
+    "githubUser": "mikolalysenko",
+    "githubRepo": "game-shell-orbit-camera",
+    "npmPackage": "game-shell-orbit-camera"
+  },
+  {
+    "githubUser": "alfredkam",
+    "githubRepo": "bigData",
+    "npmPackage": "csv-to-json"
+  },
+  {
+    "githubUser": "wearefractal",
+    "githubRepo": "gulp-coffee",
+    "npmPackage": "gulp-coffee"
+  },
+  {
+    "githubUser": "BrianCraig",
+    "githubRepo": "MCStatus",
+    "npmPackage": "mcstatus"
+  },
+  {
+    "githubUser": "psm",
+    "githubRepo": "sip-client",
+    "npmPackage": "sip-client"
+  },
+  {
+    "githubUser": "gquental",
+    "githubRepo": "node-annotation",
+    "npmPackage": "annotation"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "mod-loop",
+    "npmPackage": "mod-loop"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "xml-the-good-parts",
+    "npmPackage": "xml-the-good-parts"
+  },
+  {
+    "githubUser": "geta6",
+    "githubRepo": "connect-logger",
+    "npmPackage": "connect-logger"
+  },
+  {
+    "githubUser": "geta6",
+    "githubRepo": "connect-thumbnail",
+    "npmPackage": "connect-thumbnail"
+  },
+  {
+    "githubUser": "GroupTalent",
+    "githubRepo": "epf",
+    "npmPackage": "epf"
+  },
+  {
+    "githubUser": "MappedIn",
+    "githubRepo": "node-mappedin",
+    "npmPackage": "mappedin"
+  },
+  {
+    "githubUser": "rvagg",
+    "githubRepo": "leveljs-coding",
+    "npmPackage": "leveljs-coding"
+  },
+  {
+    "githubUser": "rvagg",
+    "githubRepo": "leveljs-log",
+    "npmPackage": "leveljs-log"
+  },
+  {
+    "githubUser": "cainus",
+    "githubRepo": "node-coveralls",
+    "npmPackage": "coveralls.io"
+  },
+  {
+    "githubUser": "mrpoptart",
+    "githubRepo": "autominify",
+    "npmPackage": "autominify"
+  },
+  {
+    "githubUser": "mankees",
+    "githubRepo": "init",
+    "npmPackage": "mankees-init"
+  },
+  {
+    "githubUser": "mankees",
+    "githubRepo": "tag",
+    "npmPackage": "mankees-tag"
+  },
+  {
+    "githubUser": "mankees",
+    "githubRepo": "template",
+    "npmPackage": "mankees-template"
+  },
+  {
+    "githubUser": "mankees",
+    "githubRepo": "update_deps",
+    "npmPackage": "mankees-update_deps"
+  },
+  {
+    "githubUser": "EtherDream",
+    "githubRepo": "closurether",
+    "npmPackage": "closurether"
+  },
+  {
+    "githubUser": "blakeembrey",
+    "githubRepo": "node-arg-count",
+    "npmPackage": "arg-count"
+  },
+  {
+    "githubUser": "wwwy3y3",
+    "githubRepo": "cassandra-simple-orm",
+    "npmPackage": "cassandra-simple-orm"
+  },
+  {
+    "githubUser": "rvagg",
+    "githubRepo": "leveljs-sst",
+    "npmPackage": "leveljs-sst"
+  },
+  {
+    "githubUser": "gadicohen",
+    "githubRepo": "phantomjs",
+    "npmPackage": "phantomjs-sun"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "cell-range",
+    "npmPackage": "cell-range"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "grunt-brjs",
+    "npmPackage": "grunt-brjs"
+  },
+  {
+    "githubUser": "nicolas-van",
+    "githubRepo": "ring",
+    "npmPackage": "ring"
+  },
+  {
+    "githubUser": "juherpin",
+    "githubRepo": "grunt-img-preload",
+    "npmPackage": "grunt-img-preload"
+  },
+  {
+    "githubUser": "avz",
+    "githubRepo": "node-digitalocean",
+    "npmPackage": "digitalocean"
+  },
+  {
+    "githubUser": "mfgCode",
+    "githubRepo": "ble-scanner",
+    "npmPackage": "ble-scanner"
+  },
+  {
+    "githubUser": "twolfson",
+    "githubRepo": "css-controls",
+    "npmPackage": "css-controls"
+  },
+  {
+    "githubUser": "nathan7",
+    "githubRepo": "concur",
+    "npmPackage": "concur"
+  },
+  {
+    "githubUser": "andreypopp",
+    "githubRepo": "connect-page",
+    "npmPackage": "connect-page"
+  },
+  {
+    "githubUser": "gadicohen",
+    "githubRepo": "phantomjs-remote",
+    "npmPackage": "phantomjs-remote"
+  },
+  {
+    "githubUser": "ckknight",
+    "githubRepo": "ss-gorilla",
+    "npmPackage": "ss-gorilla"
+  },
+  {
+    "githubUser": "bigeasy",
+    "githubRepo": "locket",
+    "npmPackage": "locket"
+  },
+  {
+    "githubUser": "ajlopez",
+    "githubRepo": "SimpleLisp",
+    "npmPackage": "simplelisp"
+  },
+  {
+    "githubUser": "ajlopez",
+    "githubRepo": "PageJs",
+    "npmPackage": "pagejs"
+  },
+  {
+    "githubUser": "bebraw",
+    "githubRepo": "stalbum",
+    "npmPackage": "stalbum"
+  },
+  {
+    "githubUser": "tellnes",
+    "githubRepo": "json-list-stream",
+    "npmPackage": "json-list-stream"
+  },
+  {
+    "githubUser": "tellnes",
+    "githubRepo": "json-list-response",
+    "npmPackage": "json-list-response"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "level-fs",
+    "npmPackage": "level-fs"
+  },
+  {
+    "githubUser": "OpenifyIt",
+    "githubRepo": "schema",
+    "npmPackage": "schema.org-validator"
   }
 ]
