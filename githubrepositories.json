@@ -30330,7 +30330,7 @@
     "npmPackage": "express-webapp-host"
   },
   {
-    "githubUser": "firebaseco",
+    "githubUser": "heapsource",
     "githubRepo": "express-winston",
     "npmPackage": "express-winston"
   },
@@ -74395,12 +74395,12 @@
     "npmPackage": "orcastrike"
   },
   {
-    "githubUser": "firebaseco",
+    "githubUser": "heapsource",
     "githubRepo": "node-orch",
     "npmPackage": "orch"
   },
   {
-    "githubUser": "firebaseco",
+    "githubUser": "heapsource",
     "githubRepo": "node-orch-amqp",
     "npmPackage": "orch-amqp"
   },
@@ -105330,7 +105330,7 @@
     "npmPackage": "underpub-js"
   },
   {
-    "githubUser": "documentcloud",
+    "githubUser": "jashkenas",
     "githubRepo": "underscore",
     "npmPackage": "underscore"
   },
@@ -136951,7 +136951,7 @@
   },
   {
     "githubUser": "stephenmathieson",
-    "githubRepo": "cp",
+    "githubRepo": "node-cp",
     "npmPackage": "cp"
   },
   {
@@ -139141,7 +139141,7 @@
   },
   {
     "githubUser": "phidelta",
-    "githubRepo": "NodeJS-FSEvents",
+    "githubRepo": "fsevents",
     "npmPackage": "fsevents"
   },
   {
@@ -139433,5 +139433,460 @@
     "githubUser": "OpenifyIt",
     "githubRepo": "schema",
     "npmPackage": "schema.org-validator"
+  },
+  {
+    "githubUser": "jinroh",
+    "githubRepo": "express-eventsource",
+    "npmPackage": "express-eventsource"
+  },
+  {
+    "githubUser": "kjirou",
+    "githubRepo": "npm-rpglevel",
+    "npmPackage": "rpglevel"
+  },
+  {
+    "githubUser": "nkzawa",
+    "githubRepo": "socket",
+    "npmPackage": "socket.io-bundle"
+  },
+  {
+    "githubUser": "coreybutler",
+    "githubRepo": "grunt-ngn-docs",
+    "npmPackage": "grunt-ngn-docs"
+  },
+  {
+    "githubUser": "robert-berg",
+    "githubRepo": "homeaway-nodeunit",
+    "npmPackage": "homeaway-nodeunit"
+  },
+  {
+    "githubUser": "SimonWaldherr",
+    "githubRepo": "ColorConverter",
+    "npmPackage": "colorconverter"
+  },
+  {
+    "githubUser": "geta6",
+    "githubRepo": "pdf2image",
+    "npmPackage": "connect-pdfsplit"
+  },
+  {
+    "githubUser": "thingsinjars",
+    "githubRepo": "GhostStory",
+    "npmPackage": "hardy"
+  },
+  {
+    "githubUser": "ForbesLindesay",
+    "githubRepo": "new-stream",
+    "npmPackage": "new-stream"
+  },
+  {
+    "githubUser": "jmervine",
+    "githubRepo": "yslowjs",
+    "npmPackage": "yslowjs"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "level-object",
+    "npmPackage": "level-object"
+  },
+  {
+    "githubUser": "andreypopp",
+    "githubRepo": "react-time",
+    "npmPackage": "react-time"
+  },
+  {
+    "githubUser": "timrwood",
+    "githubRepo": "moment-timezone",
+    "npmPackage": "moment-timezone"
+  },
+  {
+    "githubUser": "shrimpboyho",
+    "githubRepo": "blackmonkey",
+    "npmPackage": "blackmonkey"
+  },
+  {
+    "githubUser": "terite",
+    "githubRepo": "event-race",
+    "npmPackage": "event-race"
+  },
+  {
+    "githubUser": "AlexMost",
+    "githubRepo": "fresh-monads",
+    "npmPackage": "fresh-monads"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "brash",
+    "npmPackage": "brash"
+  },
+  {
+    "githubUser": "recidive",
+    "githubRepo": "prana",
+    "npmPackage": "prana"
+  },
+  {
+    "githubUser": "billysbilling",
+    "githubRepo": "shopify-integration",
+    "npmPackage": "float"
+  },
+  {
+    "githubUser": "sethvincent",
+    "githubRepo": "crtrdg-gameloop",
+    "npmPackage": "crtrdg-gameloop"
+  },
+  {
+    "githubUser": "stephencwan",
+    "githubRepo": "node-htcpcp",
+    "npmPackage": "htcpcp"
+  },
+  {
+    "githubUser": "sunrise",
+    "githubRepo": "pingup",
+    "npmPackage": "pingup"
+  },
+  {
+    "githubUser": "sethvincent",
+    "githubRepo": "crtrdg-entity",
+    "npmPackage": "crtrdg-entity"
+  },
+  {
+    "githubUser": "jeffomatic",
+    "githubRepo": "evented-async",
+    "npmPackage": "evented-async"
+  },
+  {
+    "githubUser": "carlos8f",
+    "githubRepo": "extra",
+    "npmPackage": "extra"
+  },
+  {
+    "githubUser": "Nijikokun",
+    "githubRepo": "Validator",
+    "npmPackage": "schema-validator"
+  },
+  {
+    "githubUser": "faller",
+    "githubRepo": "h8",
+    "npmPackage": "h8"
+  },
+  {
+    "githubUser": "tangmi",
+    "githubRepo": "animal-id",
+    "npmPackage": "animal-id"
+  },
+  {
+    "githubUser": "iambumblehead",
+    "githubRepo": "pathpublic",
+    "npmPackage": "pathpublic"
+  },
+  {
+    "githubUser": "GTDev87",
+    "githubRepo": "flatree",
+    "npmPackage": "flatree"
+  },
+  {
+    "githubUser": "brendannee",
+    "githubRepo": "node-gtfs",
+    "npmPackage": "gtfs-2"
+  },
+  {
+    "githubUser": "adjohnson916",
+    "githubRepo": "rework-no-media",
+    "npmPackage": "rework-no-media"
+  },
+  {
+    "githubUser": "JayBeavers",
+    "githubRepo": "reflecta_rbot1",
+    "npmPackage": "reflecta_rbot1"
+  },
+  {
+    "githubUser": "JayBeavers",
+    "githubRepo": "reflecta_hart11",
+    "npmPackage": "reflecta_hart1"
+  },
+  {
+    "githubUser": "kaw2k",
+    "githubRepo": "functionalib",
+    "npmPackage": "treefunc"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "grunt-github-release",
+    "npmPackage": "grunt-github-release"
+  },
+  {
+    "githubUser": "assemble",
+    "githubRepo": "assemble-less-variables",
+    "npmPackage": "assemble-less-variables"
+  },
+  {
+    "githubUser": "Wizcorp",
+    "githubRepo": "component-less",
+    "npmPackage": "component-less"
+  },
+  {
+    "githubUser": "paullang",
+    "githubRepo": "deadbox",
+    "npmPackage": "deadbox"
+  },
+  {
+    "githubUser": "lsm",
+    "githubRepo": "genji-static",
+    "npmPackage": "genji-static"
+  },
+  {
+    "githubUser": "shama",
+    "githubRepo": "browser-module-cache",
+    "npmPackage": "browser-module-cache"
+  },
+  {
+    "githubUser": "Nachbarshund",
+    "githubRepo": "node-mssql-connector",
+    "npmPackage": "node-mssql-connector"
+  },
+  {
+    "githubUser": "christopherweiss",
+    "githubRepo": "generator-mo",
+    "npmPackage": "generator-mo"
+  },
+  {
+    "githubUser": "jpillora",
+    "githubRepo": "node-logbook",
+    "npmPackage": "logbook"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "grunt-bower-utils",
+    "npmPackage": "grunt-bower-utils"
+  },
+  {
+    "githubUser": "dimros",
+    "githubRepo": "sp-socket",
+    "npmPackage": "sp-socket"
+  },
+  {
+    "githubUser": "Johnqing",
+    "githubRepo": "JsAndCssCompression",
+    "npmPackage": "jscss-min"
+  },
+  {
+    "githubUser": "Squeegy",
+    "githubRepo": "Lysertron",
+    "npmPackage": "lysertron"
+  },
+  {
+    "githubUser": "flyingfisher",
+    "githubRepo": "node-http-proxy",
+    "npmPackage": "seafish-http-proxy-meteor"
+  },
+  {
+    "githubUser": "AndrewGaspar",
+    "githubRepo": "TypedPromises",
+    "npmPackage": "typedpromises"
+  },
+  {
+    "githubUser": "Administrator",
+    "githubRepo": "shenke",
+    "npmPackage": "grunt-shenke"
+  },
+  {
+    "githubUser": "creativ",
+    "githubRepo": "grunt-hash-data",
+    "npmPackage": "hash-data"
+  },
+  {
+    "githubUser": "creativ",
+    "githubRepo": "grunt-hash-data",
+    "npmPackage": "grunt-hash-data"
+  },
+  {
+    "githubUser": "darsee",
+    "githubRepo": "seneca-dynamodb",
+    "npmPackage": "seneca-dynamo-store"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "mu-template",
+    "npmPackage": "mu-template"
+  },
+  {
+    "githubUser": "hackify",
+    "githubRepo": "hackify",
+    "npmPackage": "hackify"
+  },
+  {
+    "githubUser": "aallan",
+    "githubRepo": "node-owlintuition",
+    "npmPackage": "owlintuition"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "grunt-mu-template",
+    "npmPackage": "grunt-mu-template"
+  },
+  {
+    "githubUser": "ts33kr",
+    "githubRepo": "flames",
+    "npmPackage": "flames"
+  },
+  {
+    "githubUser": "front",
+    "githubRepo": "dibs",
+    "npmPackage": "dibs"
+  },
+  {
+    "githubUser": "hcodes",
+    "githubRepo": "jst",
+    "npmPackage": "jst_compiler"
+  },
+  {
+    "githubUser": "maximsmol",
+    "githubRepo": "todoer",
+    "npmPackage": "todoer"
+  },
+  {
+    "githubUser": "klaemo",
+    "githubRepo": "math-helpers",
+    "npmPackage": "math-helpers"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "chronicle",
+    "npmPackage": "substance-chronicle"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "data",
+    "npmPackage": "substance-data"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "library",
+    "npmPackage": "substance-libary"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "operator",
+    "npmPackage": "substance-operator"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "store",
+    "npmPackage": "substance-store"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "operator",
+    "npmPackage": "substance-test"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "util",
+    "npmPackage": "substance-util"
+  },
+  {
+    "githubUser": "VarnaLab",
+    "githubRepo": "node-organic-dinucleus",
+    "npmPackage": "organic-dinucleus"
+  },
+  {
+    "githubUser": "fouber",
+    "githubRepo": "fis-parser-jade",
+    "npmPackage": "fis-parser-jade"
+  },
+  {
+    "githubUser": "thlorenz",
+    "githubRepo": "sinless",
+    "npmPackage": "sinless"
+  },
+  {
+    "githubUser": "vbogdanov",
+    "githubRepo": "node-organic-dinucleus4synapse",
+    "npmPackage": "organic-dinucleus4synapse"
+  },
+  {
+    "githubUser": "bamse16",
+    "githubRepo": "seneca-sqlite-store",
+    "npmPackage": "seneca-sqlite-store"
+  },
+  {
+    "githubUser": "dominictarr",
+    "githubRepo": "level-merkle",
+    "npmPackage": "level-merkle"
+  },
+  {
+    "githubUser": "ForbesLindesay",
+    "githubRepo": "arrayify",
+    "npmPackage": "arrayify"
+  },
+  {
+    "githubUser": "rodriguezartav",
+    "githubRepo": "Hapi",
+    "npmPackage": "node-hapi"
+  },
+  {
+    "githubUser": "fgnass",
+    "githubRepo": "linger",
+    "npmPackage": "linger"
+  },
+  {
+    "githubUser": "suprMax",
+    "githubRepo": "connect-memcache",
+    "npmPackage": "connect-memcache"
+  },
+  {
+    "githubUser": "mrluc",
+    "githubRepo": "bank-fan",
+    "npmPackage": "bank-fan"
+  },
+  {
+    "githubUser": "matthewp",
+    "githubRepo": "grunt-steal",
+    "npmPackage": "grunt-steal-node"
+  },
+  {
+    "githubUser": "mgcrea",
+    "githubRepo": "generator-angular-module",
+    "npmPackage": "generator-angular-module"
+  },
+  {
+    "githubUser": "sergeylukin",
+    "githubRepo": "docpad-plugin-bowermount",
+    "npmPackage": "docpad-plugin-bowermount"
+  },
+  {
+    "githubUser": "uh-sem-blee",
+    "githubRepo": "shopify-node",
+    "npmPackage": "shopify-node"
+  },
+  {
+    "githubUser": "kapit",
+    "githubRepo": "observe-shim",
+    "npmPackage": "observe-shim"
+  },
+  {
+    "githubUser": "bancek",
+    "githubRepo": "node-xattr-async",
+    "npmPackage": "xattr-async"
+  },
+  {
+    "githubUser": "holt",
+    "githubRepo": "syringe",
+    "npmPackage": "syringejs"
+  },
+  {
+    "githubUser": "globaldev",
+    "githubRepo": "grunt-montage",
+    "npmPackage": "grunt-montage"
+  },
+  {
+    "githubUser": "substance",
+    "githubRepo": "document",
+    "npmPackage": "substance-document"
+  },
+  {
+    "githubUser": "yageek",
+    "githubRepo": "lambertjs",
+    "npmPackage": "lambertjs"
   }
 ]
