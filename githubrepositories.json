@@ -18265,6 +18265,11 @@
     "npmPackage": "corsproxy"
   },
   {
+    "githubUser": "kaelzhang",
+    "githubRepo": "cortex",
+    "npmPackage": "cortex"
+  },
+  {
     "githubUser": "aikar",
     "githubRepo": "cosmos",
     "npmPackage": "cosmos"
@@ -47260,6 +47265,11 @@
     "npmPackage": "inbound"
   },
   {
+    "githubUser": "andris9",
+    "githubRepo": "inbox",
+    "npmPackage": "inbox"
+  },
+  {
     "githubUser": "reggi",
     "githubRepo": "inc",
     "npmPackage": "inc"
@@ -63575,7 +63585,7 @@
     "npmPackage": "mongosessionstore"
   },
   {
-    "githubUser": "guileen",
+    "githubUser": "kissjs",
     "githubRepo": "node-mongoskin",
     "npmPackage": "mongoskin"
   },
@@ -69878,6 +69888,11 @@
     "githubUser": "darrenzully",
     "githubRepo": "node-swt",
     "npmPackage": "node-swt"
+  },
+  {
+    "githubUser": "pnoi",
+    "githubRepo": "synapse",
+    "npmPackage": "node-synapse"
   },
   {
     "githubUser": "thlorenz",
@@ -114225,7 +114240,7 @@
     "npmPackage": "simpleconvert-xml"
   },
   {
-    "githubUser": "explicitcall",
+    "githubUser": "karma-runner",
     "githubRepo": "karma-safari-launcher",
     "npmPackage": "karma-safari-launcher"
   },
@@ -123150,7 +123165,7 @@
     "npmPackage": "min-stream"
   },
   {
-    "githubUser": "gmuteam",
+    "githubUser": "liaoxuezhi",
     "githubRepo": "jsbint",
     "npmPackage": "jsbint"
   },
@@ -128515,7 +128530,7 @@
     "npmPackage": "ifile"
   },
   {
-    "githubUser": "topcs",
+    "githubUser": "rootslab",
     "githubRepo": "redispade",
     "npmPackage": "redispade"
   },
@@ -140280,7 +140295,7 @@
     "npmPackage": "lid.js"
   },
   {
-    "githubUser": "Airixly",
+    "githubUser": "airixly",
     "githubRepo": "yfcomponent",
     "npmPackage": "yfcomponent"
   },
@@ -142680,6 +142695,11 @@
     "npmPackage": "node-restify-validation"
   },
   {
+    "githubUser": "epeli",
+    "githubRepo": "qdomain",
+    "npmPackage": "qdomain"
+  },
+  {
     "githubUser": "kdocki",
     "githubRepo": "dpd-mincer",
     "npmPackage": "dpd-mincer"
@@ -142818,5 +142838,180 @@
     "githubUser": "jking90",
     "githubRepo": "docpad-plugin-nodesass",
     "npmPackage": "docpad-plugin-nodesass"
+  },
+  {
+    "githubUser": "strongloop",
+    "githubRepo": "strong-cluster-control",
+    "npmPackage": "strong-cluster-control"
+  },
+  {
+    "githubUser": "tommydudebreaux",
+    "githubRepo": "mixdown-cql",
+    "npmPackage": "mixdown-cql"
+  },
+  {
+    "githubUser": "ogt",
+    "githubRepo": "webcommand-express",
+    "npmPackage": "webcommand-express"
+  },
+  {
+    "githubUser": "zencoder",
+    "githubRepo": "video-js",
+    "npmPackage": "videojs"
+  },
+  {
+    "githubUser": "jden",
+    "githubRepo": "exec-stream",
+    "npmPackage": "exec-stream"
+  },
+  {
+    "githubUser": "drom",
+    "githubRepo": "digraph",
+    "npmPackage": "digraph"
+  },
+  {
+    "githubUser": "williamwicks",
+    "githubRepo": "node-eachline",
+    "npmPackage": "eachline"
+  },
+  {
+    "githubUser": "HenrikJoreteg",
+    "githubRepo": "domeventlogger",
+    "npmPackage": "domeventlogger"
+  },
+  {
+    "githubUser": "spumko",
+    "githubRepo": "hole",
+    "npmPackage": "hole"
+  },
+  {
+    "githubUser": "fia4joy",
+    "githubRepo": "mathmodule-ext",
+    "npmPackage": "mathmodule2"
+  },
+  {
+    "githubUser": "xiangshouding",
+    "githubRepo": "fis-spriter-csssprites",
+    "npmPackage": "fis-spriter-csssprites"
+  },
+  {
+    "githubUser": "bower",
+    "githubRepo": "endpoint-parser",
+    "npmPackage": "bower-endpoint-parser"
+  },
+  {
+    "githubUser": "gdandar",
+    "githubRepo": "Knockout-Parsley",
+    "npmPackage": "knockout-parsley"
+  },
+  {
+    "githubUser": "xiangshouding",
+    "githubRepo": "node-images",
+    "npmPackage": "node-images"
+  },
+  {
+    "githubUser": "Unitech",
+    "githubRepo": "node-multimeter",
+    "npmPackage": "pm2-multimeter"
+  },
+  {
+    "githubUser": "bogus-weber",
+    "githubRepo": "node-web-driver",
+    "npmPackage": "web-driver"
+  },
+  {
+    "githubUser": "joshleaves",
+    "githubRepo": "api-signed-request",
+    "npmPackage": "api-signed-request"
+  },
+  {
+    "githubUser": "twolfson",
+    "githubRepo": "value-mapper",
+    "npmPackage": "value-mapper"
+  },
+  {
+    "githubUser": "philcockfield",
+    "githubRepo": "meteor-package-loader",
+    "npmPackage": "meteor-package-loader"
+  },
+  {
+    "githubUser": "kawanet",
+    "githubRepo": "kagodb",
+    "npmPackage": "kagodb"
+  },
+  {
+    "githubUser": "kdi",
+    "githubRepo": "cli",
+    "npmPackage": "kdi"
+  },
+  {
+    "githubUser": "medikoo",
+    "githubRepo": "cjs-vs-amd-benchmark",
+    "npmPackage": "cjs-vs-amd-benchmark"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "topdown-physics",
+    "npmPackage": "topdown-physics"
+  },
+  {
+    "githubUser": "vzaccaria",
+    "githubRepo": "md2pdf",
+    "npmPackage": "md2pdf"
+  },
+  {
+    "githubUser": "alappe",
+    "githubRepo": "grunt-typo3-phpunit",
+    "npmPackage": "grunt-typo3-phpunit"
+  },
+  {
+    "githubUser": "bharrisau",
+    "githubRepo": "edalm",
+    "npmPackage": "edalm"
+  },
+  {
+    "githubUser": "brisk-modules",
+    "githubRepo": "facebook",
+    "npmPackage": "brisk-facebook"
+  },
+  {
+    "githubUser": "nr404",
+    "githubRepo": "grunt-hashmap-svnadd",
+    "npmPackage": "grunt-hashmap-svnadd"
+  },
+  {
+    "githubUser": "DimitarChristoff",
+    "githubRepo": "primish",
+    "npmPackage": "primish"
+  },
+  {
+    "githubUser": "Wayla",
+    "githubRepo": "geo-hash",
+    "npmPackage": "geo-hash"
+  },
+  {
+    "githubUser": "jedi4ever",
+    "githubRepo": "bashpack",
+    "npmPackage": "bashpack"
+  },
+  {
+    "githubUser": "uggedal",
+    "githubRepo": "extractif",
+    "npmPackage": "extractif"
+  },
+  {
+    "githubUser": "lichgo",
+    "githubRepo": "jcompressor",
+    "npmPackage": "jcompressor"
+  },
+  {
+    "githubUser": "llevkin",
+    "githubRepo": "dnode-spider",
+    "npmPackage": "dnode-spider"
+  },
+  {
+    "githubUser": "leohxj",
+    "githubRepo": "generator-jing",
+    "npmPackage": "generator-jing"
   }
 ]
