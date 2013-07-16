@@ -47375,7 +47375,7 @@
     "npmPackage": "inertia"
   },
   {
-    "githubUser": "Webizly",
+    "githubUser": "mywebclass",
     "githubRepo": "inet",
     "npmPackage": "inet"
   },
@@ -90025,6 +90025,11 @@
     "npmPackage": "seed-riak"
   },
   {
+    "githubUser": "1602",
+    "githubRepo": "seedjs",
+    "npmPackage": "seedjs"
+  },
+  {
     "githubUser": "RyanAmos",
     "githubRepo": "seeds",
     "npmPackage": "seeds"
@@ -90223,6 +90228,11 @@
     "githubUser": "isaacs",
     "githubRepo": "semicolons",
     "npmPackage": "semicolons"
+  },
+  {
+    "githubUser": "1602",
+    "githubRepo": "semicov",
+    "npmPackage": "semicov"
   },
   {
     "githubUser": "cjheath",
@@ -142613,5 +142623,200 @@
     "githubUser": "kenhkan",
     "githubRepo": "noflo-semanticsthree",
     "npmPackage": "noflo-semanticsthree"
+  },
+  {
+    "githubUser": "brunch",
+    "githubRepo": "umd-wrapper",
+    "npmPackage": "umd-wrapper"
+  },
+  {
+    "githubUser": "JakubMrozek",
+    "githubRepo": "restito",
+    "npmPackage": "restito"
+  },
+  {
+    "githubUser": "adambom",
+    "githubRepo": "parallel",
+    "npmPackage": "paralleljs"
+  },
+  {
+    "githubUser": "halkeye",
+    "githubRepo": "hubot-brain-import",
+    "npmPackage": "hubot-brain-import"
+  },
+  {
+    "githubUser": "jozefizso",
+    "githubRepo": "generator-license",
+    "npmPackage": "generator-license"
+  },
+  {
+    "githubUser": "superjoe30",
+    "githubRepo": "node-perlin-noise",
+    "npmPackage": "perlin-noise"
+  },
+  {
+    "githubUser": "manuelcabral",
+    "githubRepo": "node-mongo-counter",
+    "npmPackage": "mongo-counter"
+  },
+  {
+    "githubUser": "makingmobile",
+    "githubRepo": "makingmobile-plugin-doc",
+    "npmPackage": "makingmobile-plugin-doc"
+  },
+  {
+    "githubUser": "tlrobinson",
+    "githubRepo": "node-cgminer",
+    "npmPackage": "cgminer"
+  },
+  {
+    "githubUser": "moul",
+    "githubRepo": "connect-tcp",
+    "npmPackage": "connect-tcp"
+  },
+  {
+    "githubUser": "z0mt3c",
+    "githubRepo": "node-restify-validation",
+    "npmPackage": "node-restify-validation"
+  },
+  {
+    "githubUser": "kdocki",
+    "githubRepo": "dpd-mincer",
+    "npmPackage": "dpd-mincer"
+  },
+  {
+    "githubUser": "michaelcolenso",
+    "githubRepo": "steve",
+    "npmPackage": "stevetube"
+  },
+  {
+    "githubUser": "spicydonuts",
+    "githubRepo": "opex",
+    "npmPackage": "opex"
+  },
+  {
+    "githubUser": "imrefazekas",
+    "githubRepo": "knockout",
+    "npmPackage": "knockout.mapper.js"
+  },
+  {
+    "githubUser": "binocarlos",
+    "githubRepo": "digger-utils",
+    "npmPackage": "digger-utils"
+  },
+  {
+    "githubUser": "segmentio",
+    "githubRepo": "component-markdown",
+    "npmPackage": "component-markdown"
+  },
+  {
+    "githubUser": "derrickpelletier",
+    "githubRepo": "node-status",
+    "npmPackage": "node-status"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "stability-badges",
+    "npmPackage": "stability-badges"
+  },
+  {
+    "githubUser": "isaacs",
+    "githubRepo": "duplex-passthrough",
+    "npmPackage": "duplex-passthrough"
+  },
+  {
+    "githubUser": "voceconnect",
+    "githubRepo": "grunt-show-config",
+    "npmPackage": "grunt-show-config"
+  },
+  {
+    "githubUser": "binocarlos",
+    "githubRepo": "digger",
+    "npmPackage": "digger"
+  },
+  {
+    "githubUser": "JakubMrozek",
+    "githubRepo": "express-api-router",
+    "npmPackage": "express-api-router"
+  },
+  {
+    "githubUser": "agilemd",
+    "githubRepo": "dockerfile",
+    "npmPackage": "dockerfile"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "getport",
+    "npmPackage": "getport"
+  },
+  {
+    "githubUser": "ojjs",
+    "githubRepo": "oj",
+    "npmPackage": "oj-github-button"
+  },
+  {
+    "githubUser": "mcollina",
+    "githubRepo": "levelgraph-jsonld",
+    "npmPackage": "levelgraph-jsonld"
+  },
+  {
+    "githubUser": "mozilla-b2g",
+    "githubRepo": "mocha-tbpl-reporter",
+    "npmPackage": "mocha-tbpl-reporter"
+  },
+  {
+    "githubUser": "travist",
+    "githubRepo": "async",
+    "npmPackage": "asyncgo"
+  },
+  {
+    "githubUser": "jden",
+    "githubRepo": "literal-stream",
+    "npmPackage": "literal-stream"
+  },
+  {
+    "githubUser": "skeggse",
+    "githubRepo": "nicely",
+    "npmPackage": "nicely"
+  },
+  {
+    "githubUser": "devoncrouse",
+    "githubRepo": "node-kafka",
+    "npmPackage": "kafka-working"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "childport",
+    "npmPackage": "childport"
+  },
+  {
+    "githubUser": "fengmk2",
+    "githubRepo": "weibo-mid",
+    "npmPackage": "weibo-mid"
+  },
+  {
+    "githubUser": "kawanet",
+    "githubRepo": "grunt-quote-json",
+    "npmPackage": "grunt-quote-json"
+  },
+  {
+    "githubUser": "mikeal",
+    "githubRepo": "flipover",
+    "npmPackage": "flipover"
+  },
+  {
+    "githubUser": "carlos8f",
+    "githubRepo": "login-with-github",
+    "npmPackage": "login-with-github"
+  },
+  {
+    "githubUser": "alexkwolfe",
+    "githubRepo": "node-ad2usb",
+    "npmPackage": "ad2usb"
+  },
+  {
+    "githubUser": "jking90",
+    "githubRepo": "docpad-plugin-nodesass",
+    "npmPackage": "docpad-plugin-nodesass"
   }
 ]
