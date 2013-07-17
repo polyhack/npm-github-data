@@ -23,11 +23,11 @@
     "email": "r@va.gg",
     "hireable": true,
     "bio": null,
-    "public_repos": 112,
-    "followers": 157,
+    "public_repos": 113,
+    "followers": 158,
     "following": 16,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-07-16T15:24:06Z",
+    "updated_at": "2013-07-17T15:11:10Z",
     "public_gists": 24
   },
   {
@@ -54,11 +54,11 @@
     "email": "damon@fluxant.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 214,
+    "public_repos": 215,
     "followers": 90,
     "following": 141,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-07-16T12:56:49Z",
+    "updated_at": "2013-07-17T12:06:19Z",
     "public_gists": 22
   },
   {
@@ -86,10 +86,10 @@
     "hireable": true,
     "bio": null,
     "public_repos": 42,
-    "followers": 41,
+    "followers": 42,
     "following": 32,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-07-16T08:36:31Z",
+    "updated_at": "2013-07-17T13:01:09Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 28,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-07-16T13:22:29Z",
+    "updated_at": "2013-07-17T11:05:49Z",
     "public_gists": 9
   },
   {
@@ -179,10 +179,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 52,
-    "followers": 135,
+    "followers": 136,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-07-16T05:58:16Z",
+    "updated_at": "2013-07-17T05:09:28Z",
     "public_gists": 1
   },
   {
@@ -210,10 +210,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 109,
-    "followers": 34,
+    "followers": 35,
     "following": 72,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-07-16T14:10:33Z",
+    "updated_at": "2013-07-17T13:49:03Z",
     "public_gists": 7
   },
   {
@@ -244,7 +244,7 @@
     "followers": 180,
     "following": 32,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-07-15T23:13:09Z",
+    "updated_at": "2013-07-17T06:55:06Z",
     "public_gists": 53
   },
   {
@@ -306,7 +306,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-07-15T12:41:03Z",
+    "updated_at": "2013-07-17T07:14:49Z",
     "public_gists": 0
   },
   {
@@ -337,7 +337,7 @@
     "followers": 24,
     "following": 18,
     "created_at": "2010-12-21T06:43:12Z",
-    "updated_at": "2013-07-15T13:19:32Z",
+    "updated_at": "2013-07-17T05:37:29Z",
     "public_gists": 5
   },
   {
@@ -365,10 +365,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 32,
-    "followers": 208,
+    "followers": 209,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-07-16T14:20:11Z",
+    "updated_at": "2013-07-17T15:36:11Z",
     "public_gists": 22
   },
   {
@@ -395,11 +395,11 @@
     "email": "zack@z0w0.me",
     "hireable": true,
     "bio": null,
-    "public_repos": 14,
+    "public_repos": 15,
     "followers": 14,
     "following": 14,
     "created_at": "2011-03-18T03:55:32Z",
-    "updated_at": "2013-07-16T11:19:27Z",
+    "updated_at": "2013-07-17T01:19:18Z",
     "public_gists": 18
   },
   {
@@ -492,7 +492,7 @@
     "followers": 24,
     "following": 45,
     "created_at": "2008-12-03T23:25:48Z",
-    "updated_at": "2013-07-15T13:35:47Z",
+    "updated_at": "2013-07-17T13:03:56Z",
     "public_gists": 3
   },
   {
@@ -523,7 +523,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T06:22:11Z",
-    "updated_at": "2013-07-09T12:28:39Z",
+    "updated_at": "2013-07-17T01:33:51Z",
     "public_gists": 0
   },
   {
@@ -554,7 +554,7 @@
     "followers": 379,
     "following": 100,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-07-16T15:39:11Z",
+    "updated_at": "2013-07-17T13:55:48Z",
     "public_gists": 94
   },
   {
@@ -585,7 +585,7 @@
     "followers": 28,
     "following": 3,
     "created_at": "2010-08-23T07:05:33Z",
-    "updated_at": "2013-07-16T07:17:31Z",
+    "updated_at": "2013-07-17T09:41:40Z",
     "public_gists": 3
   },
   {
@@ -616,7 +616,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-07-16T07:18:49Z",
+    "updated_at": "2013-07-17T05:48:49Z",
     "public_gists": 0
   },
   {
@@ -647,7 +647,7 @@
     "followers": 32,
     "following": 40,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-07-15T23:47:48Z",
+    "updated_at": "2013-07-17T07:16:59Z",
     "public_gists": 2
   },
   {
@@ -678,7 +678,7 @@
     "followers": 62,
     "following": 0,
     "created_at": "2010-10-10T08:05:27Z",
-    "updated_at": "2013-07-16T00:43:51Z",
+    "updated_at": "2013-07-17T05:27:21Z",
     "public_gists": 60
   },
   {
@@ -709,7 +709,7 @@
     "followers": 153,
     "following": 6,
     "created_at": "2009-01-18T03:29:23Z",
-    "updated_at": "2013-07-16T05:55:37Z",
+    "updated_at": "2013-07-17T13:11:01Z",
     "public_gists": 33
   },
   {
@@ -802,7 +802,7 @@
     "followers": 97,
     "following": 34,
     "created_at": "2008-05-07T08:42:55Z",
-    "updated_at": "2013-07-15T15:54:14Z",
+    "updated_at": "2013-07-16T20:06:19Z",
     "public_gists": 25
   },
   {
@@ -833,7 +833,7 @@
     "followers": 261,
     "following": 25,
     "created_at": "2009-10-22T22:13:53Z",
-    "updated_at": "2013-07-16T15:10:58Z",
+    "updated_at": "2013-07-17T13:20:49Z",
     "public_gists": 17
   },
   {
@@ -864,7 +864,7 @@
     "followers": 7,
     "following": 7,
     "created_at": "2009-02-26T11:58:02Z",
-    "updated_at": "2013-07-16T04:34:29Z",
+    "updated_at": "2013-07-17T06:51:00Z",
     "public_gists": 3
   },
   {
@@ -895,7 +895,7 @@
     "followers": 83,
     "following": 43,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-07-16T15:46:18Z",
+    "updated_at": "2013-07-17T07:57:53Z",
     "public_gists": 8
   },
   {
@@ -926,7 +926,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2011-03-08T04:51:20Z",
-    "updated_at": "2013-05-12T00:16:57Z",
+    "updated_at": "2013-07-16T21:14:59Z",
     "public_gists": 1
   },
   {
@@ -957,7 +957,7 @@
     "followers": 4,
     "following": 2,
     "created_at": "2010-06-23T21:36:09Z",
-    "updated_at": "2013-07-16T11:33:06Z",
+    "updated_at": "2013-07-17T02:39:00Z",
     "public_gists": 4
   },
   {
@@ -988,7 +988,7 @@
     "followers": 14,
     "following": 16,
     "created_at": "2011-08-18T08:37:15Z",
-    "updated_at": "2013-07-16T14:41:01Z",
+    "updated_at": "2013-07-17T14:02:56Z",
     "public_gists": 18
   },
   {
@@ -1017,9 +1017,9 @@
     "bio": "Javascript/NodeJS developer. \r\n\r\nI help companies refine their Javascript methodologies, tools, and architecture while improving their practices so they can grow their Javascript at velocity.\r\n",
     "public_repos": 265,
     "followers": 149,
-    "following": 178,
+    "following": 179,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-07-16T01:53:03Z",
+    "updated_at": "2013-07-17T12:32:13Z",
     "public_gists": 77
   },
   {
@@ -1050,7 +1050,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-07-16T06:44:21Z",
+    "updated_at": "2013-07-17T06:51:31Z",
     "public_gists": 36
   },
   {
@@ -1081,7 +1081,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-07-04T11:06:07Z",
+    "updated_at": "2013-07-16T18:51:29Z",
     "public_gists": 0
   },
   {
@@ -1143,7 +1143,7 @@
     "followers": 2,
     "following": 11,
     "created_at": "2011-03-17T09:24:44Z",
-    "updated_at": "2013-07-16T14:42:30Z",
+    "updated_at": "2013-07-17T06:43:56Z",
     "public_gists": 0
   },
   {
@@ -1174,7 +1174,7 @@
     "followers": 4,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-07-16T06:46:11Z",
+    "updated_at": "2013-07-17T07:15:54Z",
     "public_gists": 0
   },
   {
@@ -1205,7 +1205,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-03-19T01:17:40Z",
-    "updated_at": "2013-07-16T13:57:37Z",
+    "updated_at": "2013-07-17T10:04:20Z",
     "public_gists": 0
   },
   {
@@ -1232,11 +1232,11 @@
     "email": "mark@wolfe.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 117,
+    "public_repos": 118,
     "followers": 16,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-07-16T13:04:59Z",
+    "updated_at": "2013-07-17T09:49:00Z",
     "public_gists": 73
   },
   {
@@ -1267,7 +1267,7 @@
     "followers": 61,
     "following": 33,
     "created_at": "2010-05-09T06:27:54Z",
-    "updated_at": "2013-07-16T12:45:03Z",
+    "updated_at": "2013-07-17T07:33:46Z",
     "public_gists": 88
   },
   {
@@ -1298,7 +1298,7 @@
     "followers": 84,
     "following": 96,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-07-16T13:25:17Z",
+    "updated_at": "2013-07-17T06:26:32Z",
     "public_gists": 27
   },
   {
@@ -1422,7 +1422,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-01-21T13:03:18Z",
-    "updated_at": "2013-07-14T19:56:11Z",
+    "updated_at": "2013-07-17T15:57:46Z",
     "public_gists": 0
   },
   {
@@ -1453,7 +1453,7 @@
     "followers": 21,
     "following": 34,
     "created_at": "2010-12-07T16:27:54Z",
-    "updated_at": "2013-07-15T08:57:42Z",
+    "updated_at": "2013-07-17T14:54:13Z",
     "public_gists": 5
   },
   {
@@ -1481,10 +1481,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 27,
-    "followers": 43,
+    "followers": 44,
     "following": 25,
     "created_at": "2008-08-08T00:59:42Z",
-    "updated_at": "2013-07-15T09:13:19Z",
+    "updated_at": "2013-07-17T10:07:10Z",
     "public_gists": 213
   },
   {
@@ -1512,10 +1512,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 11,
-    "followers": 1144,
+    "followers": 1145,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-07-16T13:51:13Z",
+    "updated_at": "2013-07-17T15:01:23Z",
     "public_gists": 4
   },
   {
@@ -1577,7 +1577,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-07-16T08:53:36Z",
+    "updated_at": "2013-07-17T14:07:59Z",
     "public_gists": 0
   },
   {
@@ -1608,7 +1608,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T13:11:40Z",
-    "updated_at": "2013-07-16T10:41:43Z",
+    "updated_at": "2013-07-17T09:24:43Z",
     "public_gists": 0
   },
   {
@@ -1701,7 +1701,7 @@
     "followers": 5,
     "following": 22,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-07-16T13:44:19Z",
+    "updated_at": "2013-07-17T13:54:18Z",
     "public_gists": 17
   },
   {
@@ -1763,7 +1763,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-07-16T06:46:09Z",
+    "updated_at": "2013-07-17T14:14:52Z",
     "public_gists": 1
   },
   {
@@ -1825,7 +1825,7 @@
     "followers": 21,
     "following": 4,
     "created_at": "2009-05-13T01:05:40Z",
-    "updated_at": "2013-07-15T16:43:55Z",
+    "updated_at": "2013-07-17T00:42:33Z",
     "public_gists": 1
   },
   {
@@ -1856,7 +1856,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-10-20T00:39:29Z",
-    "updated_at": "2013-07-01T16:44:07Z",
+    "updated_at": "2013-07-17T14:03:40Z",
     "public_gists": 0
   },
   {
@@ -1887,7 +1887,7 @@
     "followers": 2,
     "following": 0,
     "created_at": "2008-08-15T14:03:09Z",
-    "updated_at": "2013-07-15T00:43:22Z",
+    "updated_at": "2013-07-17T12:01:25Z",
     "public_gists": 2
   },
   {
@@ -1980,7 +1980,7 @@
     "followers": 1,
     "following": 6,
     "created_at": "2009-04-17T01:18:42Z",
-    "updated_at": "2013-07-16T05:51:29Z",
+    "updated_at": "2013-07-17T07:58:14Z",
     "public_gists": 12
   },
   {
@@ -2011,7 +2011,7 @@
     "followers": 14,
     "following": 17,
     "created_at": "2008-08-25T00:27:56Z",
-    "updated_at": "2013-07-16T06:40:03Z",
+    "updated_at": "2013-07-17T08:44:42Z",
     "public_gists": 37
   },
   {
@@ -2042,7 +2042,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-07-16T07:18:49Z",
+    "updated_at": "2013-07-17T05:48:49Z",
     "public_gists": 0
   },
   {
@@ -2073,7 +2073,7 @@
     "followers": 2,
     "following": 12,
     "created_at": "2011-07-08T20:28:32Z",
-    "updated_at": "2013-07-15T07:52:33Z",
+    "updated_at": "2013-07-17T05:13:12Z",
     "public_gists": 1
   },
   {
@@ -2104,7 +2104,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T10:24:12Z",
-    "updated_at": "2013-07-16T16:12:14Z",
+    "updated_at": "2013-07-17T12:17:43Z",
     "public_gists": 0
   },
   {
@@ -2135,7 +2135,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-07-15T20:25:15Z",
+    "updated_at": "2013-07-17T03:22:36Z",
     "public_gists": 0
   },
   {
@@ -2166,7 +2166,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-11-15T00:30:11Z",
-    "updated_at": "2013-07-16T07:02:31Z",
+    "updated_at": "2013-07-17T07:55:30Z",
     "public_gists": 0
   },
   {
@@ -2228,7 +2228,7 @@
     "followers": 8,
     "following": 5,
     "created_at": "2011-04-04T08:54:40Z",
-    "updated_at": "2013-07-16T13:15:10Z",
+    "updated_at": "2013-07-17T14:15:36Z",
     "public_gists": 0
   },
   {
@@ -2257,9 +2257,9 @@
     "bio": null,
     "public_repos": 14,
     "followers": 8,
-    "following": 18,
+    "following": 20,
     "created_at": "2011-02-27T09:41:23Z",
-    "updated_at": "2013-07-15T15:13:42Z",
+    "updated_at": "2013-07-17T12:24:00Z",
     "public_gists": 4
   },
   {
@@ -2414,7 +2414,7 @@
     "followers": 0,
     "following": 19,
     "created_at": "2012-01-13T04:50:42Z",
-    "updated_at": "2013-07-16T08:04:33Z",
+    "updated_at": "2013-07-17T13:31:32Z",
     "public_gists": 5
   },
   {
@@ -2445,7 +2445,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-07-16T13:18:22Z",
+    "updated_at": "2013-07-17T14:34:50Z",
     "public_gists": 0
   },
   {
@@ -2507,7 +2507,7 @@
     "followers": 10,
     "following": 5,
     "created_at": "2010-02-22T11:28:23Z",
-    "updated_at": "2013-07-12T19:55:58Z",
+    "updated_at": "2013-07-17T00:48:16Z",
     "public_gists": 11
   },
   {
@@ -2631,7 +2631,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-03T04:57:49Z",
-    "updated_at": "2013-07-16T06:37:08Z",
+    "updated_at": "2013-07-17T07:02:59Z",
     "public_gists": 0
   },
   {
@@ -2724,7 +2724,7 @@
     "followers": 500,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-07-16T12:24:32Z",
+    "updated_at": "2013-07-17T15:17:18Z",
     "public_gists": 8
   },
   {
@@ -2755,7 +2755,7 @@
     "followers": 38,
     "following": 50,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-07-13T11:02:56Z",
+    "updated_at": "2013-07-17T01:04:15Z",
     "public_gists": 19
   },
   {
@@ -2879,7 +2879,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-07-15T12:41:03Z",
+    "updated_at": "2013-07-17T07:14:49Z",
     "public_gists": 0
   },
   {
@@ -2910,7 +2910,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-31T02:23:59Z",
-    "updated_at": "2013-07-16T06:44:23Z",
+    "updated_at": "2013-07-17T12:24:11Z",
     "public_gists": 0
   },
   {
@@ -2941,7 +2941,7 @@
     "followers": 14,
     "following": 24,
     "created_at": "2010-06-11T11:40:03Z",
-    "updated_at": "2013-07-14T12:34:50Z",
+    "updated_at": "2013-07-17T01:37:30Z",
     "public_gists": 47
   },
   {
@@ -3096,7 +3096,7 @@
     "followers": 49,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-07-16T16:18:16Z",
+    "updated_at": "2013-07-17T02:01:10Z",
     "public_gists": 57
   },
   {
@@ -3127,7 +3127,7 @@
     "followers": 34,
     "following": 59,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-07-16T06:59:54Z",
+    "updated_at": "2013-07-17T01:08:39Z",
     "public_gists": 55
   },
   {
@@ -3158,7 +3158,7 @@
     "followers": 0,
     "following": 2,
     "created_at": "2011-01-10T23:31:57Z",
-    "updated_at": "2013-07-16T12:41:32Z",
+    "updated_at": "2013-07-17T01:17:15Z",
     "public_gists": 2
   },
   {
@@ -3220,7 +3220,7 @@
     "followers": 11,
     "following": 8,
     "created_at": "2009-04-09T02:24:11Z",
-    "updated_at": "2013-07-16T15:19:39Z",
+    "updated_at": "2013-07-17T16:37:57Z",
     "public_gists": 10
   },
   {
@@ -3278,11 +3278,11 @@
     "email": "david@goodlad.net",
     "hireable": false,
     "bio": null,
-    "public_repos": 52,
+    "public_repos": 53,
     "followers": 27,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-07-15T06:27:43Z",
+    "updated_at": "2013-07-17T12:19:28Z",
     "public_gists": 8
   },
   {
@@ -3313,7 +3313,7 @@
     "followers": 7,
     "following": 0,
     "created_at": "2009-10-06T20:26:46Z",
-    "updated_at": "2013-07-11T22:18:20Z",
+    "updated_at": "2013-07-16T21:59:27Z",
     "public_gists": 3
   },
   {
@@ -3344,7 +3344,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-07-16T14:20:52Z",
+    "updated_at": "2013-07-17T08:25:54Z",
     "public_gists": 0
   },
   {
@@ -3406,7 +3406,7 @@
     "followers": 12,
     "following": 5,
     "created_at": "2009-06-01T09:06:40Z",
-    "updated_at": "2013-07-11T13:33:21Z",
+    "updated_at": "2013-07-17T11:48:05Z",
     "public_gists": 7
   },
   {
@@ -3468,7 +3468,7 @@
     "followers": 6,
     "following": 15,
     "created_at": "2010-05-19T14:12:00Z",
-    "updated_at": "2013-07-16T05:57:06Z",
+    "updated_at": "2013-07-17T14:29:27Z",
     "public_gists": 5
   },
   {
@@ -3499,7 +3499,7 @@
     "followers": 7,
     "following": 82,
     "created_at": "2012-02-09T11:44:18Z",
-    "updated_at": "2013-07-10T18:43:16Z",
+    "updated_at": "2013-07-17T00:38:03Z",
     "public_gists": 4
   },
   {
@@ -3623,7 +3623,7 @@
     "followers": 212,
     "following": 211,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-07-16T07:35:50Z",
+    "updated_at": "2013-07-17T09:42:01Z",
     "public_gists": 116
   },
   {
@@ -3685,7 +3685,7 @@
     "followers": 5,
     "following": 1,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-07-16T08:55:22Z",
+    "updated_at": "2013-07-17T07:36:42Z",
     "public_gists": 0
   },
   {
@@ -3716,7 +3716,7 @@
     "followers": 4,
     "following": 12,
     "created_at": "2011-02-24T21:20:15Z",
-    "updated_at": "2013-07-16T16:51:15Z",
+    "updated_at": "2013-07-17T12:05:33Z",
     "public_gists": 0
   },
   {
@@ -3867,12 +3867,12 @@
     "email": "christopher.lloyd+github@gmail.com",
     "hireable": false,
     "bio": "",
-    "public_repos": 20,
+    "public_repos": 18,
     "followers": 112,
-    "following": 161,
+    "following": 162,
     "created_at": "2008-02-23T23:58:36Z",
-    "updated_at": "2013-07-16T16:48:59Z",
-    "public_gists": 81
+    "updated_at": "2013-07-17T00:01:59Z",
+    "public_gists": 82
   },
   {
     "login": "russholio",
@@ -3902,7 +3902,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2012-02-29T04:15:49Z",
-    "updated_at": "2013-07-16T12:21:22Z",
+    "updated_at": "2013-07-17T05:40:15Z",
     "public_gists": 0
   },
   {
@@ -3933,7 +3933,7 @@
     "followers": 40,
     "following": 14,
     "created_at": "2008-02-29T06:55:16Z",
-    "updated_at": "2013-07-16T07:21:10Z",
+    "updated_at": "2013-07-17T05:22:35Z",
     "public_gists": 19
   },
   {
@@ -3964,7 +3964,7 @@
     "followers": 25,
     "following": 2,
     "created_at": "2010-05-14T05:43:52Z",
-    "updated_at": "2013-07-14T12:05:10Z",
+    "updated_at": "2013-07-17T09:43:56Z",
     "public_gists": 8
   },
   {
@@ -4057,7 +4057,7 @@
     "followers": 90,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
-    "updated_at": "2013-07-16T05:01:15Z",
+    "updated_at": "2013-07-17T08:42:57Z",
     "public_gists": 25
   },
   {
@@ -4088,7 +4088,7 @@
     "followers": 10,
     "following": 5,
     "created_at": "2008-11-26T05:24:20Z",
-    "updated_at": "2013-07-12T23:12:03Z",
+    "updated_at": "2013-07-16T21:22:57Z",
     "public_gists": 22
   },
   {
@@ -4119,7 +4119,7 @@
     "followers": 6,
     "following": 3,
     "created_at": "2012-09-11T00:59:17Z",
-    "updated_at": "2013-07-16T05:12:46Z",
+    "updated_at": "2013-07-16T23:23:11Z",
     "public_gists": 0
   },
   {
@@ -4150,7 +4150,7 @@
     "followers": 9,
     "following": 17,
     "created_at": "2008-12-23T23:46:59Z",
-    "updated_at": "2013-07-11T04:06:43Z",
+    "updated_at": "2013-07-17T01:54:48Z",
     "public_gists": 9
   },
   {
@@ -4212,7 +4212,7 @@
     "followers": 88,
     "following": 18,
     "created_at": "2011-05-23T23:42:19Z",
-    "updated_at": "2013-07-16T10:15:44Z",
+    "updated_at": "2013-07-17T15:03:08Z",
     "public_gists": 7
   },
   {
@@ -4305,7 +4305,7 @@
     "followers": 16,
     "following": 29,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-07-16T10:39:30Z",
+    "updated_at": "2013-07-17T11:33:18Z",
     "public_gists": 3
   },
   {
@@ -4336,8 +4336,8 @@
     "followers": 336,
     "following": 21,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-07-16T16:41:43Z",
-    "public_gists": 7
+    "updated_at": "2013-07-17T16:07:27Z",
+    "public_gists": 8
   },
   {
     "login": "dannymidnight",
@@ -4367,7 +4367,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-07-16T08:16:03Z",
+    "updated_at": "2013-07-17T07:27:10Z",
     "public_gists": 0
   },
   {
@@ -4429,7 +4429,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-07-16T07:49:56Z",
+    "updated_at": "2013-07-17T13:07:03Z",
     "public_gists": 0
   },
   {
@@ -4460,7 +4460,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-02-10T23:44:47Z",
-    "updated_at": "2013-07-16T03:06:54Z",
+    "updated_at": "2013-07-17T06:40:47Z",
     "public_gists": 0
   },
   {
@@ -4488,10 +4488,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 18,
-    "followers": 1,
-    "following": 2,
+    "followers": 2,
+    "following": 3,
     "created_at": "2009-08-17T11:36:50Z",
-    "updated_at": "2013-07-15T21:39:29Z",
+    "updated_at": "2013-07-17T05:06:43Z",
     "public_gists": 0
   },
   {
@@ -4553,7 +4553,7 @@
     "followers": 6,
     "following": 29,
     "created_at": "2012-07-03T10:05:08Z",
-    "updated_at": "2013-07-16T13:35:37Z",
+    "updated_at": "2013-07-17T12:52:15Z",
     "public_gists": 18
   },
   {
@@ -4615,7 +4615,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-09T22:17:38Z",
-    "updated_at": "2013-07-16T17:10:09Z",
+    "updated_at": "2013-07-17T17:12:45Z",
     "public_gists": 0
   },
   {
@@ -4677,7 +4677,7 @@
     "followers": 2,
     "following": 6,
     "created_at": "2010-05-29T11:00:43Z",
-    "updated_at": "2013-07-15T22:25:20Z",
+    "updated_at": "2013-07-17T09:28:39Z",
     "public_gists": 29
   },
   {
@@ -4801,7 +4801,7 @@
     "followers": 3,
     "following": 0,
     "created_at": "2012-04-10T22:50:51Z",
-    "updated_at": "2013-07-15T23:57:55Z",
+    "updated_at": "2013-07-17T05:10:54Z",
     "public_gists": 0
   },
   {
@@ -4832,7 +4832,7 @@
     "followers": 35,
     "following": 85,
     "created_at": "2009-03-24T17:06:58Z",
-    "updated_at": "2013-07-16T01:38:05Z",
+    "updated_at": "2013-07-17T05:43:13Z",
     "public_gists": 14
   },
   {
@@ -4987,7 +4987,7 @@
     "followers": 30,
     "following": 9,
     "created_at": "2010-05-15T03:01:03Z",
-    "updated_at": "2013-07-16T14:44:56Z",
+    "updated_at": "2013-07-17T12:16:53Z",
     "public_gists": 14
   },
   {
@@ -5111,7 +5111,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2009-08-27T01:49:19Z",
-    "updated_at": "2013-07-16T12:54:42Z",
+    "updated_at": "2013-07-17T10:03:12Z",
     "public_gists": 1
   }
 ]
