@@ -24,10 +24,10 @@
     "hireable": true,
     "bio": null,
     "public_repos": 115,
-    "followers": 168,
+    "followers": 169,
     "following": 16,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-07-27T15:23:24Z",
+    "updated_at": "2013-07-28T15:07:10Z",
     "public_gists": 24
   },
   {
@@ -54,11 +54,11 @@
     "email": "damon@fluxant.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 221,
+    "public_repos": 222,
     "followers": 90,
     "following": 142,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-07-27T15:14:11Z",
+    "updated_at": "2013-07-28T12:05:47Z",
     "public_gists": 26
   },
   {
@@ -86,10 +86,10 @@
     "hireable": true,
     "bio": null,
     "public_repos": 42,
-    "followers": 45,
+    "followers": 46,
     "following": 33,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-07-27T00:10:40Z",
+    "updated_at": "2013-07-27T16:25:07Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 29,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-07-27T11:29:25Z",
+    "updated_at": "2013-07-28T02:33:38Z",
     "public_gists": 9
   },
   {
@@ -182,7 +182,7 @@
     "followers": 138,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-07-27T14:59:10Z",
+    "updated_at": "2013-07-28T03:09:24Z",
     "public_gists": 1
   },
   {
@@ -213,7 +213,7 @@
     "followers": 41,
     "following": 76,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-07-27T14:35:25Z",
+    "updated_at": "2013-07-28T14:49:41Z",
     "public_gists": 7
   },
   {
@@ -244,7 +244,7 @@
     "followers": 181,
     "following": 32,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-07-27T12:46:19Z",
+    "updated_at": "2013-07-28T11:54:27Z",
     "public_gists": 53
   },
   {
@@ -306,7 +306,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-07-26T07:43:17Z",
+    "updated_at": "2013-07-28T09:25:01Z",
     "public_gists": 0
   },
   {
@@ -368,7 +368,7 @@
     "followers": 212,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-07-26T22:31:47Z",
+    "updated_at": "2013-07-28T12:37:32Z",
     "public_gists": 22
   },
   {
@@ -399,7 +399,7 @@
     "followers": 14,
     "following": 15,
     "created_at": "2011-03-18T03:55:32Z",
-    "updated_at": "2013-07-27T14:21:53Z",
+    "updated_at": "2013-07-28T12:30:54Z",
     "public_gists": 18
   },
   {
@@ -461,7 +461,7 @@
     "followers": 12,
     "following": 82,
     "created_at": "2010-08-18T02:32:33Z",
-    "updated_at": "2013-07-25T20:31:51Z",
+    "updated_at": "2013-07-28T02:51:47Z",
     "public_gists": 7
   },
   {
@@ -488,43 +488,12 @@
     "email": "eugene@noblesamurai.com",
     "hireable": false,
     "bio": "",
-    "public_repos": 60,
+    "public_repos": 61,
     "followers": 25,
     "following": 46,
     "created_at": "2008-12-03T23:25:48Z",
-    "updated_at": "2013-07-27T13:44:04Z",
+    "updated_at": "2013-07-28T15:07:45Z",
     "public_gists": 3
-  },
-  {
-    "login": "buildjs",
-    "id": 1954575,
-    "avatar_url": "https://secure.gravatar.com/avatar/9000779108091f7264b589229c93647a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
-    "gravatar_id": "9000779108091f7264b589229c93647a",
-    "url": "https://api.github.com/users/buildjs",
-    "html_url": "https://github.com/buildjs",
-    "followers_url": "https://api.github.com/users/buildjs/followers",
-    "following_url": "https://api.github.com/users/buildjs/following{/other_user}",
-    "gists_url": "https://api.github.com/users/buildjs/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/buildjs/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/buildjs/subscriptions",
-    "organizations_url": "https://api.github.com/users/buildjs/orgs",
-    "repos_url": "https://api.github.com/users/buildjs/repos",
-    "events_url": "https://api.github.com/users/buildjs/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/buildjs/received_events",
-    "type": "Organization",
-    "name": "BuildJS Tool Suite",
-    "company": null,
-    "blog": "http://buildjs-guide.readthedocs.org/en/latest/",
-    "location": "Sydney, Australia",
-    "email": "buildjs@fluxant.com",
-    "hireable": null,
-    "bio": null,
-    "public_repos": 21,
-    "followers": 0,
-    "following": 0,
-    "created_at": "2012-07-11T06:22:11Z",
-    "updated_at": "2013-07-17T01:33:51Z",
-    "public_gists": 0
   },
   {
     "login": "balupton",
@@ -551,10 +520,10 @@
     "hireable": true,
     "bio": "## [Benjamin \"balupton\" Lupton][1] <br/> \r\n### Web 2.0 Architect · January 2005 to present · Perth, Western Australia <br/>\r\n<br/>\r\nEach day my products are installed in thousands of websites, empower millions of website users, and are constantly praised in social media networks. These outstanding results are achieved through my extreme commitment to quality and excellence in everything I do. My time isn't spent spreading word through social media, instead my time is spent in creating quality solutions that inspire people to spread praise everywhere they go. I'm an expert at what I do and I love doing it. <br/>\r\n<br/>\r\n\r\n## My Projects <br/><br/>\r\n\r\n### [Aloha Editor · October 2010 to present][2]\r\nAloha Editor is more than just the leading HTML5 WYSIWYG editor. It's revolutionising the way we create and interact with content on the web. It's already the next big thing, and will be for many many years to come. It's just purely phenomenal to be able to direct, develop and contribute to such an amazing product.\r\n\r\n### [jQuery Ajaxy · July 2008 to present][3]\r\njQuery Ajaxy allows you to easily upgrade your web site into a full featured Ajax web application. It aims at solving complicated AJAX Paradigms by providing you with a easy managed solution to bind into page state (URL Hash) changes, AJAX form submits, and support AJAX links\r\n\r\n### [jQuery Sparkle · December 2009 to present][4]\r\njQuery Sparkle is a simple but powerful DRY Plugin/Effect Framework aimed to simplify your jQuery development such that you no longer have to repeat yourself. But at it's core it is mostly just a framework to allow you to develop faster, utilising the Don't-Repeat-Yourself ideology.\r\n\r\n### [jQuery Lightbox · December 2007 to present][5]\r\nEver had to link to many images within a page, and noticed how merely satifactory it is requiring the user to view each image in a new window or tab? Yeah, we thought so. Lightboxes enable you to seamlessly display images within your website easily and literally with a click of a button.\r\n\r\n### [BalCMS · August 2009 to present][6]\r\nBalCMS is a Zend Framework and Doctrine ORM powered CMS. It supports such features as i18n, widget, caching, themes and modules.\r\n<br/><br/>\r\n\r\n## Ready to make it happen? <br/><br/>\r\n\r\n**Skype:** balupton <br/>\r\n**Email:** contact@balupton.com <br/>\r\n**Website:** http://www.balupton.com <br/>\r\n**Twitter:** http://twitter.com/balupton <br/>\r\n**GitHub:** http://github.com/balupton <br/>\r\n**LinkedIn:** http://au.linkedin.com/in/balupton\r\n\r\n\r\n  [1]: http://balupton.com\r\n  [2]: http://aloha-editor.com\r\n  [3]: http://balupton.com/projects/jquery-ajaxy\r\n  [4]: http://balupton.com/projects/jquery-sparkle\r\n  [5]: http://balupton.com/projects/jquery-lightbox\r\n  [6]: http://balupton.com/projects/balcms",
     "public_repos": 89,
-    "followers": 385,
+    "followers": 386,
     "following": 101,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-07-27T10:13:19Z",
+    "updated_at": "2013-07-28T14:55:17Z",
     "public_gists": 94
   },
   {
@@ -585,7 +554,7 @@
     "followers": 28,
     "following": 3,
     "created_at": "2010-08-23T07:05:33Z",
-    "updated_at": "2013-07-26T18:03:40Z",
+    "updated_at": "2013-07-28T09:27:43Z",
     "public_gists": 3
   },
   {
@@ -616,7 +585,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-07-26T18:53:40Z",
+    "updated_at": "2013-07-28T13:39:33Z",
     "public_gists": 0
   },
   {
@@ -771,7 +740,7 @@
     "followers": 32,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-07-25T20:30:14Z",
+    "updated_at": "2013-07-28T12:22:58Z",
     "public_gists": 4
   },
   {
@@ -833,39 +802,8 @@
     "followers": 266,
     "following": 25,
     "created_at": "2009-10-22T22:13:53Z",
-    "updated_at": "2013-07-27T12:17:49Z",
+    "updated_at": "2013-07-28T09:29:22Z",
     "public_gists": 17
-  },
-  {
-    "login": "tonymilne",
-    "id": 58188,
-    "avatar_url": "https://secure.gravatar.com/avatar/491da6e991d8e7a9be043debaca5ed06?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "491da6e991d8e7a9be043debaca5ed06",
-    "url": "https://api.github.com/users/tonymilne",
-    "html_url": "https://github.com/tonymilne",
-    "followers_url": "https://api.github.com/users/tonymilne/followers",
-    "following_url": "https://api.github.com/users/tonymilne/following{/other_user}",
-    "gists_url": "https://api.github.com/users/tonymilne/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/tonymilne/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/tonymilne/subscriptions",
-    "organizations_url": "https://api.github.com/users/tonymilne/orgs",
-    "repos_url": "https://api.github.com/users/tonymilne/repos",
-    "events_url": "https://api.github.com/users/tonymilne/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/tonymilne/received_events",
-    "type": "User",
-    "name": "Tony Milne",
-    "company": null,
-    "blog": null,
-    "location": "Melbourne, Australia",
-    "email": null,
-    "hireable": false,
-    "bio": null,
-    "public_repos": 7,
-    "followers": 7,
-    "following": 7,
-    "created_at": "2009-02-26T11:58:02Z",
-    "updated_at": "2013-07-25T04:26:55Z",
-    "public_gists": 3
   },
   {
     "login": "blakeembrey",
@@ -893,9 +831,9 @@
     "bio": null,
     "public_repos": 32,
     "followers": 84,
-    "following": 43,
+    "following": 44,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-07-27T13:19:29Z",
+    "updated_at": "2013-07-28T08:33:11Z",
     "public_gists": 8
   },
   {
@@ -1023,37 +961,6 @@
     "public_gists": 18
   },
   {
-    "login": "timoxley",
-    "id": 43438,
-    "avatar_url": "https://secure.gravatar.com/avatar/f0deca4576206207a882928e7ff32ddb?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "f0deca4576206207a882928e7ff32ddb",
-    "url": "https://api.github.com/users/timoxley",
-    "html_url": "https://github.com/timoxley",
-    "followers_url": "https://api.github.com/users/timoxley/followers",
-    "following_url": "https://api.github.com/users/timoxley/following{/other_user}",
-    "gists_url": "https://api.github.com/users/timoxley/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/timoxley/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/timoxley/subscriptions",
-    "organizations_url": "https://api.github.com/users/timoxley/orgs",
-    "repos_url": "https://api.github.com/users/timoxley/repos",
-    "events_url": "https://api.github.com/users/timoxley/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/timoxley/received_events",
-    "type": "User",
-    "name": "Tim Oxley",
-    "company": "unit.io",
-    "blog": "unit.io",
-    "location": "Brisbane",
-    "email": "secoif@gmail.com",
-    "hireable": true,
-    "bio": "Javascript/NodeJS developer. \r\n\r\nI help companies refine their Javascript methodologies, tools, and architecture while improving their practices so they can grow their Javascript at velocity.\r\n",
-    "public_repos": 270,
-    "followers": 150,
-    "following": 183,
-    "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-07-27T06:29:29Z",
-    "public_gists": 77
-  },
-  {
     "login": "davidbanham",
     "id": 631832,
     "avatar_url": "https://secure.gravatar.com/avatar/42e7705a1a02d152b5c389a97653bb7c?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
@@ -1112,7 +1019,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-07-27T09:06:24Z",
+    "updated_at": "2013-07-28T08:37:14Z",
     "public_gists": 0
   },
   {
@@ -1143,7 +1050,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2009-08-29T23:12:39Z",
-    "updated_at": "2013-07-27T14:45:16Z",
+    "updated_at": "2013-07-28T14:54:36Z",
     "public_gists": 0
   },
   {
@@ -1205,7 +1112,7 @@
     "followers": 4,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-07-27T05:37:18Z",
+    "updated_at": "2013-07-28T11:21:00Z",
     "public_gists": 0
   },
   {
@@ -1238,37 +1145,6 @@
     "created_at": "2010-03-19T01:17:40Z",
     "updated_at": "2013-07-26T06:44:49Z",
     "public_gists": 0
-  },
-  {
-    "login": "wolfeidau",
-    "id": 50636,
-    "avatar_url": "https://secure.gravatar.com/avatar/ebf974e0dbcfe88c508df6f395661a4b?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "ebf974e0dbcfe88c508df6f395661a4b",
-    "url": "https://api.github.com/users/wolfeidau",
-    "html_url": "https://github.com/wolfeidau",
-    "followers_url": "https://api.github.com/users/wolfeidau/followers",
-    "following_url": "https://api.github.com/users/wolfeidau/following{/other_user}",
-    "gists_url": "https://api.github.com/users/wolfeidau/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/wolfeidau/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/wolfeidau/subscriptions",
-    "organizations_url": "https://api.github.com/users/wolfeidau/orgs",
-    "repos_url": "https://api.github.com/users/wolfeidau/repos",
-    "events_url": "https://api.github.com/users/wolfeidau/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/wolfeidau/received_events",
-    "type": "User",
-    "name": "Mark Wolfe",
-    "company": "Ninja Blocks",
-    "blog": "www.wolfe.id.au",
-    "location": "Melbourne, Australia",
-    "email": "mark@wolfe.id.au",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 122,
-    "followers": 16,
-    "following": 12,
-    "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-07-27T15:02:26Z",
-    "public_gists": 76
   },
   {
     "login": "liammclennan",
@@ -1546,7 +1422,7 @@
     "followers": 1149,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-07-27T14:26:17Z",
+    "updated_at": "2013-07-28T13:12:26Z",
     "public_gists": 4
   },
   {
@@ -1577,7 +1453,7 @@
     "followers": 78,
     "following": 0,
     "created_at": "2010-06-29T19:45:34Z",
-    "updated_at": "2013-07-26T15:39:42Z",
+    "updated_at": "2013-07-28T08:14:28Z",
     "public_gists": 3
   },
   {
@@ -1666,11 +1542,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 12,
-    "followers": 2,
+    "public_repos": 13,
+    "followers": 3,
     "following": 21,
     "created_at": "2011-03-11T00:52:22Z",
-    "updated_at": "2013-07-27T08:58:22Z",
+    "updated_at": "2013-07-28T09:39:43Z",
     "public_gists": 9
   },
   {
@@ -1732,7 +1608,7 @@
     "followers": 6,
     "following": 23,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-07-27T14:45:03Z",
+    "updated_at": "2013-07-28T15:58:55Z",
     "public_gists": 18
   },
   {
@@ -1794,7 +1670,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-07-27T05:37:16Z",
+    "updated_at": "2013-07-28T11:20:57Z",
     "public_gists": 1
   },
   {
@@ -1825,39 +1701,8 @@
     "followers": 4,
     "following": 0,
     "created_at": "2011-11-10T23:34:28Z",
-    "updated_at": "2013-07-26T22:35:29Z",
+    "updated_at": "2013-07-28T14:39:08Z",
     "public_gists": 0
-  },
-  {
-    "login": "nomiddlename",
-    "id": 83909,
-    "avatar_url": "https://secure.gravatar.com/avatar/8eff1c79a1b06e693f3e848df0340668?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "8eff1c79a1b06e693f3e848df0340668",
-    "url": "https://api.github.com/users/nomiddlename",
-    "html_url": "https://github.com/nomiddlename",
-    "followers_url": "https://api.github.com/users/nomiddlename/followers",
-    "following_url": "https://api.github.com/users/nomiddlename/following{/other_user}",
-    "gists_url": "https://api.github.com/users/nomiddlename/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/nomiddlename/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/nomiddlename/subscriptions",
-    "organizations_url": "https://api.github.com/users/nomiddlename/orgs",
-    "repos_url": "https://api.github.com/users/nomiddlename/repos",
-    "events_url": "https://api.github.com/users/nomiddlename/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/nomiddlename/received_events",
-    "type": "User",
-    "name": "Gareth Jones",
-    "company": "Sensis",
-    "blog": "http://www.citysearch.com.au",
-    "location": "Melbourne, Australia",
-    "email": "gareth.jones@sensis.com.au",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 14,
-    "followers": 21,
-    "following": 4,
-    "created_at": "2009-05-13T01:05:40Z",
-    "updated_at": "2013-07-26T23:37:35Z",
-    "public_gists": 1
   },
   {
     "login": "flying-sphinx",
@@ -1887,7 +1732,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-10-20T00:39:29Z",
-    "updated_at": "2013-07-27T12:01:32Z",
+    "updated_at": "2013-07-28T13:35:37Z",
     "public_gists": 0
   },
   {
@@ -2011,7 +1856,7 @@
     "followers": 1,
     "following": 6,
     "created_at": "2009-04-17T01:18:42Z",
-    "updated_at": "2013-07-26T06:38:02Z",
+    "updated_at": "2013-07-27T18:42:57Z",
     "public_gists": 12
   },
   {
@@ -2044,37 +1889,6 @@
     "created_at": "2008-08-25T00:27:56Z",
     "updated_at": "2013-07-25T17:24:26Z",
     "public_gists": 37
-  },
-  {
-    "login": "sydneystockholm",
-    "id": 1558739,
-    "avatar_url": "https://secure.gravatar.com/avatar/228b71ebd2b5358f5f64a40400f84d40?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
-    "gravatar_id": "228b71ebd2b5358f5f64a40400f84d40",
-    "url": "https://api.github.com/users/sydneystockholm",
-    "html_url": "https://github.com/sydneystockholm",
-    "followers_url": "https://api.github.com/users/sydneystockholm/followers",
-    "following_url": "https://api.github.com/users/sydneystockholm/following{/other_user}",
-    "gists_url": "https://api.github.com/users/sydneystockholm/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/sydneystockholm/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/sydneystockholm/subscriptions",
-    "organizations_url": "https://api.github.com/users/sydneystockholm/orgs",
-    "repos_url": "https://api.github.com/users/sydneystockholm/repos",
-    "events_url": "https://api.github.com/users/sydneystockholm/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/sydneystockholm/received_events",
-    "type": "Organization",
-    "name": "Sydney Stockholm",
-    "company": null,
-    "blog": "http://sydneystockholm.com.au",
-    "location": "Sydney",
-    "email": "opensource@sydneystockholm.com",
-    "hireable": null,
-    "bio": null,
-    "public_repos": 17,
-    "followers": 0,
-    "following": 0,
-    "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-07-26T18:53:40Z",
-    "public_gists": 0
   },
   {
     "login": "runk",
@@ -2135,7 +1949,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T10:24:12Z",
-    "updated_at": "2013-07-27T05:41:25Z",
+    "updated_at": "2013-07-28T13:24:13Z",
     "public_gists": 0
   },
   {
@@ -2166,7 +1980,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-07-27T05:44:26Z",
+    "updated_at": "2013-07-28T07:28:11Z",
     "public_gists": 0
   },
   {
@@ -2197,7 +2011,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-11-15T00:30:11Z",
-    "updated_at": "2013-07-27T07:43:32Z",
+    "updated_at": "2013-07-28T11:03:18Z",
     "public_gists": 0
   },
   {
@@ -2259,7 +2073,7 @@
     "followers": 8,
     "following": 5,
     "created_at": "2011-04-04T08:54:40Z",
-    "updated_at": "2013-07-27T14:28:20Z",
+    "updated_at": "2013-07-28T13:13:17Z",
     "public_gists": 0
   },
   {
@@ -2290,7 +2104,7 @@
     "followers": 8,
     "following": 20,
     "created_at": "2011-02-27T09:41:23Z",
-    "updated_at": "2013-07-27T14:13:43Z",
+    "updated_at": "2013-07-28T05:20:33Z",
     "public_gists": 4
   },
   {
@@ -2412,9 +2226,9 @@
     "bio": null,
     "public_repos": 30,
     "followers": 339,
-    "following": 43,
+    "following": 44,
     "created_at": "2009-04-16T09:40:21Z",
-    "updated_at": "2013-07-26T20:36:41Z",
+    "updated_at": "2013-07-28T09:08:41Z",
     "public_gists": 31
   },
   {
@@ -2476,7 +2290,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-07-27T07:51:45Z",
+    "updated_at": "2013-07-28T10:21:35Z",
     "public_gists": 0
   },
   {
@@ -2569,7 +2383,7 @@
     "followers": 24,
     "following": 1,
     "created_at": "2011-04-07T01:16:01Z",
-    "updated_at": "2013-07-25T04:30:32Z",
+    "updated_at": "2013-07-28T03:29:24Z",
     "public_gists": 8
   },
   {
@@ -2631,7 +2445,7 @@
     "followers": 22,
     "following": 17,
     "created_at": "2009-03-01T12:40:35Z",
-    "updated_at": "2013-07-27T02:41:48Z",
+    "updated_at": "2013-07-28T15:19:36Z",
     "public_gists": 12
   },
   {
@@ -2693,7 +2507,7 @@
     "followers": 2,
     "following": 29,
     "created_at": "2010-03-17T23:15:40Z",
-    "updated_at": "2013-07-27T13:21:25Z",
+    "updated_at": "2013-07-28T07:50:20Z",
     "public_gists": 0
   },
   {
@@ -2755,7 +2569,7 @@
     "followers": 506,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-07-27T14:43:07Z",
+    "updated_at": "2013-07-28T15:16:18Z",
     "public_gists": 8
   },
   {
@@ -2786,7 +2600,7 @@
     "followers": 38,
     "following": 50,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-07-26T10:56:26Z",
+    "updated_at": "2013-07-28T12:41:09Z",
     "public_gists": 20
   },
   {
@@ -2819,37 +2633,6 @@
     "created_at": "2011-04-12T04:32:19Z",
     "updated_at": "2013-07-24T00:03:23Z",
     "public_gists": 0
-  },
-  {
-    "login": "koostudios",
-    "id": 1453618,
-    "avatar_url": "https://secure.gravatar.com/avatar/c9f5b9bb1b240d6e383cfe6b4644e89a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "c9f5b9bb1b240d6e383cfe6b4644e89a",
-    "url": "https://api.github.com/users/koostudios",
-    "html_url": "https://github.com/koostudios",
-    "followers_url": "https://api.github.com/users/koostudios/followers",
-    "following_url": "https://api.github.com/users/koostudios/following{/other_user}",
-    "gists_url": "https://api.github.com/users/koostudios/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/koostudios/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/koostudios/subscriptions",
-    "organizations_url": "https://api.github.com/users/koostudios/orgs",
-    "repos_url": "https://api.github.com/users/koostudios/repos",
-    "events_url": "https://api.github.com/users/koostudios/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/koostudios/received_events",
-    "type": "User",
-    "name": "Alexander Yuen",
-    "company": "KOO Studios",
-    "blog": "http://koostudios.com",
-    "location": "Brisbane, Australia",
-    "email": null,
-    "hireable": true,
-    "bio": "",
-    "public_repos": 5,
-    "followers": 7,
-    "following": 6,
-    "created_at": "2012-02-20T11:22:15Z",
-    "updated_at": "2013-07-05T09:47:13Z",
-    "public_gists": 3
   },
   {
     "login": "pomke",
@@ -2910,7 +2693,7 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-07-26T07:43:17Z",
+    "updated_at": "2013-07-28T09:25:01Z",
     "public_gists": 0
   },
   {
@@ -3096,39 +2879,8 @@
     "followers": 2,
     "following": 0,
     "created_at": "2012-12-08T12:26:01Z",
-    "updated_at": "2013-07-22T15:10:25Z",
+    "updated_at": "2013-07-27T17:34:06Z",
     "public_gists": 0
-  },
-  {
-    "login": "d11wtq",
-    "id": 37948,
-    "avatar_url": "https://secure.gravatar.com/avatar/f855324f298eb7708e39ea117477cbd5?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "f855324f298eb7708e39ea117477cbd5",
-    "url": "https://api.github.com/users/d11wtq",
-    "html_url": "https://github.com/d11wtq",
-    "followers_url": "https://api.github.com/users/d11wtq/followers",
-    "following_url": "https://api.github.com/users/d11wtq/following{/other_user}",
-    "gists_url": "https://api.github.com/users/d11wtq/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/d11wtq/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/d11wtq/subscriptions",
-    "organizations_url": "https://api.github.com/users/d11wtq/orgs",
-    "repos_url": "https://api.github.com/users/d11wtq/repos",
-    "events_url": "https://api.github.com/users/d11wtq/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/d11wtq/received_events",
-    "type": "User",
-    "name": "Chris 'Chippie' Corbyn",
-    "company": null,
-    "blog": null,
-    "location": "Melbourne, Australia",
-    "email": "chris@w3style.co.uk",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 34,
-    "followers": 49,
-    "following": 14,
-    "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-07-27T07:48:18Z",
-    "public_gists": 57
   },
   {
     "login": "DylanFM",
@@ -3158,7 +2910,7 @@
     "followers": 34,
     "following": 59,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-07-27T05:02:16Z",
+    "updated_at": "2013-07-28T04:49:39Z",
     "public_gists": 55
   },
   {
@@ -3251,7 +3003,7 @@
     "followers": 11,
     "following": 8,
     "created_at": "2009-04-09T02:24:11Z",
-    "updated_at": "2013-07-24T17:37:22Z",
+    "updated_at": "2013-07-28T11:12:04Z",
     "public_gists": 10
   },
   {
@@ -3313,7 +3065,7 @@
     "followers": 28,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-07-26T11:46:09Z",
+    "updated_at": "2013-07-28T04:49:26Z",
     "public_gists": 8
   },
   {
@@ -3344,7 +3096,7 @@
     "followers": 7,
     "following": 0,
     "created_at": "2009-10-06T20:26:46Z",
-    "updated_at": "2013-07-25T03:45:18Z",
+    "updated_at": "2013-07-27T20:19:45Z",
     "public_gists": 3
   },
   {
@@ -3468,39 +3220,8 @@
     "followers": 2,
     "following": 0,
     "created_at": "2012-12-08T12:26:01Z",
-    "updated_at": "2013-07-22T15:10:25Z",
+    "updated_at": "2013-07-27T17:34:06Z",
     "public_gists": 0
-  },
-  {
-    "login": "vjpr",
-    "id": 281413,
-    "avatar_url": "https://secure.gravatar.com/avatar/de54fa84f07f7200da5a1eb090ec717a?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "de54fa84f07f7200da5a1eb090ec717a",
-    "url": "https://api.github.com/users/vjpr",
-    "html_url": "https://github.com/vjpr",
-    "followers_url": "https://api.github.com/users/vjpr/followers",
-    "following_url": "https://api.github.com/users/vjpr/following{/other_user}",
-    "gists_url": "https://api.github.com/users/vjpr/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/vjpr/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/vjpr/subscriptions",
-    "organizations_url": "https://api.github.com/users/vjpr/orgs",
-    "repos_url": "https://api.github.com/users/vjpr/repos",
-    "events_url": "https://api.github.com/users/vjpr/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/vjpr/received_events",
-    "type": "User",
-    "name": "Vaughan Rouesnel",
-    "company": null,
-    "blog": "http://vaughan.io",
-    "location": "Sydney, Australia",
-    "email": null,
-    "hireable": false,
-    "bio": "Google Software Engineering Intern 2010-11\r\n\r\nMacquarie Bank Software Engineering Intern 2009-10\r\n",
-    "public_repos": 56,
-    "followers": 7,
-    "following": 17,
-    "created_at": "2010-05-19T14:12:00Z",
-    "updated_at": "2013-07-22T12:11:29Z",
-    "public_gists": 5
   },
   {
     "login": "willsr",
@@ -3747,38 +3468,7 @@
     "followers": 4,
     "following": 12,
     "created_at": "2011-02-24T21:20:15Z",
-    "updated_at": "2013-07-25T10:30:46Z",
-    "public_gists": 0
-  },
-  {
-    "login": "RallyApps",
-    "id": 1643173,
-    "avatar_url": "https://secure.gravatar.com/avatar/6b338369f69bc3d999ebb4758d48929f?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
-    "gravatar_id": "6b338369f69bc3d999ebb4758d48929f",
-    "url": "https://api.github.com/users/RallyApps",
-    "html_url": "https://github.com/RallyApps",
-    "followers_url": "https://api.github.com/users/RallyApps/followers",
-    "following_url": "https://api.github.com/users/RallyApps/following{/other_user}",
-    "gists_url": "https://api.github.com/users/RallyApps/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/RallyApps/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/RallyApps/subscriptions",
-    "organizations_url": "https://api.github.com/users/RallyApps/orgs",
-    "repos_url": "https://api.github.com/users/RallyApps/repos",
-    "events_url": "https://api.github.com/users/RallyApps/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/RallyApps/received_events",
-    "type": "Organization",
-    "name": "Rally Software",
-    "company": null,
-    "blog": "http://www.rallydev.com",
-    "location": "Boulder, CO; Raleigh, NC; London, UK; and Melbourne, Australia",
-    "email": null,
-    "hireable": null,
-    "bio": null,
-    "public_repos": 58,
-    "followers": 0,
-    "following": 0,
-    "created_at": "2012-04-14T14:41:00Z",
-    "updated_at": "2013-07-26T23:17:24Z",
+    "updated_at": "2013-07-28T11:50:45Z",
     "public_gists": 0
   },
   {
@@ -3902,7 +3592,7 @@
     "followers": 112,
     "following": 164,
     "created_at": "2008-02-23T23:58:36Z",
-    "updated_at": "2013-07-27T06:58:30Z",
+    "updated_at": "2013-07-28T05:25:16Z",
     "public_gists": 82
   },
   {
@@ -4150,7 +3840,7 @@
     "followers": 6,
     "following": 3,
     "created_at": "2012-09-11T00:59:17Z",
-    "updated_at": "2013-07-25T23:29:54Z",
+    "updated_at": "2013-07-28T05:08:48Z",
     "public_gists": 0
   },
   {
@@ -4243,7 +3933,7 @@
     "followers": 89,
     "following": 18,
     "created_at": "2011-05-23T23:42:19Z",
-    "updated_at": "2013-07-26T12:36:33Z",
+    "updated_at": "2013-07-28T09:44:02Z",
     "public_gists": 8
   },
   {
@@ -4336,7 +4026,7 @@
     "followers": 16,
     "following": 23,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-07-26T03:20:25Z",
+    "updated_at": "2013-07-28T08:29:26Z",
     "public_gists": 3
   },
   {
@@ -4364,42 +4054,11 @@
     "hireable": true,
     "bio": "Australian Web Developer,\r\n\r\nLooking for some open source projects to commit to",
     "public_repos": 68,
-    "followers": 344,
+    "followers": 345,
     "following": 22,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-07-27T15:09:02Z",
+    "updated_at": "2013-07-28T16:45:35Z",
     "public_gists": 8
-  },
-  {
-    "login": "dannymidnight",
-    "id": 656826,
-    "avatar_url": "https://secure.gravatar.com/avatar/29a126c5df42894bc31f09a0c6341b29?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "29a126c5df42894bc31f09a0c6341b29",
-    "url": "https://api.github.com/users/dannymidnight",
-    "html_url": "https://github.com/dannymidnight",
-    "followers_url": "https://api.github.com/users/dannymidnight/followers",
-    "following_url": "https://api.github.com/users/dannymidnight/following{/other_user}",
-    "gists_url": "https://api.github.com/users/dannymidnight/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/dannymidnight/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/dannymidnight/subscriptions",
-    "organizations_url": "https://api.github.com/users/dannymidnight/orgs",
-    "repos_url": "https://api.github.com/users/dannymidnight/repos",
-    "events_url": "https://api.github.com/users/dannymidnight/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/dannymidnight/received_events",
-    "type": "User",
-    "name": "Chris Campbell",
-    "company": "99designs",
-    "blog": null,
-    "location": "Melbourne",
-    "email": null,
-    "hireable": false,
-    "bio": null,
-    "public_repos": 9,
-    "followers": 4,
-    "following": 7,
-    "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-07-26T06:20:52Z",
-    "public_gists": 0
   },
   {
     "login": "dunse",
@@ -4425,11 +4084,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 16,
+    "public_repos": 17,
     "followers": 2,
     "following": 0,
     "created_at": "2012-02-03T16:30:17Z",
-    "updated_at": "2013-07-22T22:04:13Z",
+    "updated_at": "2013-07-28T15:08:42Z",
     "public_gists": 3
   },
   {
@@ -4460,7 +4119,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-07-27T16:57:40Z",
+    "updated_at": "2013-07-28T12:40:59Z",
     "public_gists": 0
   },
   {
@@ -4522,7 +4181,7 @@
     "followers": 2,
     "following": 3,
     "created_at": "2009-08-17T11:36:50Z",
-    "updated_at": "2013-07-24T19:00:03Z",
+    "updated_at": "2013-07-27T18:39:53Z",
     "public_gists": 0
   },
   {
@@ -4615,7 +4274,7 @@
     "followers": 16,
     "following": 9,
     "created_at": "2010-01-25T01:04:27Z",
-    "updated_at": "2013-07-23T16:09:43Z",
+    "updated_at": "2013-07-27T20:56:01Z",
     "public_gists": 4
   },
   {
@@ -4646,7 +4305,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-09T22:17:38Z",
-    "updated_at": "2013-07-27T14:13:49Z",
+    "updated_at": "2013-07-28T16:40:21Z",
     "public_gists": 0
   },
   {
@@ -4708,7 +4367,7 @@
     "followers": 2,
     "following": 6,
     "created_at": "2010-05-29T11:00:43Z",
-    "updated_at": "2013-07-27T13:18:55Z",
+    "updated_at": "2013-07-28T07:30:08Z",
     "public_gists": 29
   },
   {
@@ -4805,37 +4464,6 @@
     "public_gists": 3
   },
   {
-    "login": "evulse",
-    "id": 1631174,
-    "avatar_url": "https://secure.gravatar.com/avatar/d65369c04e57f84dfd6b2f1ce5a4bc0d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "d65369c04e57f84dfd6b2f1ce5a4bc0d",
-    "url": "https://api.github.com/users/evulse",
-    "html_url": "https://github.com/evulse",
-    "followers_url": "https://api.github.com/users/evulse/followers",
-    "following_url": "https://api.github.com/users/evulse/following{/other_user}",
-    "gists_url": "https://api.github.com/users/evulse/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/evulse/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/evulse/subscriptions",
-    "organizations_url": "https://api.github.com/users/evulse/orgs",
-    "repos_url": "https://api.github.com/users/evulse/repos",
-    "events_url": "https://api.github.com/users/evulse/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/evulse/received_events",
-    "type": "User",
-    "name": "Mike Angell",
-    "company": "Carted",
-    "blog": "http://www.carted.com",
-    "location": "Brisbane, Australia",
-    "email": "mike@carted.com",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 23,
-    "followers": 3,
-    "following": 0,
-    "created_at": "2012-04-10T22:50:51Z",
-    "updated_at": "2013-07-26T06:07:39Z",
-    "public_gists": 0
-  },
-  {
     "login": "colingourlay",
     "id": 66612,
     "avatar_url": "https://secure.gravatar.com/avatar/1923d9ea761b8e4b17b1d9d2932c274d?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
@@ -4863,7 +4491,7 @@
     "followers": 35,
     "following": 85,
     "created_at": "2009-03-24T17:06:58Z",
-    "updated_at": "2013-07-27T12:41:57Z",
+    "updated_at": "2013-07-28T12:20:24Z",
     "public_gists": 14
   },
   {
@@ -4929,68 +4557,6 @@
     "public_gists": 0
   },
   {
-    "login": "dbrain",
-    "id": 237995,
-    "avatar_url": "https://secure.gravatar.com/avatar/701aad72beb1742524cdebcb75ef229e?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
-    "gravatar_id": "701aad72beb1742524cdebcb75ef229e",
-    "url": "https://api.github.com/users/dbrain",
-    "html_url": "https://github.com/dbrain",
-    "followers_url": "https://api.github.com/users/dbrain/followers",
-    "following_url": "https://api.github.com/users/dbrain/following{/other_user}",
-    "gists_url": "https://api.github.com/users/dbrain/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/dbrain/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/dbrain/subscriptions",
-    "organizations_url": "https://api.github.com/users/dbrain/orgs",
-    "repos_url": "https://api.github.com/users/dbrain/repos",
-    "events_url": "https://api.github.com/users/dbrain/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/dbrain/received_events",
-    "type": "User",
-    "name": "Daniel Brain",
-    "company": "Shine Technologies",
-    "blog": null,
-    "location": "Melbourne, Vic, Australia",
-    "email": "github@biboop.com",
-    "hireable": false,
-    "bio": null,
-    "public_repos": 26,
-    "followers": 8,
-    "following": 6,
-    "created_at": "2010-04-06T14:31:53Z",
-    "updated_at": "2013-07-25T04:34:55Z",
-    "public_gists": 1
-  },
-  {
-    "login": "eloquent",
-    "id": 1482281,
-    "avatar_url": "https://secure.gravatar.com/avatar/122b4be65cac9d80f59871e2b79a05d0?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-org-420.png",
-    "gravatar_id": "122b4be65cac9d80f59871e2b79a05d0",
-    "url": "https://api.github.com/users/eloquent",
-    "html_url": "https://github.com/eloquent",
-    "followers_url": "https://api.github.com/users/eloquent/followers",
-    "following_url": "https://api.github.com/users/eloquent/following{/other_user}",
-    "gists_url": "https://api.github.com/users/eloquent/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/eloquent/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/eloquent/subscriptions",
-    "organizations_url": "https://api.github.com/users/eloquent/orgs",
-    "repos_url": "https://api.github.com/users/eloquent/repos",
-    "events_url": "https://api.github.com/users/eloquent/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/eloquent/received_events",
-    "type": "Organization",
-    "name": "Eloquent",
-    "company": null,
-    "blog": "http://lqnt.co/",
-    "location": "Brisbane, Australia",
-    "email": "ezzatron@gmail.com",
-    "hireable": null,
-    "bio": null,
-    "public_repos": 20,
-    "followers": 0,
-    "following": 0,
-    "created_at": "2012-02-28T15:11:10Z",
-    "updated_at": "2013-07-27T11:23:58Z",
-    "public_gists": 0
-  },
-  {
     "login": "aantthony",
     "id": 277425,
     "avatar_url": "https://secure.gravatar.com/avatar/2dd411cce82ccc46fcc7ed159700e389?d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
@@ -5018,7 +4584,7 @@
     "followers": 31,
     "following": 9,
     "created_at": "2010-05-15T03:01:03Z",
-    "updated_at": "2013-07-27T08:41:54Z",
+    "updated_at": "2013-07-28T10:47:58Z",
     "public_gists": 14
   },
   {
@@ -5049,7 +4615,7 @@
     "followers": 6,
     "following": 10,
     "created_at": "2009-06-16T03:53:39Z",
-    "updated_at": "2013-07-24T19:26:14Z",
+    "updated_at": "2013-07-28T09:01:15Z",
     "public_gists": 0
   },
   {
@@ -5201,10 +4767,10 @@
     "hireable": true,
     "bio": null,
     "public_repos": 32,
-    "followers": 16,
+    "followers": 17,
     "following": 0,
     "created_at": "2011-07-29T16:52:52Z",
-    "updated_at": "2013-07-26T13:22:26Z",
+    "updated_at": "2013-07-27T21:26:08Z",
     "public_gists": 2
   },
   {
