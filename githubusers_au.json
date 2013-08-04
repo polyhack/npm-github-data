@@ -23,11 +23,11 @@
     "email": "r@va.gg",
     "hireable": true,
     "bio": null,
-    "public_repos": 118,
-    "followers": 172,
+    "public_repos": 119,
+    "followers": 175,
     "following": 16,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-08-03T12:06:15Z",
+    "updated_at": "2013-08-04T13:52:50Z",
     "public_gists": 24
   },
   {
@@ -58,7 +58,7 @@
     "followers": 91,
     "following": 145,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-08-03T09:05:14Z",
+    "updated_at": "2013-08-04T12:43:40Z",
     "public_gists": 28
   },
   {
@@ -89,7 +89,7 @@
     "followers": 46,
     "following": 33,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-08-02T02:06:46Z",
+    "updated_at": "2013-08-04T11:26:53Z",
     "public_gists": 6
   },
   {
@@ -120,7 +120,7 @@
     "followers": 29,
     "following": 4,
     "created_at": "2009-05-19T12:21:11Z",
-    "updated_at": "2013-08-03T14:03:03Z",
+    "updated_at": "2013-08-04T11:40:11Z",
     "public_gists": 9
   },
   {
@@ -182,7 +182,7 @@
     "followers": 138,
     "following": 11,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-08-03T03:12:39Z",
+    "updated_at": "2013-08-04T14:41:41Z",
     "public_gists": 1
   },
   {
@@ -209,11 +209,11 @@
     "email": null,
     "hireable": true,
     "bio": "",
-    "public_repos": 122,
-    "followers": 51,
-    "following": 77,
+    "public_repos": 123,
+    "followers": 52,
+    "following": 78,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-08-03T14:13:26Z",
+    "updated_at": "2013-08-04T13:03:02Z",
     "public_gists": 7
   },
   {
@@ -368,7 +368,7 @@
     "followers": 212,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-08-03T15:31:04Z",
+    "updated_at": "2013-08-04T12:59:40Z",
     "public_gists": 22
   },
   {
@@ -399,7 +399,7 @@
     "followers": 17,
     "following": 16,
     "created_at": "2011-03-18T03:55:32Z",
-    "updated_at": "2013-08-02T16:22:59Z",
+    "updated_at": "2013-08-04T11:56:23Z",
     "public_gists": 18
   },
   {
@@ -488,12 +488,12 @@
     "email": "eugene@noblesamurai.com",
     "hireable": false,
     "bio": "",
-    "public_repos": 69,
-    "followers": 26,
-    "following": 49,
+    "public_repos": 70,
+    "followers": 27,
+    "following": 51,
     "created_at": "2008-12-03T23:25:48Z",
-    "updated_at": "2013-08-03T12:18:18Z",
-    "public_gists": 3
+    "updated_at": "2013-08-04T14:41:36Z",
+    "public_gists": 5
   },
   {
     "login": "buildjs",
@@ -551,10 +551,10 @@
     "hireable": true,
     "bio": "## [Benjamin \"balupton\" Lupton][1] <br/> \r\n### Web 2.0 Architect · January 2005 to present · Perth, Western Australia <br/>\r\n<br/>\r\nEach day my products are installed in thousands of websites, empower millions of website users, and are constantly praised in social media networks. These outstanding results are achieved through my extreme commitment to quality and excellence in everything I do. My time isn't spent spreading word through social media, instead my time is spent in creating quality solutions that inspire people to spread praise everywhere they go. I'm an expert at what I do and I love doing it. <br/>\r\n<br/>\r\n\r\n## My Projects <br/><br/>\r\n\r\n### [Aloha Editor · October 2010 to present][2]\r\nAloha Editor is more than just the leading HTML5 WYSIWYG editor. It's revolutionising the way we create and interact with content on the web. It's already the next big thing, and will be for many many years to come. It's just purely phenomenal to be able to direct, develop and contribute to such an amazing product.\r\n\r\n### [jQuery Ajaxy · July 2008 to present][3]\r\njQuery Ajaxy allows you to easily upgrade your web site into a full featured Ajax web application. It aims at solving complicated AJAX Paradigms by providing you with a easy managed solution to bind into page state (URL Hash) changes, AJAX form submits, and support AJAX links\r\n\r\n### [jQuery Sparkle · December 2009 to present][4]\r\njQuery Sparkle is a simple but powerful DRY Plugin/Effect Framework aimed to simplify your jQuery development such that you no longer have to repeat yourself. But at it's core it is mostly just a framework to allow you to develop faster, utilising the Don't-Repeat-Yourself ideology.\r\n\r\n### [jQuery Lightbox · December 2007 to present][5]\r\nEver had to link to many images within a page, and noticed how merely satifactory it is requiring the user to view each image in a new window or tab? Yeah, we thought so. Lightboxes enable you to seamlessly display images within your website easily and literally with a click of a button.\r\n\r\n### [BalCMS · August 2009 to present][6]\r\nBalCMS is a Zend Framework and Doctrine ORM powered CMS. It supports such features as i18n, widget, caching, themes and modules.\r\n<br/><br/>\r\n\r\n## Ready to make it happen? <br/><br/>\r\n\r\n**Skype:** balupton <br/>\r\n**Email:** contact@balupton.com <br/>\r\n**Website:** http://www.balupton.com <br/>\r\n**Twitter:** http://twitter.com/balupton <br/>\r\n**GitHub:** http://github.com/balupton <br/>\r\n**LinkedIn:** http://au.linkedin.com/in/balupton\r\n\r\n\r\n  [1]: http://balupton.com\r\n  [2]: http://aloha-editor.com\r\n  [3]: http://balupton.com/projects/jquery-ajaxy\r\n  [4]: http://balupton.com/projects/jquery-sparkle\r\n  [5]: http://balupton.com/projects/jquery-lightbox\r\n  [6]: http://balupton.com/projects/balcms",
     "public_repos": 89,
-    "followers": 389,
+    "followers": 391,
     "following": 101,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-08-03T12:01:04Z",
+    "updated_at": "2013-08-03T21:51:07Z",
     "public_gists": 95
   },
   {
@@ -647,7 +647,7 @@
     "followers": 32,
     "following": 40,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-08-03T09:25:11Z",
+    "updated_at": "2013-08-03T21:50:15Z",
     "public_gists": 2
   },
   {
@@ -678,7 +678,7 @@
     "followers": 65,
     "following": 0,
     "created_at": "2010-10-10T08:05:27Z",
-    "updated_at": "2013-08-02T00:55:44Z",
+    "updated_at": "2013-08-03T20:24:14Z",
     "public_gists": 60
   },
   {
@@ -740,7 +740,7 @@
     "followers": 1,
     "following": 0,
     "created_at": "2011-08-22T07:16:43Z",
-    "updated_at": "2013-08-03T15:09:48Z",
+    "updated_at": "2013-08-03T16:48:14Z",
     "public_gists": 0
   },
   {
@@ -771,7 +771,7 @@
     "followers": 32,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-08-03T08:15:06Z",
+    "updated_at": "2013-08-03T21:29:56Z",
     "public_gists": 4
   },
   {
@@ -798,11 +798,11 @@
     "email": "myles@myles.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 49,
+    "public_repos": 50,
     "followers": 100,
     "following": 34,
     "created_at": "2008-05-07T08:42:55Z",
-    "updated_at": "2013-08-01T13:36:11Z",
+    "updated_at": "2013-08-04T02:47:11Z",
     "public_gists": 27
   },
   {
@@ -895,7 +895,7 @@
     "followers": 86,
     "following": 46,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-08-03T15:13:07Z",
+    "updated_at": "2013-08-04T14:48:14Z",
     "public_gists": 8
   },
   {
@@ -1048,9 +1048,9 @@
     "bio": "Javascript/NodeJS developer. \r\n\r\nI help companies refine their Javascript methodologies, tools, and architecture while improving their practices so they can grow their Javascript at velocity.\r\n",
     "public_repos": 274,
     "followers": 151,
-    "following": 188,
+    "following": 189,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-08-03T02:34:40Z",
+    "updated_at": "2013-08-04T10:17:00Z",
     "public_gists": 78
   },
   {
@@ -1081,7 +1081,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-08-02T16:22:46Z",
+    "updated_at": "2013-08-03T18:21:28Z",
     "public_gists": 36
   },
   {
@@ -1112,7 +1112,7 @@
     "followers": 2,
     "following": 2,
     "created_at": "2011-11-10T10:13:59Z",
-    "updated_at": "2013-08-03T10:10:19Z",
+    "updated_at": "2013-08-04T14:29:18Z",
     "public_gists": 0
   },
   {
@@ -1263,11 +1263,11 @@
     "email": "mark@wolfe.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 123,
+    "public_repos": 124,
     "followers": 16,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-08-03T01:12:03Z",
+    "updated_at": "2013-08-04T03:39:30Z",
     "public_gists": 77
   },
   {
@@ -1298,7 +1298,7 @@
     "followers": 63,
     "following": 33,
     "created_at": "2010-05-09T06:27:54Z",
-    "updated_at": "2013-08-03T15:17:54Z",
+    "updated_at": "2013-08-04T15:22:02Z",
     "public_gists": 88
   },
   {
@@ -1327,9 +1327,9 @@
     "bio": "CAD/CAM, computational geometry\r\nC++/JavaScript\r\nMySQL/Oracle\r\nNodeJS, real-time web\r\nload testing\r\n",
     "public_repos": 79,
     "followers": 89,
-    "following": 142,
+    "following": 147,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-08-03T14:45:27Z",
+    "updated_at": "2013-08-03T23:02:45Z",
     "public_gists": 27
   },
   {
@@ -1511,12 +1511,12 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 29,
+    "public_repos": 30,
     "followers": 45,
     "following": 25,
     "created_at": "2008-08-08T00:59:42Z",
-    "updated_at": "2013-08-03T10:13:30Z",
-    "public_gists": 214
+    "updated_at": "2013-08-04T09:02:53Z",
+    "public_gists": 216
   },
   {
     "login": "DmitryBaranovskiy",
@@ -1543,10 +1543,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 11,
-    "followers": 1154,
+    "followers": 1155,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-08-03T11:29:55Z",
+    "updated_at": "2013-08-04T10:45:32Z",
     "public_gists": 4
   },
   {
@@ -1577,7 +1577,7 @@
     "followers": 79,
     "following": 0,
     "created_at": "2010-06-29T19:45:34Z",
-    "updated_at": "2013-08-03T06:05:22Z",
+    "updated_at": "2013-08-04T10:50:40Z",
     "public_gists": 3
   },
   {
@@ -1608,7 +1608,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-08-03T04:11:38Z",
+    "updated_at": "2013-08-04T14:12:15Z",
     "public_gists": 0
   },
   {
@@ -1668,7 +1668,7 @@
     "bio": null,
     "public_repos": 13,
     "followers": 3,
-    "following": 23,
+    "following": 24,
     "created_at": "2011-03-11T00:52:22Z",
     "updated_at": "2013-08-02T08:14:30Z",
     "public_gists": 9
@@ -1763,7 +1763,7 @@
     "followers": 31,
     "following": 31,
     "created_at": "2011-12-16T22:21:46Z",
-    "updated_at": "2013-08-02T00:49:36Z",
+    "updated_at": "2013-08-04T02:19:10Z",
     "public_gists": 13
   },
   {
@@ -1825,7 +1825,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2011-11-10T23:34:28Z",
-    "updated_at": "2013-08-03T14:49:07Z",
+    "updated_at": "2013-08-04T06:35:43Z",
     "public_gists": 0
   },
   {
@@ -2135,7 +2135,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T10:24:12Z",
-    "updated_at": "2013-07-31T13:34:48Z",
+    "updated_at": "2013-08-04T12:43:02Z",
     "public_gists": 0
   },
   {
@@ -2166,7 +2166,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-08-03T02:24:42Z",
+    "updated_at": "2013-08-03T22:38:12Z",
     "public_gists": 0
   },
   {
@@ -2438,14 +2438,14 @@
     "company": "Papercloud.com.au",
     "blog": "www.jsdavo.com",
     "location": "Melbourne, Aus",
-    "email": "jsdavo@gmail.com",
+    "email": "jd@papercloud.com.au",
     "hireable": false,
     "bio": null,
     "public_repos": 18,
     "followers": 0,
     "following": 19,
     "created_at": "2012-01-13T04:50:42Z",
-    "updated_at": "2013-08-03T12:02:34Z",
+    "updated_at": "2013-08-04T14:08:36Z",
     "public_gists": 5
   },
   {
@@ -2476,7 +2476,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-08-03T12:37:49Z",
+    "updated_at": "2013-08-04T13:37:57Z",
     "public_gists": 0
   },
   {
@@ -2631,7 +2631,7 @@
     "followers": 22,
     "following": 17,
     "created_at": "2009-03-01T12:40:35Z",
-    "updated_at": "2013-08-03T03:20:49Z",
+    "updated_at": "2013-08-04T02:56:24Z",
     "public_gists": 12
   },
   {
@@ -2786,7 +2786,7 @@
     "followers": 38,
     "following": 50,
     "created_at": "2009-06-04T17:58:47Z",
-    "updated_at": "2013-08-02T16:00:10Z",
+    "updated_at": "2013-08-04T13:05:40Z",
     "public_gists": 20
   },
   {
@@ -2941,7 +2941,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-31T02:23:59Z",
-    "updated_at": "2013-08-02T09:15:28Z",
+    "updated_at": "2013-08-04T10:06:43Z",
     "public_gists": 0
   },
   {
@@ -3127,7 +3127,7 @@
     "followers": 49,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-08-03T11:17:49Z",
+    "updated_at": "2013-08-04T15:06:29Z",
     "public_gists": 57
   },
   {
@@ -3313,7 +3313,7 @@
     "followers": 30,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-08-02T01:47:22Z",
+    "updated_at": "2013-08-04T06:36:22Z",
     "public_gists": 8
   },
   {
@@ -3375,7 +3375,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-08-02T23:49:45Z",
+    "updated_at": "2013-08-04T01:03:49Z",
     "public_gists": 0
   },
   {
@@ -3623,7 +3623,7 @@
     "followers": 4,
     "following": 1,
     "created_at": "2010-05-05T00:50:42Z",
-    "updated_at": "2013-08-03T15:00:29Z",
+    "updated_at": "2013-08-04T12:03:54Z",
     "public_gists": 7
   },
   {
@@ -3651,10 +3651,10 @@
     "hireable": false,
     "bio": null,
     "public_repos": 74,
-    "followers": 215,
+    "followers": 216,
     "following": 217,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-08-03T04:23:19Z",
+    "updated_at": "2013-08-03T17:48:47Z",
     "public_gists": 116
   },
   {
@@ -3712,11 +3712,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 3,
+    "public_repos": 4,
     "followers": 5,
     "following": 2,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-08-02T08:50:30Z",
+    "updated_at": "2013-08-04T16:47:16Z",
     "public_gists": 0
   },
   {
@@ -3747,7 +3747,7 @@
     "followers": 4,
     "following": 12,
     "created_at": "2011-02-24T21:20:15Z",
-    "updated_at": "2013-07-31T09:15:48Z",
+    "updated_at": "2013-08-04T09:02:27Z",
     "public_gists": 0
   },
   {
@@ -3871,7 +3871,7 @@
     "followers": 5,
     "following": 0,
     "created_at": "2008-06-03T00:46:58Z",
-    "updated_at": "2013-08-03T16:39:35Z",
+    "updated_at": "2013-08-03T18:51:14Z",
     "public_gists": 12
   },
   {
@@ -3902,7 +3902,7 @@
     "followers": 114,
     "following": 165,
     "created_at": "2008-02-23T23:58:36Z",
-    "updated_at": "2013-07-31T19:37:30Z",
+    "updated_at": "2013-08-04T15:41:47Z",
     "public_gists": 82
   },
   {
@@ -3964,7 +3964,7 @@
     "followers": 13,
     "following": 7,
     "created_at": "2012-02-02T08:42:45Z",
-    "updated_at": "2013-08-03T16:51:11Z",
+    "updated_at": "2013-08-04T04:08:02Z",
     "public_gists": 7
   },
   {
@@ -3995,7 +3995,7 @@
     "followers": 41,
     "following": 14,
     "created_at": "2008-02-29T06:55:16Z",
-    "updated_at": "2013-08-03T10:37:33Z",
+    "updated_at": "2013-08-04T05:34:56Z",
     "public_gists": 19
   },
   {
@@ -4026,7 +4026,7 @@
     "followers": 26,
     "following": 2,
     "created_at": "2010-05-14T05:43:52Z",
-    "updated_at": "2013-08-02T15:43:08Z",
+    "updated_at": "2013-08-04T06:27:54Z",
     "public_gists": 8
   },
   {
@@ -4116,7 +4116,7 @@
     "hireable": false,
     "bio": null,
     "public_repos": 35,
-    "followers": 91,
+    "followers": 92,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
     "updated_at": "2013-08-03T08:09:51Z",
@@ -4398,7 +4398,7 @@
     "followers": 349,
     "following": 22,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-08-03T14:00:33Z",
+    "updated_at": "2013-08-04T13:18:47Z",
     "public_gists": 8
   },
   {
@@ -4429,7 +4429,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-08-03T11:02:10Z",
+    "updated_at": "2013-08-04T13:08:14Z",
     "public_gists": 0
   },
   {
@@ -4491,7 +4491,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-08-03T02:19:44Z",
+    "updated_at": "2013-08-04T12:57:31Z",
     "public_gists": 0
   },
   {
@@ -4646,7 +4646,7 @@
     "followers": 13,
     "following": 7,
     "created_at": "2012-02-02T08:42:45Z",
-    "updated_at": "2013-08-03T17:04:28Z",
+    "updated_at": "2013-08-04T04:08:02Z",
     "public_gists": 7
   },
   {
@@ -4708,7 +4708,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-09T22:17:38Z",
-    "updated_at": "2013-08-03T11:51:25Z",
+    "updated_at": "2013-08-04T03:55:14Z",
     "public_gists": 0
   },
   {
@@ -4859,11 +4859,11 @@
     "email": "fengzhe1983@gmail.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 45,
+    "public_repos": 47,
     "followers": 3,
     "following": 19,
     "created_at": "2011-12-14T21:51:50Z",
-    "updated_at": "2013-08-02T05:43:32Z",
+    "updated_at": "2013-08-04T08:51:47Z",
     "public_gists": 3
   },
   {
@@ -4894,7 +4894,7 @@
     "followers": 3,
     "following": 0,
     "created_at": "2012-04-10T22:50:51Z",
-    "updated_at": "2013-08-03T14:45:15Z",
+    "updated_at": "2013-08-04T13:46:00Z",
     "public_gists": 0
   },
   {
@@ -4923,9 +4923,9 @@
     "bio": "## Objective ##\r\n\r\nTo work for a company which has challenging & interesting problems I can attack using web-based technologies. I'm excited by real-time communication between the server and a wide range of client devices. I have a desire to build web apps that unite and empower the people using them.\r\n\r\n## Summary ##\r\n\r\nI am a Scottish web developer, currently working in Brisbane, Australia. I'm very passionate about mobile development. My attention is focused on tuning websites and web apps to make them faster, more responsive and better suited to the needs of their users. I mostly work with JavaScript - my latest exporation being the world of server-side JS (thanks to Node.JS) - and would love to apply my skills to innovative products in performance-critical environments.\r\n\r\nFollowing my graduation from university my fiancé and I moved to Australia (her home country), where I began my professional career. We were married in June 2011. We constantly encourage each other to take chances and make the most of our talents.\r\n\r\nThrough local tech meetups I was introduced to a community of developers who have been a brilliant source of inspiration & knowledge. I've began to work on some of my side-projects in the open, and plan to continue feeding back into the community that has been so generous to me.",
     "public_repos": 28,
     "followers": 36,
-    "following": 87,
+    "following": 88,
     "created_at": "2009-03-24T17:06:58Z",
-    "updated_at": "2013-08-02T00:14:20Z",
+    "updated_at": "2013-08-04T11:29:20Z",
     "public_gists": 14
   },
   {
@@ -5018,7 +5018,7 @@
     "followers": 9,
     "following": 6,
     "created_at": "2010-04-06T14:31:53Z",
-    "updated_at": "2013-08-02T01:13:53Z",
+    "updated_at": "2013-08-03T18:59:06Z",
     "public_gists": 1
   },
   {
@@ -5049,7 +5049,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-02-28T15:11:10Z",
-    "updated_at": "2013-08-02T01:56:17Z",
+    "updated_at": "2013-08-04T12:29:56Z",
     "public_gists": 0
   },
   {
@@ -5080,7 +5080,7 @@
     "followers": 31,
     "following": 9,
     "created_at": "2010-05-15T03:01:03Z",
-    "updated_at": "2013-08-03T10:39:49Z",
+    "updated_at": "2013-08-04T14:49:43Z",
     "public_gists": 14
   },
   {
@@ -5142,7 +5142,7 @@
     "followers": 4,
     "following": 8,
     "created_at": "2011-06-20T05:34:51Z",
-    "updated_at": "2013-08-03T10:39:26Z",
+    "updated_at": "2013-08-03T23:39:41Z",
     "public_gists": 3
   },
   {
@@ -5328,7 +5328,7 @@
     "followers": 0,
     "following": 1,
     "created_at": "2011-09-21T08:32:40Z",
-    "updated_at": "2013-08-03T12:26:12Z",
+    "updated_at": "2013-08-04T01:57:44Z",
     "public_gists": 0
   },
   {
