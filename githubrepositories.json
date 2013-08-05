@@ -137240,6 +137240,11 @@
     "npmPackage": "twitter-1.1"
   },
   {
+    "githubUser": "spinno",
+    "githubRepo": "swoosh",
+    "npmPackage": "swoosh"
+  },
+  {
     "githubUser": "hiddentao",
     "githubRepo": "grunt-requirejs-config-gen",
     "npmPackage": "grunt-requirejs-config-gen"
@@ -150893,5 +150898,30 @@
     "githubUser": "radekstepan",
     "githubRepo": "urgentilio",
     "npmPackage": "urgentilio"
+  },
+  {
+    "githubUser": "jasich",
+    "githubRepo": "judo",
+    "npmPackage": "judo"
+  },
+  {
+    "githubUser": "bramstein",
+    "githubRepo": "browserstack-test",
+    "npmPackage": "browserstack-test"
+  },
+  {
+    "githubUser": "mcollina",
+    "githubRepo": "ponte",
+    "npmPackage": "ponte"
+  },
+  {
+    "githubUser": "evanlucas",
+    "githubRepo": "mailgun-validator",
+    "npmPackage": "mailgun-validator"
+  },
+  {
+    "githubUser": "quramy",
+    "githubRepo": "clazzjs",
+    "npmPackage": "clazzjs"
   }
 ]
