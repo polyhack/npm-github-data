@@ -35960,7 +35960,7 @@
     "npmPackage": "generator-footguard"
   },
   {
-    "githubUser": "passy",
+    "githubUser": "yeoman",
     "githubRepo": "generator-generator",
     "npmPackage": "generator-generator"
   },
@@ -46510,7 +46510,7 @@
     "npmPackage": "ibot"
   },
   {
-    "githubUser": "bdkzero",
+    "githubUser": "prdn",
     "githubRepo": "ibrick",
     "npmPackage": "ibrick.js"
   },
@@ -124850,6 +124850,11 @@
     "npmPackage": "fancypants.feedback"
   },
   {
+    "githubUser": "kaelzhang",
+    "githubRepo": "fs-sync",
+    "npmPackage": "fs-sync"
+  },
+  {
     "githubUser": "tkdchen",
     "githubRepo": "nsignal",
     "npmPackage": "nsignal"
@@ -131125,7 +131130,7 @@
     "npmPackage": "theoretical-ideations-npm-test"
   },
   {
-    "githubUser": "sqs",
+    "githubUser": "sourcegraph",
     "githubRepo": "node-idast",
     "npmPackage": "idast"
   },
@@ -147975,6 +147980,11 @@
     "npmPackage": "generator-webapp-fintan"
   },
   {
+    "githubUser": "hij1nx",
+    "githubRepo": "hashd",
+    "npmPackage": "hashd"
+  },
+  {
     "githubUser": "Impromptu",
     "githubRepo": "impromptu-github",
     "npmPackage": "impromptu-github"
@@ -152548,5 +152558,425 @@
     "githubUser": "websecurify",
     "githubRepo": "node-logsmith",
     "npmPackage": "logsmith"
+  },
+  {
+    "githubUser": "atrl",
+    "githubRepo": "qread",
+    "npmPackage": "qread"
+  },
+  {
+    "githubUser": "shawjia",
+    "githubRepo": "node-developerexcuses",
+    "npmPackage": "developerexcuses"
+  },
+  {
+    "githubUser": "ideal-postcodes",
+    "githubRepo": "jquery",
+    "npmPackage": "jquery-postcodes"
+  },
+  {
+    "githubUser": "AndreasMadsen",
+    "githubRepo": "dgram-emitter",
+    "npmPackage": "dgram-emitter"
+  },
+  {
+    "githubUser": "euyuil",
+    "githubRepo": "asynchronoujs",
+    "npmPackage": "asynchronoujs"
+  },
+  {
+    "githubUser": "ebensing",
+    "githubRepo": "mongoose-within",
+    "npmPackage": "mongoose-within"
+  },
+  {
+    "githubUser": "xseignard",
+    "githubRepo": "rpi",
+    "npmPackage": "rpi"
+  },
+  {
+    "githubUser": "PixieEngine",
+    "githubRepo": "Cornerstone",
+    "npmPackage": "cornerstone-js"
+  },
+  {
+    "githubUser": "brycebaril",
+    "githubRepo": "node-loose-interval",
+    "npmPackage": "loose-interval"
+  },
+  {
+    "githubUser": "arunoda",
+    "githubRepo": "mnode",
+    "npmPackage": "mnode"
+  },
+  {
+    "githubUser": "jeromeetienne",
+    "githubRepo": "debug",
+    "npmPackage": "debug.js"
+  },
+  {
+    "githubUser": "MongoHQ",
+    "githubRepo": "Dis",
+    "npmPackage": "dis-redis"
+  },
+  {
+    "githubUser": "kessler-y",
+    "githubRepo": "log4js-stream-appender",
+    "npmPackage": "log4js-console-appender"
+  },
+  {
+    "githubUser": "jaredhanson",
+    "githubRepo": "node-servicelocator",
+    "npmPackage": "servicelocator"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "client-router",
+    "npmPackage": "client-router"
+  },
+  {
+    "githubUser": "walling",
+    "githubRepo": "geo-distance",
+    "npmPackage": "geo-distance-safe"
+  },
+  {
+    "githubUser": "raygerrard",
+    "githubRepo": "docless",
+    "npmPackage": "grunt-docless"
+  },
+  {
+    "githubUser": "wearefractal",
+    "githubRepo": "gulp-jshint",
+    "npmPackage": "gulp-jshint"
+  },
+  {
+    "githubUser": "xFragger",
+    "githubRepo": "Node-Watermarker",
+    "npmPackage": "node-watermarker"
+  },
+  {
+    "githubUser": "medikoo",
+    "githubRepo": "event-source",
+    "npmPackage": "event-source"
+  },
+  {
+    "githubUser": "anthonybrown",
+    "githubRepo": "palindrode",
+    "npmPackage": "palindrode"
+  },
+  {
+    "githubUser": "frankrousseau",
+    "githubRepo": "americano",
+    "npmPackage": "americano"
+  },
+  {
+    "githubUser": "connrs",
+    "githubRepo": "node-idp-facebook",
+    "npmPackage": "idp-facebook"
+  },
+  {
+    "githubUser": "connrs",
+    "githubRepo": "node-idp-google",
+    "npmPackage": "idp-google"
+  },
+  {
+    "githubUser": "RaphaelDeLaGhetto",
+    "githubRepo": "grunt-express-bootstrap",
+    "npmPackage": "grunt-express-bootstrap-oauth2"
+  },
+  {
+    "githubUser": "hij1nx",
+    "githubRepo": "pipechain",
+    "npmPackage": "pipechain"
+  },
+  {
+    "githubUser": "frankrousseau",
+    "githubRepo": "americano-cozy",
+    "npmPackage": "americano-cozy"
+  },
+  {
+    "githubUser": "joshgummersall",
+    "githubRepo": "grunt-nock",
+    "npmPackage": "grunt-nock"
+  },
+  {
+    "githubUser": "terinjokes",
+    "githubRepo": "contenteditable",
+    "npmPackage": "contenteditable"
+  },
+  {
+    "githubUser": "substack",
+    "githubRepo": "rref",
+    "npmPackage": "rref"
+  },
+  {
+    "githubUser": "stephenmathieson",
+    "githubRepo": "is-leap-year",
+    "npmPackage": "is-leap-year"
+  },
+  {
+    "githubUser": "tellnes",
+    "githubRepo": "json-body",
+    "npmPackage": "json-body"
+  },
+  {
+    "githubUser": "stephenmathieson",
+    "githubRepo": "days-in-month",
+    "npmPackage": "days-in-month"
+  },
+  {
+    "githubUser": "andrew",
+    "githubRepo": "node-wii-controller",
+    "npmPackage": "wii-controller"
+  },
+  {
+    "githubUser": "tarruda",
+    "githubRepo": "grunt-traceur-build",
+    "npmPackage": "grunt-traceur-build"
+  },
+  {
+    "githubUser": "KoryNunn",
+    "githubRepo": "spec",
+    "npmPackage": "spec-js"
+  },
+  {
+    "githubUser": "rpflorence",
+    "githubRepo": "duck-punch",
+    "npmPackage": "duck-punch"
+  },
+  {
+    "githubUser": "kidozen",
+    "githubRepo": "node-dynamicscrm-api",
+    "npmPackage": "dynamicscrm-api"
+  },
+  {
+    "githubUser": "mafintosh",
+    "githubRepo": "sorted-intersect-stream",
+    "npmPackage": "sorted-intersect-stream"
+  },
+  {
+    "githubUser": "neumino",
+    "githubRepo": "chateau",
+    "npmPackage": "chateau"
+  },
+  {
+    "githubUser": "indexzero",
+    "githubRepo": "roadmap",
+    "npmPackage": "roadmap"
+  },
+  {
+    "githubUser": "RaphaelDeLaGhetto",
+    "githubRepo": "gebo",
+    "npmPackage": "gebo"
+  },
+  {
+    "githubUser": "freshlogic",
+    "githubRepo": "whosit",
+    "npmPackage": "whosit"
+  },
+  {
+    "githubUser": "dtinth",
+    "githubRepo": "desire",
+    "npmPackage": "desire"
+  },
+  {
+    "githubUser": "tmont",
+    "githubRepo": "tamarackjs",
+    "npmPackage": "tamarack"
+  },
+  {
+    "githubUser": "emilioTe",
+    "githubRepo": "node-randumb",
+    "npmPackage": "randumb"
+  },
+  {
+    "githubUser": "joeLepper",
+    "githubRepo": "pi-led-flasher",
+    "npmPackage": "pi-led-flasher"
+  },
+  {
+    "githubUser": "furf",
+    "githubRepo": "vineapple",
+    "npmPackage": "vineapple"
+  },
+  {
+    "githubUser": "DamonOehlman",
+    "githubRepo": "checkevents",
+    "npmPackage": "checkevents"
+  },
+  {
+    "githubUser": "creationix",
+    "githubRepo": "js-git-node-platform",
+    "npmPackage": "js-git-node-platform"
+  },
+  {
+    "githubUser": "rtc-io",
+    "githubRepo": "rtc-switchboard",
+    "npmPackage": "rtc-switchboard"
+  },
+  {
+    "githubUser": "lukekarrys",
+    "githubRepo": "andbang-cli",
+    "npmPackage": "andbang-cli"
+  },
+  {
+    "githubUser": "j-",
+    "githubRepo": "metaballs",
+    "npmPackage": "metaballs"
+  },
+  {
+    "githubUser": "JoshGlazebrook",
+    "githubRepo": "wpnp-crypto",
+    "npmPackage": "wpnp-crypto"
+  },
+  {
+    "githubUser": "dhbaird",
+    "githubRepo": "wormy",
+    "npmPackage": "wormy"
+  },
+  {
+    "githubUser": "czindel",
+    "githubRepo": "asset-collector",
+    "npmPackage": "asset-collector"
+  },
+  {
+    "githubUser": "MaximTovstashev",
+    "githubRepo": "brest",
+    "npmPackage": "brest"
+  },
+  {
+    "githubUser": "ben-ng",
+    "githubRepo": "minifyify",
+    "npmPackage": "minifyify"
+  },
+  {
+    "githubUser": "mindfreakthemon",
+    "githubRepo": "passport-imgur",
+    "npmPackage": "passport-imgur"
+  },
+  {
+    "githubUser": "websecurify",
+    "githubRepo": "node-vboxmanage",
+    "npmPackage": "vboxmanage"
+  },
+  {
+    "githubUser": "bfuster",
+    "githubRepo": "injct",
+    "npmPackage": "injct"
+  },
+  {
+    "githubUser": "AdamPflug",
+    "githubRepo": "express-brute",
+    "npmPackage": "express-brute"
+  },
+  {
+    "githubUser": "ericzhang-cn",
+    "githubRepo": "papery",
+    "npmPackage": "papery"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "box2d-player",
+    "npmPackage": "box2d-player"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "box2d-events",
+    "npmPackage": "box2d-events"
+  },
+  {
+    "githubUser": "mikaelkaron",
+    "githubRepo": "grunt-semver",
+    "npmPackage": "grunt-semver"
+  },
+  {
+    "githubUser": "tasogarepg",
+    "githubRepo": "gene",
+    "npmPackage": "gene"
+  },
+  {
+    "githubUser": "motorin",
+    "githubRepo": "grunt-php-to-json",
+    "npmPackage": "grunt-php-to-json"
+  },
+  {
+    "githubUser": "creynders",
+    "githubRepo": "dijon",
+    "npmPackage": "dijon"
+  },
+  {
+    "githubUser": "gerhardberger",
+    "githubRepo": "sioux-segue",
+    "npmPackage": "sioux-segue"
+  },
+  {
+    "githubUser": "DamonOehlman",
+    "githubRepo": "pull-readfile",
+    "npmPackage": "pull-file"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "continuous-box2d",
+    "npmPackage": "continuous-box2d"
+  },
+  {
+    "githubUser": "scttnlsn",
+    "githubRepo": "weedb",
+    "npmPackage": "weedb"
+  },
+  {
+    "githubUser": "stephenmathieson",
+    "githubRepo": "day-of-year",
+    "npmPackage": "day-of-year"
+  },
+  {
+    "githubUser": "Saunalol",
+    "githubRepo": "cssbeautify-cli",
+    "npmPackage": "cssbeautify-cli"
+  },
+  {
+    "githubUser": "mathiasbynens",
+    "githubRepo": "cssesc",
+    "npmPackage": "cssesc"
+  },
+  {
+    "githubUser": "ajlopez",
+    "githubRepo": "SimpleMongo",
+    "npmPackage": "simplemongo"
+  },
+  {
+    "githubUser": "motorin",
+    "githubRepo": "grunt-files-list",
+    "npmPackage": "grunt-files-list"
+  },
+  {
+    "githubUser": "MongoHQ",
+    "githubRepo": "pooldis",
+    "npmPackage": "pooldis"
+  },
+  {
+    "githubUser": "gadr",
+    "githubRepo": "grunt-remote",
+    "npmPackage": "grunt-remote"
+  },
+  {
+    "githubUser": "shannonmoeller",
+    "githubRepo": "hunk",
+    "npmPackage": "hunk"
+  },
+  {
+    "githubUser": "thlorenz",
+    "githubRepo": "appup",
+    "npmPackage": "appup"
+  },
+  {
+    "githubUser": "cowboy",
+    "githubRepo": "node-prolog",
+    "npmPackage": "prolog"
+  },
+  {
+    "githubUser": "salsita",
+    "githubRepo": "ancho",
+    "npmPackage": "ancho"
   }
 ]
