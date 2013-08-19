@@ -24,16 +24,16 @@
     "hireable": true,
     "bio": null,
     "public_repos": 121,
-    "followers": 187,
+    "followers": 188,
     "following": 16,
     "created_at": "2010-11-24T22:10:09Z",
-    "updated_at": "2013-08-18T14:32:11Z",
+    "updated_at": "2013-08-19T14:41:34Z",
     "public_gists": 25
   },
   {
     "login": "DamonOehlman",
     "id": 609693,
-    "avatar_url": "https://1.gravatar.com/avatar/2f3f59b09b160bc49f1e226e5b996ca3?d=https%3A%2F%2Fidenticons.github.com%2F25ba320d0687737d8b3612ffff2752a7.png",
+    "avatar_url": "https://2.gravatar.com/avatar/2f3f59b09b160bc49f1e226e5b996ca3?d=https%3A%2F%2Fidenticons.github.com%2F25ba320d0687737d8b3612ffff2752a7.png",
     "gravatar_id": "2f3f59b09b160bc49f1e226e5b996ca3",
     "url": "https://api.github.com/users/DamonOehlman",
     "html_url": "https://github.com/DamonOehlman",
@@ -54,17 +54,17 @@
     "email": "damon@fluxant.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 209,
+    "public_repos": 208,
     "followers": 93,
     "following": 149,
     "created_at": "2011-02-09T22:01:29Z",
-    "updated_at": "2013-08-18T13:17:47Z",
+    "updated_at": "2013-08-19T14:07:45Z",
     "public_gists": 31
   },
   {
     "login": "cgiffard",
     "id": 453993,
-    "avatar_url": "https://1.gravatar.com/avatar/ccdf3299e7d37f80fa9e886f86a5b28e?d=https%3A%2F%2Fidenticons.github.com%2F092319a85948ae6733501db86e041a5e.png",
+    "avatar_url": "https://0.gravatar.com/avatar/ccdf3299e7d37f80fa9e886f86a5b28e?d=https%3A%2F%2Fidenticons.github.com%2F092319a85948ae6733501db86e041a5e.png",
     "gravatar_id": "ccdf3299e7d37f80fa9e886f86a5b28e",
     "url": "https://api.github.com/users/cgiffard",
     "html_url": "https://github.com/cgiffard",
@@ -89,13 +89,13 @@
     "followers": 51,
     "following": 36,
     "created_at": "2010-10-26T02:27:40Z",
-    "updated_at": "2013-08-17T05:32:38Z",
+    "updated_at": "2013-08-19T11:08:06Z",
     "public_gists": 7
   },
   {
     "login": "cliffano",
     "id": 86285,
-    "avatar_url": "https://0.gravatar.com/avatar/460ee5375ae93a14c65602fd8e1d5d07?d=https%3A%2F%2Fidenticons.github.com%2F26895a4b24929e84a6e483814d45f679.png",
+    "avatar_url": "https://1.gravatar.com/avatar/460ee5375ae93a14c65602fd8e1d5d07?d=https%3A%2F%2Fidenticons.github.com%2F26895a4b24929e84a6e483814d45f679.png",
     "gravatar_id": "460ee5375ae93a14c65602fd8e1d5d07",
     "url": "https://api.github.com/users/cliffano",
     "html_url": "https://github.com/cliffano",
@@ -126,7 +126,7 @@
   {
     "login": "afterlight",
     "id": 309957,
-    "avatar_url": "https://1.gravatar.com/avatar/defad3e7e0acf6720cc939bab36776e3?d=https%3A%2F%2Fidenticons.github.com%2F81cd24df71124db6109548a90b88ebc8.png",
+    "avatar_url": "https://2.gravatar.com/avatar/defad3e7e0acf6720cc939bab36776e3?d=https%3A%2F%2Fidenticons.github.com%2F81cd24df71124db6109548a90b88ebc8.png",
     "gravatar_id": "defad3e7e0acf6720cc939bab36776e3",
     "url": "https://api.github.com/users/afterlight",
     "html_url": "https://github.com/afterlight",
@@ -182,13 +182,13 @@
     "followers": 143,
     "following": 12,
     "created_at": "2011-03-29T07:10:09Z",
-    "updated_at": "2013-08-18T03:02:15Z",
+    "updated_at": "2013-08-19T15:18:34Z",
     "public_gists": 1
   },
   {
     "login": "hughsk",
     "id": 569817,
-    "avatar_url": "https://0.gravatar.com/avatar/133cd05eb39521d55fb7a08c787925e2?d=https%3A%2F%2Fidenticons.github.com%2Ffd40e36a59005477ef3d09903ef51ae9.png",
+    "avatar_url": "https://1.gravatar.com/avatar/133cd05eb39521d55fb7a08c787925e2?d=https%3A%2F%2Fidenticons.github.com%2Ffd40e36a59005477ef3d09903ef51ae9.png",
     "gravatar_id": "133cd05eb39521d55fb7a08c787925e2",
     "url": "https://api.github.com/users/hughsk",
     "html_url": "https://github.com/hughsk",
@@ -213,13 +213,13 @@
     "followers": 59,
     "following": 83,
     "created_at": "2011-01-18T00:43:02Z",
-    "updated_at": "2013-08-18T14:49:01Z",
+    "updated_at": "2013-08-19T11:29:44Z",
     "public_gists": 8
   },
   {
     "login": "anthonyshort",
     "id": 36125,
-    "avatar_url": "https://2.gravatar.com/avatar/66a084a22668f2489f0536455d9b16da?d=https%3A%2F%2Fidenticons.github.com%2Fd5cbe173e3496a9a8cf33ff403326f36.png",
+    "avatar_url": "https://1.gravatar.com/avatar/66a084a22668f2489f0536455d9b16da?d=https%3A%2F%2Fidenticons.github.com%2Fd5cbe173e3496a9a8cf33ff403326f36.png",
     "gravatar_id": "66a084a22668f2489f0536455d9b16da",
     "url": "https://api.github.com/users/anthonyshort",
     "html_url": "https://github.com/anthonyshort",
@@ -241,16 +241,16 @@
     "hireable": true,
     "bio": null,
     "public_repos": 79,
-    "followers": 196,
+    "followers": 198,
     "following": 34,
     "created_at": "2008-11-23T08:46:35Z",
-    "updated_at": "2013-08-18T11:33:12Z",
+    "updated_at": "2013-08-19T12:01:18Z",
     "public_gists": 53
   },
   {
     "login": "deoxxa",
     "id": 479055,
-    "avatar_url": "https://0.gravatar.com/avatar/d27bae51ba163785869161126434ea56?d=https%3A%2F%2Fidenticons.github.com%2F83f849c6fe01025f8f08a6ad12d02eb2.png",
+    "avatar_url": "https://1.gravatar.com/avatar/d27bae51ba163785869161126434ea56?d=https%3A%2F%2Fidenticons.github.com%2F83f849c6fe01025f8f08a6ad12d02eb2.png",
     "gravatar_id": "d27bae51ba163785869161126434ea56",
     "url": "https://api.github.com/users/deoxxa",
     "html_url": "https://github.com/deoxxa",
@@ -281,7 +281,7 @@
   {
     "login": "leahciMic",
     "id": 1240502,
-    "avatar_url": "https://1.gravatar.com/avatar/8dd004479b277d69403cffa15a1fff8c?d=https%3A%2F%2Fidenticons.github.com%2F7864e80bfc2df13c36729738864189f2.png",
+    "avatar_url": "https://2.gravatar.com/avatar/8dd004479b277d69403cffa15a1fff8c?d=https%3A%2F%2Fidenticons.github.com%2F7864e80bfc2df13c36729738864189f2.png",
     "gravatar_id": "8dd004479b277d69403cffa15a1fff8c",
     "url": "https://api.github.com/users/leahciMic",
     "html_url": "https://github.com/leahciMic",
@@ -306,13 +306,13 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-08-17T18:37:14Z",
+    "updated_at": "2013-08-19T06:58:56Z",
     "public_gists": 0
   },
   {
     "login": "samcday",
     "id": 531550,
-    "avatar_url": "https://0.gravatar.com/avatar/e7c064c43f9a2e3deaae9488e51a46ac?d=https%3A%2F%2Fidenticons.github.com%2Fd752d1e63a7cc2e5f7e42f62221a408e.png",
+    "avatar_url": "https://1.gravatar.com/avatar/e7c064c43f9a2e3deaae9488e51a46ac?d=https%3A%2F%2Fidenticons.github.com%2Fd752d1e63a7cc2e5f7e42f62221a408e.png",
     "gravatar_id": "e7c064c43f9a2e3deaae9488e51a46ac",
     "url": "https://api.github.com/users/samcday",
     "html_url": "https://github.com/samcday",
@@ -343,7 +343,7 @@
   {
     "login": "chriso",
     "id": 364903,
-    "avatar_url": "https://0.gravatar.com/avatar/a22a8707c85dff1f5499eaa4fc90c6a9?d=https%3A%2F%2Fidenticons.github.com%2F946323fbba0b646b849e2e773ce41a34.png",
+    "avatar_url": "https://2.gravatar.com/avatar/a22a8707c85dff1f5499eaa4fc90c6a9?d=https%3A%2F%2Fidenticons.github.com%2F946323fbba0b646b849e2e773ce41a34.png",
     "gravatar_id": "a22a8707c85dff1f5499eaa4fc90c6a9",
     "url": "https://api.github.com/users/chriso",
     "html_url": "https://github.com/chriso",
@@ -368,7 +368,7 @@
     "followers": 212,
     "following": 7,
     "created_at": "2010-08-15T09:26:50Z",
-    "updated_at": "2013-08-18T14:12:55Z",
+    "updated_at": "2013-08-19T15:12:10Z",
     "public_gists": 22
   },
   {
@@ -399,13 +399,13 @@
     "followers": 18,
     "following": 16,
     "created_at": "2011-03-18T03:55:32Z",
-    "updated_at": "2013-08-17T14:58:55Z",
+    "updated_at": "2013-08-19T14:39:55Z",
     "public_gists": 18
   },
   {
     "login": "tqc",
     "id": 543305,
-    "avatar_url": "https://1.gravatar.com/avatar/6e46378f30c2abbec6f805c0333db04d?d=https%3A%2F%2Fidenticons.github.com%2F0f6ca91a9fcd7360d9a7f2831501e9a3.png",
+    "avatar_url": "https://0.gravatar.com/avatar/6e46378f30c2abbec6f805c0333db04d?d=https%3A%2F%2Fidenticons.github.com%2F0f6ca91a9fcd7360d9a7f2831501e9a3.png",
     "gravatar_id": "6e46378f30c2abbec6f805c0333db04d",
     "url": "https://api.github.com/users/tqc",
     "html_url": "https://github.com/tqc",
@@ -430,7 +430,7 @@
     "followers": 4,
     "following": 1,
     "created_at": "2011-01-01T12:52:47Z",
-    "updated_at": "2013-08-13T03:51:50Z",
+    "updated_at": "2013-08-19T04:00:33Z",
     "public_gists": 6
   },
   {
@@ -461,13 +461,13 @@
     "followers": 12,
     "following": 83,
     "created_at": "2010-08-18T02:32:33Z",
-    "updated_at": "2013-08-15T01:30:47Z",
+    "updated_at": "2013-08-19T03:35:40Z",
     "public_gists": 7
   },
   {
     "login": "eugeneware",
     "id": 38154,
-    "avatar_url": "https://2.gravatar.com/avatar/7eab3f90d1d3164608293f3d38759e4e?d=https%3A%2F%2Fidenticons.github.com%2Fe7eb6d06172005c7bd96c8672cf4dd46.png",
+    "avatar_url": "https://1.gravatar.com/avatar/7eab3f90d1d3164608293f3d38759e4e?d=https%3A%2F%2Fidenticons.github.com%2Fe7eb6d06172005c7bd96c8672cf4dd46.png",
     "gravatar_id": "7eab3f90d1d3164608293f3d38759e4e",
     "url": "https://api.github.com/users/eugeneware",
     "html_url": "https://github.com/eugeneware",
@@ -488,17 +488,17 @@
     "email": "eugene@noblesamurai.com",
     "hireable": false,
     "bio": "",
-    "public_repos": 73,
+    "public_repos": 75,
     "followers": 48,
     "following": 54,
     "created_at": "2008-12-03T23:25:48Z",
-    "updated_at": "2013-08-18T08:04:09Z",
+    "updated_at": "2013-08-19T12:27:57Z",
     "public_gists": 6
   },
   {
     "login": "buildjs",
     "id": 1954575,
-    "avatar_url": "https://0.gravatar.com/avatar/9000779108091f7264b589229c93647a?d=https%3A%2F%2Fidenticons.github.com%2Fd8f6c5ff752122a9e514d7a5c08a762e.png",
+    "avatar_url": "https://1.gravatar.com/avatar/9000779108091f7264b589229c93647a?d=https%3A%2F%2Fidenticons.github.com%2Fd8f6c5ff752122a9e514d7a5c08a762e.png",
     "gravatar_id": "9000779108091f7264b589229c93647a",
     "url": "https://api.github.com/users/buildjs",
     "html_url": "https://github.com/buildjs",
@@ -554,13 +554,13 @@
     "followers": 394,
     "following": 102,
     "created_at": "2009-03-07T21:43:06Z",
-    "updated_at": "2013-08-18T06:27:10Z",
+    "updated_at": "2013-08-19T13:52:47Z",
     "public_gists": 95
   },
   {
     "login": "sebarmeli",
     "id": 373101,
-    "avatar_url": "https://0.gravatar.com/avatar/a32ee5b05bff6b42a3dd62b5732065f8?d=https%3A%2F%2Fidenticons.github.com%2Fd3593aaab9d1a8b01d5a2ea558bc30b5.png",
+    "avatar_url": "https://1.gravatar.com/avatar/a32ee5b05bff6b42a3dd62b5732065f8?d=https%3A%2F%2Fidenticons.github.com%2Fd3593aaab9d1a8b01d5a2ea558bc30b5.png",
     "gravatar_id": "a32ee5b05bff6b42a3dd62b5732065f8",
     "url": "https://api.github.com/users/sebarmeli",
     "html_url": "https://github.com/sebarmeli",
@@ -612,17 +612,17 @@
     "email": "creative@creativelicence.com.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 5,
+    "public_repos": 6,
     "followers": 0,
     "following": 0,
     "created_at": "2013-05-09T00:52:49Z",
-    "updated_at": "2013-08-16T08:00:31Z",
+    "updated_at": "2013-08-19T08:52:23Z",
     "public_gists": 0
   },
   {
     "login": "sydneystockholm",
     "id": 1558739,
-    "avatar_url": "https://0.gravatar.com/avatar/228b71ebd2b5358f5f64a40400f84d40?d=https%3A%2F%2Fidenticons.github.com%2Fea94f9d44e59fd25b22381bbaa93006f.png",
+    "avatar_url": "https://2.gravatar.com/avatar/228b71ebd2b5358f5f64a40400f84d40?d=https%3A%2F%2Fidenticons.github.com%2Fea94f9d44e59fd25b22381bbaa93006f.png",
     "gravatar_id": "228b71ebd2b5358f5f64a40400f84d40",
     "url": "https://api.github.com/users/sydneystockholm",
     "html_url": "https://github.com/sydneystockholm",
@@ -647,13 +647,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-08-16T06:10:23Z",
+    "updated_at": "2013-08-19T06:11:51Z",
     "public_gists": 0
   },
   {
     "login": "nullobject",
     "id": 3614,
-    "avatar_url": "https://1.gravatar.com/avatar/128a23ed95e352275c88fcb39c888932?d=https%3A%2F%2Fidenticons.github.com%2F6add07cf50424b14fdf649da87843d01.png",
+    "avatar_url": "https://0.gravatar.com/avatar/128a23ed95e352275c88fcb39c888932?d=https%3A%2F%2Fidenticons.github.com%2F6add07cf50424b14fdf649da87843d01.png",
     "gravatar_id": "128a23ed95e352275c88fcb39c888932",
     "url": "https://api.github.com/users/nullobject",
     "html_url": "https://github.com/nullobject",
@@ -678,13 +678,13 @@
     "followers": 32,
     "following": 40,
     "created_at": "2008-03-21T23:24:53Z",
-    "updated_at": "2013-08-16T00:22:47Z",
+    "updated_at": "2013-08-19T02:30:47Z",
     "public_gists": 2
   },
   {
     "login": "aaronpowell",
     "id": 434140,
-    "avatar_url": "https://2.gravatar.com/avatar/5d608d8fe9156b0e01b3f224e28409b0?d=https%3A%2F%2Fidenticons.github.com%2F35a67b379873df3507fa6189e31d57bf.png",
+    "avatar_url": "https://0.gravatar.com/avatar/5d608d8fe9156b0e01b3f224e28409b0?d=https%3A%2F%2Fidenticons.github.com%2F35a67b379873df3507fa6189e31d57bf.png",
     "gravatar_id": "5d608d8fe9156b0e01b3f224e28409b0",
     "url": "https://api.github.com/users/aaronpowell",
     "html_url": "https://github.com/aaronpowell",
@@ -715,7 +715,7 @@
   {
     "login": "josephg",
     "id": 47413,
-    "avatar_url": "https://1.gravatar.com/avatar/555b9e9ff4c3033dd6d31ba7796d2374?d=https%3A%2F%2Fidenticons.github.com%2F417dedd041fefe5dbdea9cd22d424d86.png",
+    "avatar_url": "https://0.gravatar.com/avatar/555b9e9ff4c3033dd6d31ba7796d2374?d=https%3A%2F%2Fidenticons.github.com%2F417dedd041fefe5dbdea9cd22d424d86.png",
     "gravatar_id": "555b9e9ff4c3033dd6d31ba7796d2374",
     "url": "https://api.github.com/users/josephg",
     "html_url": "https://github.com/josephg",
@@ -740,13 +740,13 @@
     "followers": 157,
     "following": 6,
     "created_at": "2009-01-18T03:29:23Z",
-    "updated_at": "2013-08-17T18:25:47Z",
+    "updated_at": "2013-08-19T03:58:55Z",
     "public_gists": 35
   },
   {
     "login": "dstrek",
     "id": 995641,
-    "avatar_url": "https://1.gravatar.com/avatar/5ca5c73a8780b8d6871fe33c853e0a30?d=https%3A%2F%2Fidenticons.github.com%2Fb98172ac9e544c61899d3119f23bfed5.png",
+    "avatar_url": "https://2.gravatar.com/avatar/5ca5c73a8780b8d6871fe33c853e0a30?d=https%3A%2F%2Fidenticons.github.com%2Fb98172ac9e544c61899d3119f23bfed5.png",
     "gravatar_id": "5ca5c73a8780b8d6871fe33c853e0a30",
     "url": "https://api.github.com/users/dstrek",
     "html_url": "https://github.com/dstrek",
@@ -771,13 +771,13 @@
     "followers": 1,
     "following": 0,
     "created_at": "2011-08-22T07:16:43Z",
-    "updated_at": "2013-08-16T03:28:41Z",
+    "updated_at": "2013-08-19T09:21:39Z",
     "public_gists": 0
   },
   {
     "login": "bruno",
     "id": 393,
-    "avatar_url": "https://2.gravatar.com/avatar/d25d7166e80639478ef1811788b8e61e?d=https%3A%2F%2Fidenticons.github.com%2F70c639df5e30bdee440e4cdf599fec2b.png",
+    "avatar_url": "https://1.gravatar.com/avatar/d25d7166e80639478ef1811788b8e61e?d=https%3A%2F%2Fidenticons.github.com%2F70c639df5e30bdee440e4cdf599fec2b.png",
     "gravatar_id": "d25d7166e80639478ef1811788b8e61e",
     "url": "https://api.github.com/users/bruno",
     "html_url": "https://github.com/bruno",
@@ -802,13 +802,13 @@
     "followers": 32,
     "following": 65,
     "created_at": "2008-02-18T23:15:04Z",
-    "updated_at": "2013-08-18T10:44:21Z",
+    "updated_at": "2013-08-19T11:09:03Z",
     "public_gists": 4
   },
   {
     "login": "quackingduck",
     "id": 9556,
-    "avatar_url": "https://1.gravatar.com/avatar/2cecb9c713ca7bcc78e51badd3b106f5?d=https%3A%2F%2Fidenticons.github.com%2F177da57035b03c2eb2cbe9b872348d15.png",
+    "avatar_url": "https://2.gravatar.com/avatar/2cecb9c713ca7bcc78e51badd3b106f5?d=https%3A%2F%2Fidenticons.github.com%2F177da57035b03c2eb2cbe9b872348d15.png",
     "gravatar_id": "2cecb9c713ca7bcc78e51badd3b106f5",
     "url": "https://api.github.com/users/quackingduck",
     "html_url": "https://github.com/quackingduck",
@@ -864,7 +864,7 @@
     "followers": 274,
     "following": 25,
     "created_at": "2009-10-22T22:13:53Z",
-    "updated_at": "2013-08-17T23:06:45Z",
+    "updated_at": "2013-08-19T04:32:42Z",
     "public_gists": 17
   },
   {
@@ -895,13 +895,13 @@
     "followers": 7,
     "following": 7,
     "created_at": "2009-02-26T11:58:02Z",
-    "updated_at": "2013-08-16T00:59:19Z",
+    "updated_at": "2013-08-19T02:38:06Z",
     "public_gists": 3
   },
   {
     "login": "blakeembrey",
     "id": 1088987,
-    "avatar_url": "https://0.gravatar.com/avatar/a7436e2338a2ae070a61ad78d853a6be?d=https%3A%2F%2Fidenticons.github.com%2F2df2061662cbebb310d5f239686b398d.png",
+    "avatar_url": "https://2.gravatar.com/avatar/a7436e2338a2ae070a61ad78d853a6be?d=https%3A%2F%2Fidenticons.github.com%2F2df2061662cbebb310d5f239686b398d.png",
     "gravatar_id": "a7436e2338a2ae070a61ad78d853a6be",
     "url": "https://api.github.com/users/blakeembrey",
     "html_url": "https://github.com/blakeembrey",
@@ -926,7 +926,7 @@
     "followers": 86,
     "following": 46,
     "created_at": "2011-09-29T06:41:12Z",
-    "updated_at": "2013-08-18T06:43:01Z",
+    "updated_at": "2013-08-19T15:03:30Z",
     "public_gists": 3
   },
   {
@@ -994,7 +994,7 @@
   {
     "login": "boundvariable",
     "id": 313115,
-    "avatar_url": "https://2.gravatar.com/avatar/bc08b579af02e1688be1b60636b161b1?d=https%3A%2F%2Fidenticons.github.com%2F32ef38ed25bc4d96ff219528c46b984f.png",
+    "avatar_url": "https://1.gravatar.com/avatar/bc08b579af02e1688be1b60636b161b1?d=https%3A%2F%2Fidenticons.github.com%2F32ef38ed25bc4d96ff219528c46b984f.png",
     "gravatar_id": "bc08b579af02e1688be1b60636b161b1",
     "url": "https://api.github.com/users/boundvariable",
     "html_url": "https://github.com/boundvariable",
@@ -1025,7 +1025,7 @@
   {
     "login": "jeremyworboys",
     "id": 988173,
-    "avatar_url": "https://0.gravatar.com/avatar/957b0b58ae039db05df43e46c1e0b333?d=https%3A%2F%2Fidenticons.github.com%2F5644d3423dd18bf63b9070f72991dac5.png",
+    "avatar_url": "https://2.gravatar.com/avatar/957b0b58ae039db05df43e46c1e0b333?d=https%3A%2F%2Fidenticons.github.com%2F5644d3423dd18bf63b9070f72991dac5.png",
     "gravatar_id": "957b0b58ae039db05df43e46c1e0b333",
     "url": "https://api.github.com/users/jeremyworboys",
     "html_url": "https://github.com/jeremyworboys",
@@ -1046,17 +1046,17 @@
     "email": "jw@jeremyworboys.com",
     "hireable": true,
     "bio": "Owner, Founder and Head Honcho of Complex Compulsions. I specialise in web design and development with particular focus on usability and semantics",
-    "public_repos": 31,
-    "followers": 17,
+    "public_repos": 32,
+    "followers": 18,
     "following": 18,
     "created_at": "2011-08-18T08:37:15Z",
-    "updated_at": "2013-08-17T07:24:14Z",
+    "updated_at": "2013-08-19T11:57:30Z",
     "public_gists": 19
   },
   {
     "login": "timoxley",
     "id": 43438,
-    "avatar_url": "https://2.gravatar.com/avatar/f0deca4576206207a882928e7ff32ddb?d=https%3A%2F%2Fidenticons.github.com%2Fd456fd223d951cb756e4758581f31e01.png",
+    "avatar_url": "https://1.gravatar.com/avatar/f0deca4576206207a882928e7ff32ddb?d=https%3A%2F%2Fidenticons.github.com%2Fd456fd223d951cb756e4758581f31e01.png",
     "gravatar_id": "f0deca4576206207a882928e7ff32ddb",
     "url": "https://api.github.com/users/timoxley",
     "html_url": "https://github.com/timoxley",
@@ -1079,9 +1079,9 @@
     "bio": "Javascript/NodeJS developer. \r\n\r\nI help companies refine their Javascript methodologies, tools, and architecture while improving their practices so they can grow their Javascript at velocity.\r\n",
     "public_repos": 274,
     "followers": 162,
-    "following": 194,
+    "following": 196,
     "created_at": "2008-12-31T03:17:42Z",
-    "updated_at": "2013-08-18T14:30:16Z",
+    "updated_at": "2013-08-19T14:45:27Z",
     "public_gists": 78
   },
   {
@@ -1112,13 +1112,13 @@
     "followers": 5,
     "following": 0,
     "created_at": "2011-02-22T12:24:25Z",
-    "updated_at": "2013-08-18T02:32:12Z",
+    "updated_at": "2013-08-19T07:48:23Z",
     "public_gists": 36
   },
   {
     "login": "ajorkowski",
     "id": 1185777,
-    "avatar_url": "https://2.gravatar.com/avatar/e9bc6fd51df92126db16cb975afffe55?d=https%3A%2F%2Fidenticons.github.com%2F942fcf181315ed4b85a4ccfc0f35c39f.png",
+    "avatar_url": "https://1.gravatar.com/avatar/e9bc6fd51df92126db16cb975afffe55?d=https%3A%2F%2Fidenticons.github.com%2F942fcf181315ed4b85a4ccfc0f35c39f.png",
     "gravatar_id": "e9bc6fd51df92126db16cb975afffe55",
     "url": "https://api.github.com/users/ajorkowski",
     "html_url": "https://github.com/ajorkowski",
@@ -1149,7 +1149,7 @@
   {
     "login": "feisty",
     "id": 120974,
-    "avatar_url": "https://2.gravatar.com/avatar/f80738c46b4a11e1b080187a57865131?d=https%3A%2F%2Fidenticons.github.com%2Fffb10c795e2d87e01a4508c284e912b5.png",
+    "avatar_url": "https://1.gravatar.com/avatar/f80738c46b4a11e1b080187a57865131?d=https%3A%2F%2Fidenticons.github.com%2Fffb10c795e2d87e01a4508c284e912b5.png",
     "gravatar_id": "f80738c46b4a11e1b080187a57865131",
     "url": "https://api.github.com/users/feisty",
     "html_url": "https://github.com/feisty",
@@ -1174,13 +1174,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2009-08-29T23:12:39Z",
-    "updated_at": "2013-08-18T09:13:27Z",
+    "updated_at": "2013-08-19T11:25:45Z",
     "public_gists": 0
   },
   {
     "login": "jaitaiwan",
     "id": 674765,
-    "avatar_url": "https://2.gravatar.com/avatar/1d20a8085dc4d26e2aae914ba89601ed?d=https%3A%2F%2Fidenticons.github.com%2F27d6db2d83a6defb3f5e94c9d11f1ec1.png",
+    "avatar_url": "https://1.gravatar.com/avatar/1d20a8085dc4d26e2aae914ba89601ed?d=https%3A%2F%2Fidenticons.github.com%2F27d6db2d83a6defb3f5e94c9d11f1ec1.png",
     "gravatar_id": "1d20a8085dc4d26e2aae914ba89601ed",
     "url": "https://api.github.com/users/jaitaiwan",
     "html_url": "https://github.com/jaitaiwan",
@@ -1201,11 +1201,11 @@
     "email": "dan@djcentric.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 13,
+    "public_repos": 14,
     "followers": 5,
     "following": 17,
     "created_at": "2011-03-17T09:24:44Z",
-    "updated_at": "2013-08-13T06:52:24Z",
+    "updated_at": "2013-08-19T13:39:42Z",
     "public_gists": 0
   },
   {
@@ -1236,13 +1236,13 @@
     "followers": 4,
     "following": 3,
     "created_at": "2011-03-08T06:55:11Z",
-    "updated_at": "2013-08-18T15:38:07Z",
+    "updated_at": "2013-08-18T18:21:37Z",
     "public_gists": 0
   },
   {
     "login": "noblesamurai",
     "id": 225805,
-    "avatar_url": "https://1.gravatar.com/avatar/5ab2099f50d39f6fd3049c3826ac6056?d=https%3A%2F%2Fidenticons.github.com%2Fc1b8cb77e8341a0ba7d1b90945ef248e.png",
+    "avatar_url": "https://0.gravatar.com/avatar/5ab2099f50d39f6fd3049c3826ac6056?d=https%3A%2F%2Fidenticons.github.com%2Fc1b8cb77e8341a0ba7d1b90945ef248e.png",
     "gravatar_id": "5ab2099f50d39f6fd3049c3826ac6056",
     "url": "https://api.github.com/users/noblesamurai",
     "html_url": "https://github.com/noblesamurai",
@@ -1267,13 +1267,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-03-19T01:17:40Z",
-    "updated_at": "2013-08-16T04:43:55Z",
+    "updated_at": "2013-08-19T06:46:45Z",
     "public_gists": 0
   },
   {
     "login": "wolfeidau",
     "id": 50636,
-    "avatar_url": "https://2.gravatar.com/avatar/ebf974e0dbcfe88c508df6f395661a4b?d=https%3A%2F%2Fidenticons.github.com%2Ffe292163d06253b716e9a0099b42031d.png",
+    "avatar_url": "https://1.gravatar.com/avatar/ebf974e0dbcfe88c508df6f395661a4b?d=https%3A%2F%2Fidenticons.github.com%2Ffe292163d06253b716e9a0099b42031d.png",
     "gravatar_id": "ebf974e0dbcfe88c508df6f395661a4b",
     "url": "https://api.github.com/users/wolfeidau",
     "html_url": "https://github.com/wolfeidau",
@@ -1294,17 +1294,17 @@
     "email": "mark@wolfe.id.au",
     "hireable": false,
     "bio": null,
-    "public_repos": 124,
+    "public_repos": 125,
     "followers": 17,
     "following": 12,
     "created_at": "2009-01-31T02:05:51Z",
-    "updated_at": "2013-08-18T01:25:53Z",
-    "public_gists": 78
+    "updated_at": "2013-08-19T08:33:56Z",
+    "public_gists": 79
   },
   {
     "login": "liammclennan",
     "id": 271514,
-    "avatar_url": "https://2.gravatar.com/avatar/8d683ec7f3beb00be43e72b17dd32560?d=https%3A%2F%2Fidenticons.github.com%2F351e45e194f01359646c6ef680e9c096.png",
+    "avatar_url": "https://0.gravatar.com/avatar/8d683ec7f3beb00be43e72b17dd32560?d=https%3A%2F%2Fidenticons.github.com%2F351e45e194f01359646c6ef680e9c096.png",
     "gravatar_id": "8d683ec7f3beb00be43e72b17dd32560",
     "url": "https://api.github.com/users/liammclennan",
     "html_url": "https://github.com/liammclennan",
@@ -1329,13 +1329,13 @@
     "followers": 67,
     "following": 35,
     "created_at": "2010-05-09T06:27:54Z",
-    "updated_at": "2013-08-18T02:50:19Z",
+    "updated_at": "2013-08-19T10:49:39Z",
     "public_gists": 88
   },
   {
     "login": "sidorares",
     "id": 173025,
-    "avatar_url": "https://1.gravatar.com/avatar/b9c6d7d25428d0a756ac9f19176b89f2?d=https%3A%2F%2Fidenticons.github.com%2F6934383053f53f80b6d43c4004ad22c4.png",
+    "avatar_url": "https://0.gravatar.com/avatar/b9c6d7d25428d0a756ac9f19176b89f2?d=https%3A%2F%2Fidenticons.github.com%2F6934383053f53f80b6d43c4004ad22c4.png",
     "gravatar_id": "b9c6d7d25428d0a756ac9f19176b89f2",
     "url": "https://api.github.com/users/sidorares",
     "html_url": "https://github.com/sidorares",
@@ -1357,16 +1357,16 @@
     "hireable": true,
     "bio": "CAD/CAM, computational geometry\r\nC++/JavaScript\r\nMySQL/Oracle\r\nNodeJS, real-time web\r\nload testing\r\n",
     "public_repos": 84,
-    "followers": 102,
+    "followers": 103,
     "following": 164,
     "created_at": "2009-12-28T13:05:40Z",
-    "updated_at": "2013-08-18T14:34:00Z",
+    "updated_at": "2013-08-19T08:18:45Z",
     "public_gists": 27
   },
   {
     "login": "dekz",
     "id": 27389,
-    "avatar_url": "https://0.gravatar.com/avatar/63d73a736c52194877be844da5a951a8?d=https%3A%2F%2Fidenticons.github.com%2F3d2b08aa7cfa68fd54e3f4a4e7ffcf7d.png",
+    "avatar_url": "https://2.gravatar.com/avatar/63d73a736c52194877be844da5a951a8?d=https%3A%2F%2Fidenticons.github.com%2F3d2b08aa7cfa68fd54e3f4a4e7ffcf7d.png",
     "gravatar_id": "63d73a736c52194877be844da5a951a8",
     "url": "https://api.github.com/users/dekz",
     "html_url": "https://github.com/dekz",
@@ -1391,13 +1391,13 @@
     "followers": 18,
     "following": 32,
     "created_at": "2008-10-03T09:48:15Z",
-    "updated_at": "2013-08-18T12:08:57Z",
+    "updated_at": "2013-08-19T07:17:45Z",
     "public_gists": 31
   },
   {
     "login": "gcmurphy",
     "id": 222833,
-    "avatar_url": "https://0.gravatar.com/avatar/955a7b36f718a984e457e5a9399f64d8?d=https%3A%2F%2Fidenticons.github.com%2F83f474c7875892f69264118d9501670e.png",
+    "avatar_url": "https://2.gravatar.com/avatar/955a7b36f718a984e457e5a9399f64d8?d=https%3A%2F%2Fidenticons.github.com%2F83f474c7875892f69264118d9501670e.png",
     "gravatar_id": "955a7b36f718a984e457e5a9399f64d8",
     "url": "https://api.github.com/users/gcmurphy",
     "html_url": "https://github.com/gcmurphy",
@@ -1418,11 +1418,11 @@
     "email": null,
     "hireable": true,
     "bio": "",
-    "public_repos": 26,
+    "public_repos": 27,
     "followers": 8,
     "following": 29,
     "created_at": "2010-03-15T07:12:16Z",
-    "updated_at": "2013-08-18T03:24:23Z",
+    "updated_at": "2013-08-19T11:34:22Z",
     "public_gists": 26
   },
   {
@@ -1459,7 +1459,7 @@
   {
     "login": "dynmeth",
     "id": 576492,
-    "avatar_url": "https://1.gravatar.com/avatar/7d06ce27539e15684f2a4487e1a51e5a?d=https%3A%2F%2Fidenticons.github.com%2Fc61fee27d778b6e58175aa3bffd48887.png",
+    "avatar_url": "https://0.gravatar.com/avatar/7d06ce27539e15684f2a4487e1a51e5a?d=https%3A%2F%2Fidenticons.github.com%2Fc61fee27d778b6e58175aa3bffd48887.png",
     "gravatar_id": "7d06ce27539e15684f2a4487e1a51e5a",
     "url": "https://api.github.com/users/dynmeth",
     "html_url": "https://github.com/dynmeth",
@@ -1490,7 +1490,7 @@
   {
     "login": "keeganstreet",
     "id": 513363,
-    "avatar_url": "https://2.gravatar.com/avatar/34a956586f1b3978b0fca42d1c9a37d7?d=https%3A%2F%2Fidenticons.github.com%2F99e4d1031a380aa40a2209e6432fb219.png",
+    "avatar_url": "https://0.gravatar.com/avatar/34a956586f1b3978b0fca42d1c9a37d7?d=https%3A%2F%2Fidenticons.github.com%2F99e4d1031a380aa40a2209e6432fb219.png",
     "gravatar_id": "34a956586f1b3978b0fca42d1c9a37d7",
     "url": "https://api.github.com/users/keeganstreet",
     "html_url": "https://github.com/keeganstreet",
@@ -1542,11 +1542,11 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 29,
+    "public_repos": 28,
     "followers": 47,
-    "following": 26,
+    "following": 27,
     "created_at": "2008-08-08T00:59:42Z",
-    "updated_at": "2013-08-17T02:00:15Z",
+    "updated_at": "2013-08-19T06:21:53Z",
     "public_gists": 218
   },
   {
@@ -1574,10 +1574,10 @@
     "hireable": true,
     "bio": "",
     "public_repos": 11,
-    "followers": 1163,
+    "followers": 1165,
     "following": 15,
     "created_at": "2008-09-01T07:35:49Z",
-    "updated_at": "2013-08-18T13:55:08Z",
+    "updated_at": "2013-08-19T12:54:30Z",
     "public_gists": 4
   },
   {
@@ -1608,13 +1608,13 @@
     "followers": 82,
     "following": 0,
     "created_at": "2010-06-29T19:45:34Z",
-    "updated_at": "2013-08-18T02:16:42Z",
+    "updated_at": "2013-08-19T05:01:20Z",
     "public_gists": 3
   },
   {
     "login": "moneytribeaustralia",
     "id": 1954156,
-    "avatar_url": "https://0.gravatar.com/avatar/7fce81e8e50e7c36d95d5cd437f7fc17?d=https%3A%2F%2Fidenticons.github.com%2F23430e0c389e86e689425ce600a3757b.png",
+    "avatar_url": "https://2.gravatar.com/avatar/7fce81e8e50e7c36d95d5cd437f7fc17?d=https%3A%2F%2Fidenticons.github.com%2F23430e0c389e86e689425ce600a3757b.png",
     "gravatar_id": "7fce81e8e50e7c36d95d5cd437f7fc17",
     "url": "https://api.github.com/users/moneytribeaustralia",
     "html_url": "https://github.com/moneytribeaustralia",
@@ -1639,7 +1639,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-11T04:33:52Z",
-    "updated_at": "2013-08-16T09:02:40Z",
+    "updated_at": "2013-08-19T06:42:48Z",
     "public_gists": 0
   },
   {
@@ -1667,16 +1667,16 @@
     "hireable": false,
     "bio": null,
     "public_repos": 77,
-    "followers": 6,
-    "following": 23,
+    "followers": 7,
+    "following": 24,
     "created_at": "2011-02-23T11:59:12Z",
-    "updated_at": "2013-08-17T17:29:03Z",
+    "updated_at": "2013-08-19T15:37:36Z",
     "public_gists": 19
   },
   {
     "login": "Connectcomau",
     "id": 2027157,
-    "avatar_url": "https://2.gravatar.com/avatar/8989bc99439758fcbd4ec0fde85df33b?d=https%3A%2F%2Fidenticons.github.com%2F895839bad5ef3f80dc0632d01e689c9f.png",
+    "avatar_url": "https://0.gravatar.com/avatar/8989bc99439758fcbd4ec0fde85df33b?d=https%3A%2F%2Fidenticons.github.com%2F895839bad5ef3f80dc0632d01e689c9f.png",
     "gravatar_id": "8989bc99439758fcbd4ec0fde85df33b",
     "url": "https://api.github.com/users/Connectcomau",
     "html_url": "https://github.com/Connectcomau",
@@ -1701,13 +1701,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T13:11:40Z",
-    "updated_at": "2013-08-15T12:16:42Z",
+    "updated_at": "2013-08-19T08:15:37Z",
     "public_gists": 0
   },
   {
     "login": "RobbieClarken",
     "id": 663161,
-    "avatar_url": "https://0.gravatar.com/avatar/a8e465c905f5ad94866395bec5587d9a?d=https%3A%2F%2Fidenticons.github.com%2Fe7a033c2bd6b0a21211f9ff22a016f10.png",
+    "avatar_url": "https://1.gravatar.com/avatar/a8e465c905f5ad94866395bec5587d9a?d=https%3A%2F%2Fidenticons.github.com%2Fe7a033c2bd6b0a21211f9ff22a016f10.png",
     "gravatar_id": "a8e465c905f5ad94866395bec5587d9a",
     "url": "https://api.github.com/users/RobbieClarken",
     "html_url": "https://github.com/RobbieClarken",
@@ -1732,13 +1732,13 @@
     "followers": 3,
     "following": 30,
     "created_at": "2011-03-11T00:52:22Z",
-    "updated_at": "2013-08-18T06:36:15Z",
+    "updated_at": "2013-08-19T05:23:55Z",
     "public_gists": 9
   },
   {
     "login": "chengxianga2008",
     "id": 869389,
-    "avatar_url": "https://1.gravatar.com/avatar/1e0ddc92293243a90e1fe7bb87390e8e?d=https%3A%2F%2Fidenticons.github.com%2Fa61ebb666fe492b36d707caf94223add.png",
+    "avatar_url": "https://2.gravatar.com/avatar/1e0ddc92293243a90e1fe7bb87390e8e?d=https%3A%2F%2Fidenticons.github.com%2Fa61ebb666fe492b36d707caf94223add.png",
     "gravatar_id": "1e0ddc92293243a90e1fe7bb87390e8e",
     "url": "https://api.github.com/users/chengxianga2008",
     "html_url": "https://github.com/chengxianga2008",
@@ -1769,7 +1769,7 @@
   {
     "login": "bscarvell",
     "id": 1268862,
-    "avatar_url": "https://2.gravatar.com/avatar/ece51f4d7e06255f63c9a7c4b6b902ab?d=https%3A%2F%2Fidenticons.github.com%2F532ee9f1da2b21e188421b38e6c85cb9.png",
+    "avatar_url": "https://0.gravatar.com/avatar/ece51f4d7e06255f63c9a7c4b6b902ab?d=https%3A%2F%2Fidenticons.github.com%2F532ee9f1da2b21e188421b38e6c85cb9.png",
     "gravatar_id": "ece51f4d7e06255f63c9a7c4b6b902ab",
     "url": "https://api.github.com/users/bscarvell",
     "html_url": "https://github.com/bscarvell",
@@ -1800,7 +1800,7 @@
   {
     "login": "sidelab",
     "id": 281229,
-    "avatar_url": "https://2.gravatar.com/avatar/49ab4e818b446ffa3dc12e293620bd80?d=https%3A%2F%2Fidenticons.github.com%2F12b374902ba6c9db78b82030c4a064b7.png",
+    "avatar_url": "https://1.gravatar.com/avatar/49ab4e818b446ffa3dc12e293620bd80?d=https%3A%2F%2Fidenticons.github.com%2F12b374902ba6c9db78b82030c4a064b7.png",
     "gravatar_id": "49ab4e818b446ffa3dc12e293620bd80",
     "url": "https://api.github.com/users/sidelab",
     "html_url": "https://github.com/sidelab",
@@ -1825,7 +1825,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2010-05-19T09:57:10Z",
-    "updated_at": "2013-08-18T16:05:21Z",
+    "updated_at": "2013-08-19T05:31:27Z",
     "public_gists": 1
   },
   {
@@ -1862,7 +1862,7 @@
   {
     "login": "nomiddlename",
     "id": 83909,
-    "avatar_url": "https://0.gravatar.com/avatar/8eff1c79a1b06e693f3e848df0340668?d=https%3A%2F%2Fidenticons.github.com%2Ff8dc989f5ef8d43d2e701a44b6c6b6f6.png",
+    "avatar_url": "https://1.gravatar.com/avatar/8eff1c79a1b06e693f3e848df0340668?d=https%3A%2F%2Fidenticons.github.com%2Ff8dc989f5ef8d43d2e701a44b6c6b6f6.png",
     "gravatar_id": "8eff1c79a1b06e693f3e848df0340668",
     "url": "https://api.github.com/users/nomiddlename",
     "html_url": "https://github.com/nomiddlename",
@@ -1893,7 +1893,7 @@
   {
     "login": "flying-sphinx",
     "id": 446220,
-    "avatar_url": "https://2.gravatar.com/avatar/2561fdebcc5efe0262087adb9d20c9fa?d=https%3A%2F%2Fidenticons.github.com%2Ff80d1ed9b8236bf666082094ec0a872c.png",
+    "avatar_url": "https://0.gravatar.com/avatar/2561fdebcc5efe0262087adb9d20c9fa?d=https%3A%2F%2Fidenticons.github.com%2Ff80d1ed9b8236bf666082094ec0a872c.png",
     "gravatar_id": "2561fdebcc5efe0262087adb9d20c9fa",
     "url": "https://api.github.com/users/flying-sphinx",
     "html_url": "https://github.com/flying-sphinx",
@@ -1924,7 +1924,7 @@
   {
     "login": "mattstone",
     "id": 20787,
-    "avatar_url": "https://0.gravatar.com/avatar/f0dd48b0d65fb23e2a3a4d22bde87705?d=https%3A%2F%2Fidenticons.github.com%2Fa1f46c591a7f820502944b52ab87e7ee.png",
+    "avatar_url": "https://1.gravatar.com/avatar/f0dd48b0d65fb23e2a3a4d22bde87705?d=https%3A%2F%2Fidenticons.github.com%2Fa1f46c591a7f820502944b52ab87e7ee.png",
     "gravatar_id": "f0dd48b0d65fb23e2a3a4d22bde87705",
     "url": "https://api.github.com/users/mattstone",
     "html_url": "https://github.com/mattstone",
@@ -1955,7 +1955,7 @@
   {
     "login": "lemoncreative",
     "id": 3044047,
-    "avatar_url": "https://1.gravatar.com/avatar/5d7031cae1f36c2cbbd4b812a24709d9?d=https%3A%2F%2Fidenticons.github.com%2Fbc8a77603bc2a8780e431096ac78411c.png",
+    "avatar_url": "https://0.gravatar.com/avatar/5d7031cae1f36c2cbbd4b812a24709d9?d=https%3A%2F%2Fidenticons.github.com%2Fbc8a77603bc2a8780e431096ac78411c.png",
     "gravatar_id": "5d7031cae1f36c2cbbd4b812a24709d9",
     "url": "https://api.github.com/users/lemoncreative",
     "html_url": "https://github.com/lemoncreative",
@@ -1986,7 +1986,7 @@
   {
     "login": "Metacrash",
     "id": 1303818,
-    "avatar_url": "https://2.gravatar.com/avatar/d61498acf697daf2d1fb32fb56a02eab?d=https%3A%2F%2Fidenticons.github.com%2F9b3219602e1b01d1d009044771edb968.png",
+    "avatar_url": "https://0.gravatar.com/avatar/d61498acf697daf2d1fb32fb56a02eab?d=https%3A%2F%2Fidenticons.github.com%2F9b3219602e1b01d1d009044771edb968.png",
     "gravatar_id": "d61498acf697daf2d1fb32fb56a02eab",
     "url": "https://api.github.com/users/Metacrash",
     "html_url": "https://github.com/Metacrash",
@@ -2017,7 +2017,7 @@
   {
     "login": "smebberson",
     "id": 74628,
-    "avatar_url": "https://0.gravatar.com/avatar/58e7477b962fc434761d44621abf7a68?d=https%3A%2F%2Fidenticons.github.com%2F9871706e617515257ecdad08ee863b46.png",
+    "avatar_url": "https://2.gravatar.com/avatar/58e7477b962fc434761d44621abf7a68?d=https%3A%2F%2Fidenticons.github.com%2F9871706e617515257ecdad08ee863b46.png",
     "gravatar_id": "58e7477b962fc434761d44621abf7a68",
     "url": "https://api.github.com/users/smebberson",
     "html_url": "https://github.com/smebberson",
@@ -2048,7 +2048,7 @@
   {
     "login": "wezm",
     "id": 21787,
-    "avatar_url": "https://2.gravatar.com/avatar/a572775f003705896160fa44c4d26291?d=https%3A%2F%2Fidenticons.github.com%2F70431822025c237eddc9145838fc7046.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a572775f003705896160fa44c4d26291?d=https%3A%2F%2Fidenticons.github.com%2F70431822025c237eddc9145838fc7046.png",
     "gravatar_id": "a572775f003705896160fa44c4d26291",
     "url": "https://api.github.com/users/wezm",
     "html_url": "https://github.com/wezm",
@@ -2073,7 +2073,7 @@
     "followers": 14,
     "following": 17,
     "created_at": "2008-08-25T00:27:56Z",
-    "updated_at": "2013-08-16T07:56:13Z",
+    "updated_at": "2013-08-19T03:10:56Z",
     "public_gists": 37
   },
   {
@@ -2104,13 +2104,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-03-20T23:55:11Z",
-    "updated_at": "2013-08-16T06:10:23Z",
+    "updated_at": "2013-08-19T06:11:51Z",
     "public_gists": 0
   },
   {
     "login": "runk",
     "id": 903687,
-    "avatar_url": "https://0.gravatar.com/avatar/048c99b39671c677bf6e1501837604b0?d=https%3A%2F%2Fidenticons.github.com%2F22513f88b15830aeb38b8a3dedf9298a.png",
+    "avatar_url": "https://1.gravatar.com/avatar/048c99b39671c677bf6e1501837604b0?d=https%3A%2F%2Fidenticons.github.com%2F22513f88b15830aeb38b8a3dedf9298a.png",
     "gravatar_id": "048c99b39671c677bf6e1501837604b0",
     "url": "https://api.github.com/users/runk",
     "html_url": "https://github.com/runk",
@@ -2135,7 +2135,7 @@
     "followers": 3,
     "following": 11,
     "created_at": "2011-07-08T20:28:32Z",
-    "updated_at": "2013-08-16T06:07:58Z",
+    "updated_at": "2013-08-19T05:33:27Z",
     "public_gists": 1
   },
   {
@@ -2166,7 +2166,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-07-23T10:24:12Z",
-    "updated_at": "2013-08-18T12:41:11Z",
+    "updated_at": "2013-08-19T06:13:34Z",
     "public_gists": 0
   },
   {
@@ -2197,13 +2197,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-11-30T23:12:28Z",
-    "updated_at": "2013-08-17T23:09:43Z",
+    "updated_at": "2013-08-18T19:27:49Z",
     "public_gists": 0
   },
   {
     "login": "yehezkielbs",
     "id": 481181,
-    "avatar_url": "https://2.gravatar.com/avatar/00e575856d4e51b7ef2f485b0eeaf5a4?d=https%3A%2F%2Fidenticons.github.com%2F0ab1441c72b807d550c54a0567c5eb5c.png",
+    "avatar_url": "https://1.gravatar.com/avatar/00e575856d4e51b7ef2f485b0eeaf5a4?d=https%3A%2F%2Fidenticons.github.com%2F0ab1441c72b807d550c54a0567c5eb5c.png",
     "gravatar_id": "00e575856d4e51b7ef2f485b0eeaf5a4",
     "url": "https://api.github.com/users/yehezkielbs",
     "html_url": "https://github.com/yehezkielbs",
@@ -2228,13 +2228,13 @@
     "followers": 1,
     "following": 0,
     "created_at": "2010-11-15T00:30:11Z",
-    "updated_at": "2013-08-16T07:18:57Z",
+    "updated_at": "2013-08-18T20:48:49Z",
     "public_gists": 0
   },
   {
     "login": "smilledge",
     "id": 1536407,
-    "avatar_url": "https://0.gravatar.com/avatar/760c745dffc42699a46fa2d61310e03b?d=https%3A%2F%2Fidenticons.github.com%2F91548e8461da0908c5c2810040135f61.png",
+    "avatar_url": "https://1.gravatar.com/avatar/760c745dffc42699a46fa2d61310e03b?d=https%3A%2F%2Fidenticons.github.com%2F91548e8461da0908c5c2810040135f61.png",
     "gravatar_id": "760c745dffc42699a46fa2d61310e03b",
     "url": "https://api.github.com/users/smilledge",
     "html_url": "https://github.com/smilledge",
@@ -2321,7 +2321,7 @@
     "followers": 8,
     "following": 23,
     "created_at": "2011-02-27T09:41:23Z",
-    "updated_at": "2013-08-18T08:07:39Z",
+    "updated_at": "2013-08-19T13:47:39Z",
     "public_gists": 4
   },
   {
@@ -2352,13 +2352,13 @@
     "followers": 7,
     "following": 9,
     "created_at": "2011-05-16T01:26:39Z",
-    "updated_at": "2013-08-16T05:55:58Z",
+    "updated_at": "2013-08-19T07:09:18Z",
     "public_gists": 0
   },
   {
     "login": "dancingplatypus",
     "id": 737699,
-    "avatar_url": "https://0.gravatar.com/avatar/2a6c5dc77300c8165db14698fe47436b?d=https%3A%2F%2Fidenticons.github.com%2F5a34a3990477a680cc4c2c502b3c2666.png",
+    "avatar_url": "https://2.gravatar.com/avatar/2a6c5dc77300c8165db14698fe47436b?d=https%3A%2F%2Fidenticons.github.com%2F5a34a3990477a680cc4c2c502b3c2666.png",
     "gravatar_id": "2a6c5dc77300c8165db14698fe47436b",
     "url": "https://api.github.com/users/dancingplatypus",
     "html_url": "https://github.com/dancingplatypus",
@@ -2389,7 +2389,7 @@
   {
     "login": "benjaminpearson",
     "id": 85269,
-    "avatar_url": "https://1.gravatar.com/avatar/821e5709cbd33e70f688950506426da9?d=https%3A%2F%2Fidenticons.github.com%2Fb4bd0b72a3e223b82937959a017ad259.png",
+    "avatar_url": "https://0.gravatar.com/avatar/821e5709cbd33e70f688950506426da9?d=https%3A%2F%2Fidenticons.github.com%2Fb4bd0b72a3e223b82937959a017ad259.png",
     "gravatar_id": "821e5709cbd33e70f688950506426da9",
     "url": "https://api.github.com/users/benjaminpearson",
     "html_url": "https://github.com/benjaminpearson",
@@ -2482,7 +2482,7 @@
   {
     "login": "Papercloud",
     "id": 893938,
-    "avatar_url": "https://1.gravatar.com/avatar/a8d02b72a2122054ed2b702d2dfbeaf3?d=https%3A%2F%2Fidenticons.github.com%2F192224c5028b33e760d575c151692d01.png",
+    "avatar_url": "https://2.gravatar.com/avatar/a8d02b72a2122054ed2b702d2dfbeaf3?d=https%3A%2F%2Fidenticons.github.com%2F192224c5028b33e760d575c151692d01.png",
     "gravatar_id": "a8d02b72a2122054ed2b702d2dfbeaf3",
     "url": "https://api.github.com/users/Papercloud",
     "html_url": "https://github.com/Papercloud",
@@ -2507,13 +2507,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-07-04T17:01:52Z",
-    "updated_at": "2013-08-18T08:49:37Z",
+    "updated_at": "2013-08-19T15:54:38Z",
     "public_gists": 0
   },
   {
     "login": "chromecide",
     "id": 84326,
-    "avatar_url": "https://0.gravatar.com/avatar/266fec3152119d5a1acea5e7abb9a578?d=https%3A%2F%2Fidenticons.github.com%2F7127dcb1c3c4edc3b426fa2459ec505b.png",
+    "avatar_url": "https://2.gravatar.com/avatar/266fec3152119d5a1acea5e7abb9a578?d=https%3A%2F%2Fidenticons.github.com%2F7127dcb1c3c4edc3b426fa2459ec505b.png",
     "gravatar_id": "266fec3152119d5a1acea5e7abb9a578",
     "url": "https://api.github.com/users/chromecide",
     "html_url": "https://github.com/chromecide",
@@ -2534,17 +2534,17 @@
     "email": "chromecide@chromecide.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 34,
+    "public_repos": 35,
     "followers": 2,
     "following": 5,
     "created_at": "2009-05-14T00:09:30Z",
-    "updated_at": "2013-08-18T13:44:49Z",
+    "updated_at": "2013-08-19T12:43:46Z",
     "public_gists": 0
   },
   {
     "login": "sugendran",
     "id": 208311,
-    "avatar_url": "https://2.gravatar.com/avatar/3228aae57c1dc3f657bbc64c26c97b77?d=https%3A%2F%2Fidenticons.github.com%2Fd71de621bdbcb2d8c45632f9012e6a34.png",
+    "avatar_url": "https://1.gravatar.com/avatar/3228aae57c1dc3f657bbc64c26c97b77?d=https%3A%2F%2Fidenticons.github.com%2Fd71de621bdbcb2d8c45632f9012e6a34.png",
     "gravatar_id": "3228aae57c1dc3f657bbc64c26c97b77",
     "url": "https://api.github.com/users/sugendran",
     "html_url": "https://github.com/sugendran",
@@ -2575,7 +2575,7 @@
   {
     "login": "thatguydan",
     "id": 714300,
-    "avatar_url": "https://2.gravatar.com/avatar/7a73a7f8127390437807768c246ec174?d=https%3A%2F%2Fidenticons.github.com%2Fbb3ac65b97547e8a8b63882cf2fcff57.png",
+    "avatar_url": "https://1.gravatar.com/avatar/7a73a7f8127390437807768c246ec174?d=https%3A%2F%2Fidenticons.github.com%2Fbb3ac65b97547e8a8b63882cf2fcff57.png",
     "gravatar_id": "7a73a7f8127390437807768c246ec174",
     "url": "https://api.github.com/users/thatguydan",
     "html_url": "https://github.com/thatguydan",
@@ -2606,7 +2606,7 @@
   {
     "login": "SomeoneWeird",
     "id": 665754,
-    "avatar_url": "https://1.gravatar.com/avatar/0fc7ab336fb968b84de0230cb567b2a7?d=https%3A%2F%2Fidenticons.github.com%2Fccf805d561fcefa004b0d62e1d01e3b6.png",
+    "avatar_url": "https://2.gravatar.com/avatar/0fc7ab336fb968b84de0230cb567b2a7?d=https%3A%2F%2Fidenticons.github.com%2Fccf805d561fcefa004b0d62e1d01e3b6.png",
     "gravatar_id": "0fc7ab336fb968b84de0230cb567b2a7",
     "url": "https://api.github.com/users/SomeoneWeird",
     "html_url": "https://github.com/SomeoneWeird",
@@ -2637,7 +2637,7 @@
   {
     "login": "curiousdannii",
     "id": 59074,
-    "avatar_url": "https://2.gravatar.com/avatar/a66cede09ad91417502051a3a146210a?d=https%3A%2F%2Fidenticons.github.com%2F3a6fb06246afab1becae063111c2a854.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a66cede09ad91417502051a3a146210a?d=https%3A%2F%2Fidenticons.github.com%2F3a6fb06246afab1becae063111c2a854.png",
     "gravatar_id": "a66cede09ad91417502051a3a146210a",
     "url": "https://api.github.com/users/curiousdannii",
     "html_url": "https://github.com/curiousdannii",
@@ -2693,13 +2693,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-08-03T04:57:49Z",
-    "updated_at": "2013-08-17T13:52:04Z",
+    "updated_at": "2013-08-19T13:27:54Z",
     "public_gists": 0
   },
   {
     "login": "justinTNT",
     "id": 224938,
-    "avatar_url": "https://1.gravatar.com/avatar/170698faf74a4852630c3ad5f97ead24?d=https%3A%2F%2Fidenticons.github.com%2Fa05a8fd397077acccc90bf73345e98e1.png",
+    "avatar_url": "https://0.gravatar.com/avatar/170698faf74a4852630c3ad5f97ead24?d=https%3A%2F%2Fidenticons.github.com%2Fa05a8fd397077acccc90bf73345e98e1.png",
     "gravatar_id": "170698faf74a4852630c3ad5f97ead24",
     "url": "https://api.github.com/users/justinTNT",
     "html_url": "https://github.com/justinTNT",
@@ -2761,7 +2761,7 @@
   {
     "login": "fredwu",
     "id": 31945,
-    "avatar_url": "https://0.gravatar.com/avatar/2735068c913a072744a799e3c0833b7b?d=https%3A%2F%2Fidenticons.github.com%2Ff559078e976df9bade3f5025d1fe8937.png",
+    "avatar_url": "https://1.gravatar.com/avatar/2735068c913a072744a799e3c0833b7b?d=https%3A%2F%2Fidenticons.github.com%2Ff559078e976df9bade3f5025d1fe8937.png",
     "gravatar_id": "2735068c913a072744a799e3c0833b7b",
     "url": "https://api.github.com/users/fredwu",
     "html_url": "https://github.com/fredwu",
@@ -2783,16 +2783,16 @@
     "hireable": true,
     "bio": "A back-end developer, front-end developer, designer and manager hybrid.\r\n\r\nHave built the first website back in 1997, and started working in the IT industry since in high school.\r\n\r\nWorked in online publishing, marketing as well as web hosting before becoming a professional web developer and designer.\r\n\r\nHave been an active member of the open source community since then. Contributed to many projects including Ruby on Rails and Slim. For a full list of my contribution, please head over to http://fredwu.me/ and scroll to the bottom of the page.\r\n\r\nA developer who has strong focus on code craftsmanship, business values, UI, UX and most importantly, the user.\r\n\r\nPassionate is my keyword! ",
     "public_repos": 74,
-    "followers": 518,
+    "followers": 519,
     "following": 64,
     "created_at": "2008-10-31T04:34:48Z",
-    "updated_at": "2013-08-18T15:33:28Z",
+    "updated_at": "2013-08-19T09:15:18Z",
     "public_gists": 8
   },
   {
     "login": "Daniel15",
     "id": 91933,
-    "avatar_url": "https://1.gravatar.com/avatar/872578c4e56897b913fd03ed88daef51?d=https%3A%2F%2Fidenticons.github.com%2F896f032c90d3272bd4b695aa40132a8e.png",
+    "avatar_url": "https://0.gravatar.com/avatar/872578c4e56897b913fd03ed88daef51?d=https%3A%2F%2Fidenticons.github.com%2F896f032c90d3272bd4b695aa40132a8e.png",
     "gravatar_id": "872578c4e56897b913fd03ed88daef51",
     "url": "https://api.github.com/users/Daniel15",
     "html_url": "https://github.com/Daniel15",
@@ -2818,12 +2818,12 @@
     "following": 50,
     "created_at": "2009-06-04T17:58:47Z",
     "updated_at": "2013-08-17T06:36:32Z",
-    "public_gists": 20
+    "public_gists": 21
   },
   {
     "login": "kondoot",
     "id": 723995,
-    "avatar_url": "https://2.gravatar.com/avatar/928ab97c44d15b30b9d17b61e01a8a12?d=https%3A%2F%2Fidenticons.github.com%2F966f56d7b52ca2c792a565ecffa08876.png",
+    "avatar_url": "https://1.gravatar.com/avatar/928ab97c44d15b30b9d17b61e01a8a12?d=https%3A%2F%2Fidenticons.github.com%2F966f56d7b52ca2c792a565ecffa08876.png",
     "gravatar_id": "928ab97c44d15b30b9d17b61e01a8a12",
     "url": "https://api.github.com/users/kondoot",
     "html_url": "https://github.com/kondoot",
@@ -2848,13 +2848,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-04-12T04:32:19Z",
-    "updated_at": "2013-08-12T04:42:43Z",
+    "updated_at": "2013-08-19T06:02:15Z",
     "public_gists": 0
   },
   {
     "login": "koostudios",
     "id": 1453618,
-    "avatar_url": "https://2.gravatar.com/avatar/c9f5b9bb1b240d6e383cfe6b4644e89a?d=https%3A%2F%2Fidenticons.github.com%2Fda5ff0ce5b6629418bc5864eb56a30a5.png",
+    "avatar_url": "https://0.gravatar.com/avatar/c9f5b9bb1b240d6e383cfe6b4644e89a?d=https%3A%2F%2Fidenticons.github.com%2Fda5ff0ce5b6629418bc5864eb56a30a5.png",
     "gravatar_id": "c9f5b9bb1b240d6e383cfe6b4644e89a",
     "url": "https://api.github.com/users/koostudios",
     "html_url": "https://github.com/koostudios",
@@ -2885,7 +2885,7 @@
   {
     "login": "pomke",
     "id": 551374,
-    "avatar_url": "https://1.gravatar.com/avatar/7fd767571ff5ceefc7a687a543b2c402?d=https%3A%2F%2Fidenticons.github.com%2F3a7081c93769d6703b198cc9c541dd98.png",
+    "avatar_url": "https://0.gravatar.com/avatar/7fd767571ff5ceefc7a687a543b2c402?d=https%3A%2F%2Fidenticons.github.com%2F3a7081c93769d6703b198cc9c541dd98.png",
     "gravatar_id": "7fd767571ff5ceefc7a687a543b2c402",
     "url": "https://api.github.com/users/pomke",
     "html_url": "https://github.com/pomke",
@@ -2916,7 +2916,7 @@
   {
     "login": "leahciMic",
     "id": 1240502,
-    "avatar_url": "https://0.gravatar.com/avatar/8dd004479b277d69403cffa15a1fff8c?d=https%3A%2F%2Fidenticons.github.com%2F7864e80bfc2df13c36729738864189f2.png",
+    "avatar_url": "https://1.gravatar.com/avatar/8dd004479b277d69403cffa15a1fff8c?d=https%3A%2F%2Fidenticons.github.com%2F7864e80bfc2df13c36729738864189f2.png",
     "gravatar_id": "8dd004479b277d69403cffa15a1fff8c",
     "url": "https://api.github.com/users/leahciMic",
     "html_url": "https://github.com/leahciMic",
@@ -2941,13 +2941,13 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-12-05T00:02:29Z",
-    "updated_at": "2013-08-17T18:37:14Z",
+    "updated_at": "2013-08-19T06:58:56Z",
     "public_gists": 0
   },
   {
     "login": "PinionTech",
     "id": 1015930,
-    "avatar_url": "https://2.gravatar.com/avatar/1f34d5115740849c147ef16112964ad5?d=https%3A%2F%2Fidenticons.github.com%2Fe4907f5989a4d2dcbbea93e8d8725c40.png",
+    "avatar_url": "https://1.gravatar.com/avatar/1f34d5115740849c147ef16112964ad5?d=https%3A%2F%2Fidenticons.github.com%2Fe4907f5989a4d2dcbbea93e8d8725c40.png",
     "gravatar_id": "1f34d5115740849c147ef16112964ad5",
     "url": "https://api.github.com/users/PinionTech",
     "html_url": "https://github.com/PinionTech",
@@ -2978,7 +2978,7 @@
   {
     "login": "hongymagic",
     "id": 302730,
-    "avatar_url": "https://0.gravatar.com/avatar/46068a67c1129be0dd0e4915f62b6677?d=https%3A%2F%2Fidenticons.github.com%2Fb36e1be486652ee5137509271d27ebf6.png",
+    "avatar_url": "https://2.gravatar.com/avatar/46068a67c1129be0dd0e4915f62b6677?d=https%3A%2F%2Fidenticons.github.com%2Fb36e1be486652ee5137509271d27ebf6.png",
     "gravatar_id": "46068a67c1129be0dd0e4915f62b6677",
     "url": "https://api.github.com/users/hongymagic",
     "html_url": "https://github.com/hongymagic",
@@ -3003,13 +3003,13 @@
     "followers": 14,
     "following": 24,
     "created_at": "2010-06-11T11:40:03Z",
-    "updated_at": "2013-08-18T03:18:46Z",
+    "updated_at": "2013-08-19T01:53:02Z",
     "public_gists": 49
   },
   {
     "login": "joshgillies",
     "id": 319694,
-    "avatar_url": "https://1.gravatar.com/avatar/75d8605d32a0a683fe474be424e0ac50?d=https%3A%2F%2Fidenticons.github.com%2F4c4de8a868af9478df9b0375fb61bc32.png",
+    "avatar_url": "https://0.gravatar.com/avatar/75d8605d32a0a683fe474be424e0ac50?d=https%3A%2F%2Fidenticons.github.com%2F4c4de8a868af9478df9b0375fb61bc32.png",
     "gravatar_id": "75d8605d32a0a683fe474be424e0ac50",
     "url": "https://api.github.com/users/joshgillies",
     "html_url": "https://github.com/joshgillies",
@@ -3065,13 +3065,13 @@
     "followers": 55,
     "following": 9,
     "created_at": "2008-06-21T15:14:17Z",
-    "updated_at": "2013-08-16T21:34:38Z",
+    "updated_at": "2013-08-19T06:39:24Z",
     "public_gists": 25
   },
   {
     "login": "goulash1971",
     "id": 788889,
-    "avatar_url": "https://1.gravatar.com/avatar/0971d800739f0c9a14a868ec0ac24c66?d=https%3A%2F%2Fidenticons.github.com%2Fe54c901774d5a6473afbdda88cc56d20.png",
+    "avatar_url": "https://0.gravatar.com/avatar/0971d800739f0c9a14a868ec0ac24c66?d=https%3A%2F%2Fidenticons.github.com%2Fe54c901774d5a6473afbdda88cc56d20.png",
     "gravatar_id": "0971d800739f0c9a14a868ec0ac24c66",
     "url": "https://api.github.com/users/goulash1971",
     "html_url": "https://github.com/goulash1971",
@@ -3102,7 +3102,7 @@
   {
     "login": "C1D",
     "id": 2995682,
-    "avatar_url": "https://1.gravatar.com/avatar/6450dcf322cb2080f976a100db099316?d=https%3A%2F%2Fidenticons.github.com%2F227576a517b1ace5e3c2d003d8e212e1.png",
+    "avatar_url": "https://0.gravatar.com/avatar/6450dcf322cb2080f976a100db099316?d=https%3A%2F%2Fidenticons.github.com%2F227576a517b1ace5e3c2d003d8e212e1.png",
     "gravatar_id": "6450dcf322cb2080f976a100db099316",
     "url": "https://api.github.com/users/C1D",
     "html_url": "https://github.com/C1D",
@@ -3133,7 +3133,7 @@
   {
     "login": "d11wtq",
     "id": 37948,
-    "avatar_url": "https://1.gravatar.com/avatar/f855324f298eb7708e39ea117477cbd5?d=https%3A%2F%2Fidenticons.github.com%2F5441a1aa8871476da67131c185a73c4d.png",
+    "avatar_url": "https://0.gravatar.com/avatar/f855324f298eb7708e39ea117477cbd5?d=https%3A%2F%2Fidenticons.github.com%2F5441a1aa8871476da67131c185a73c4d.png",
     "gravatar_id": "f855324f298eb7708e39ea117477cbd5",
     "url": "https://api.github.com/users/d11wtq",
     "html_url": "https://github.com/d11wtq",
@@ -3158,13 +3158,13 @@
     "followers": 50,
     "following": 14,
     "created_at": "2008-12-03T03:44:47Z",
-    "updated_at": "2013-08-18T15:58:02Z",
+    "updated_at": "2013-08-19T14:54:43Z",
     "public_gists": 57
   },
   {
     "login": "DylanFM",
     "id": 14375,
-    "avatar_url": "https://1.gravatar.com/avatar/af63b2e771b7a5fe2ccd4f4b9bf21e13?d=https%3A%2F%2Fidenticons.github.com%2Fa95c40505b26d14572fa13eb4f2e7fe0.png",
+    "avatar_url": "https://2.gravatar.com/avatar/af63b2e771b7a5fe2ccd4f4b9bf21e13?d=https%3A%2F%2Fidenticons.github.com%2Fa95c40505b26d14572fa13eb4f2e7fe0.png",
     "gravatar_id": "af63b2e771b7a5fe2ccd4f4b9bf21e13",
     "url": "https://api.github.com/users/DylanFM",
     "html_url": "https://github.com/DylanFM",
@@ -3189,7 +3189,7 @@
     "followers": 34,
     "following": 59,
     "created_at": "2008-06-20T01:00:18Z",
-    "updated_at": "2013-08-16T05:46:01Z",
+    "updated_at": "2013-08-19T07:13:52Z",
     "public_gists": 55
   },
   {
@@ -3226,7 +3226,7 @@
   {
     "login": "margh",
     "id": 28417,
-    "avatar_url": "https://2.gravatar.com/avatar/41fc2a6fce0c193a7e094938f5cf9787?d=https%3A%2F%2Fidenticons.github.com%2F7854c8701c5da6d80d602a20133d2bf8.png",
+    "avatar_url": "https://1.gravatar.com/avatar/41fc2a6fce0c193a7e094938f5cf9787?d=https%3A%2F%2Fidenticons.github.com%2F7854c8701c5da6d80d602a20133d2bf8.png",
     "gravatar_id": "41fc2a6fce0c193a7e094938f5cf9787",
     "url": "https://api.github.com/users/margh",
     "html_url": "https://github.com/margh",
@@ -3282,7 +3282,7 @@
     "followers": 12,
     "following": 8,
     "created_at": "2009-04-09T02:24:11Z",
-    "updated_at": "2013-08-18T12:45:23Z",
+    "updated_at": "2013-08-19T12:50:41Z",
     "public_gists": 11
   },
   {
@@ -3313,7 +3313,7 @@
     "followers": 26,
     "following": 0,
     "created_at": "2010-05-07T08:27:04Z",
-    "updated_at": "2013-08-18T08:00:58Z",
+    "updated_at": "2013-08-18T22:57:43Z",
     "public_gists": 0
   },
   {
@@ -3344,7 +3344,7 @@
     "followers": 31,
     "following": 6,
     "created_at": "2008-02-19T00:53:01Z",
-    "updated_at": "2013-08-17T01:56:51Z",
+    "updated_at": "2013-08-18T18:11:12Z",
     "public_gists": 8
   },
   {
@@ -3381,7 +3381,7 @@
   {
     "login": "ninjablocks",
     "id": 1392949,
-    "avatar_url": "https://0.gravatar.com/avatar/ee9d3a775361d0edbb404ee57c5fdddb?d=https%3A%2F%2Fidenticons.github.com%2Fd594d68f9f1c58cf5b36589933a93c2c.png",
+    "avatar_url": "https://2.gravatar.com/avatar/ee9d3a775361d0edbb404ee57c5fdddb?d=https%3A%2F%2Fidenticons.github.com%2Fd594d68f9f1c58cf5b36589933a93c2c.png",
     "gravatar_id": "ee9d3a775361d0edbb404ee57c5fdddb",
     "url": "https://api.github.com/users/ninjablocks",
     "html_url": "https://github.com/ninjablocks",
@@ -3406,13 +3406,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-30T23:01:49Z",
-    "updated_at": "2013-08-16T08:36:08Z",
+    "updated_at": "2013-08-19T07:11:50Z",
     "public_gists": 0
   },
   {
     "login": "amitkr",
     "id": 526816,
-    "avatar_url": "https://0.gravatar.com/avatar/adc47b4bc3aef952d3c168b100c2587c?d=https%3A%2F%2Fidenticons.github.com%2F2784beb99c19924fb87511cc76a6e170.png",
+    "avatar_url": "https://1.gravatar.com/avatar/adc47b4bc3aef952d3c168b100c2587c?d=https%3A%2F%2Fidenticons.github.com%2F2784beb99c19924fb87511cc76a6e170.png",
     "gravatar_id": "adc47b4bc3aef952d3c168b100c2587c",
     "url": "https://api.github.com/users/amitkr",
     "html_url": "https://github.com/amitkr",
@@ -3474,7 +3474,7 @@
   {
     "login": "C1D",
     "id": 2995682,
-    "avatar_url": "https://2.gravatar.com/avatar/6450dcf322cb2080f976a100db099316?d=https%3A%2F%2Fidenticons.github.com%2F227576a517b1ace5e3c2d003d8e212e1.png",
+    "avatar_url": "https://1.gravatar.com/avatar/6450dcf322cb2080f976a100db099316?d=https%3A%2F%2Fidenticons.github.com%2F227576a517b1ace5e3c2d003d8e212e1.png",
     "gravatar_id": "6450dcf322cb2080f976a100db099316",
     "url": "https://api.github.com/users/C1D",
     "html_url": "https://github.com/C1D",
@@ -3536,7 +3536,7 @@
   {
     "login": "willsr",
     "id": 1422761,
-    "avatar_url": "https://0.gravatar.com/avatar/b062284d4bdea8d11e245db8d69bdb40?d=https%3A%2F%2Fidenticons.github.com%2F58d36189dc8422771a6861e82e50be30.png",
+    "avatar_url": "https://1.gravatar.com/avatar/b062284d4bdea8d11e245db8d69bdb40?d=https%3A%2F%2Fidenticons.github.com%2F58d36189dc8422771a6861e82e50be30.png",
     "gravatar_id": "b062284d4bdea8d11e245db8d69bdb40",
     "url": "https://api.github.com/users/willsr",
     "html_url": "https://github.com/willsr",
@@ -3598,7 +3598,7 @@
   {
     "login": "mattryall",
     "id": 618446,
-    "avatar_url": "https://1.gravatar.com/avatar/080c342ebdc8db6e8dc4290deaeb6c02?d=https%3A%2F%2Fidenticons.github.com%2Fd71ca4c93d511ec8e766c44ddf2cc45c.png",
+    "avatar_url": "https://0.gravatar.com/avatar/080c342ebdc8db6e8dc4290deaeb6c02?d=https%3A%2F%2Fidenticons.github.com%2Fd71ca4c93d511ec8e766c44ddf2cc45c.png",
     "gravatar_id": "080c342ebdc8db6e8dc4290deaeb6c02",
     "url": "https://api.github.com/users/mattryall",
     "html_url": "https://github.com/mattryall",
@@ -3629,7 +3629,7 @@
   {
     "login": "kimenye",
     "id": 265016,
-    "avatar_url": "https://1.gravatar.com/avatar/01b277d876d4c33a71dc8724a488b166?d=https%3A%2F%2Fidenticons.github.com%2F56be9d10cc2a13084b6bbd29d571bcf3.png",
+    "avatar_url": "https://2.gravatar.com/avatar/01b277d876d4c33a71dc8724a488b166?d=https%3A%2F%2Fidenticons.github.com%2F56be9d10cc2a13084b6bbd29d571bcf3.png",
     "gravatar_id": "01b277d876d4c33a71dc8724a488b166",
     "url": "https://api.github.com/users/kimenye",
     "html_url": "https://github.com/kimenye",
@@ -3654,13 +3654,13 @@
     "followers": 4,
     "following": 1,
     "created_at": "2010-05-05T00:50:42Z",
-    "updated_at": "2013-08-18T07:03:02Z",
+    "updated_at": "2013-08-19T16:19:12Z",
     "public_gists": 7
   },
   {
     "login": "Sutto",
     "id": 553,
-    "avatar_url": "https://1.gravatar.com/avatar/72d5f419e4a520ff4fe452400eac83d4?d=https%3A%2F%2Fidenticons.github.com%2Ff387624df552cea2f369918c5e1e12bc.png",
+    "avatar_url": "https://2.gravatar.com/avatar/72d5f419e4a520ff4fe452400eac83d4?d=https%3A%2F%2Fidenticons.github.com%2Ff387624df552cea2f369918c5e1e12bc.png",
     "gravatar_id": "72d5f419e4a520ff4fe452400eac83d4",
     "url": "https://api.github.com/users/Sutto",
     "html_url": "https://github.com/Sutto",
@@ -3683,15 +3683,15 @@
     "bio": null,
     "public_repos": 74,
     "followers": 218,
-    "following": 217,
+    "following": 218,
     "created_at": "2008-02-21T05:29:17Z",
-    "updated_at": "2013-08-18T13:02:09Z",
+    "updated_at": "2013-08-19T02:34:03Z",
     "public_gists": 116
   },
   {
     "login": "gabehollombe",
     "id": 28283,
-    "avatar_url": "https://0.gravatar.com/avatar/91794c7bbbe28cb7e4f624e827ba1f35?d=https%3A%2F%2Fidenticons.github.com%2Fc08876cb72b043bfbd2009cb2f0ecbf5.png",
+    "avatar_url": "https://2.gravatar.com/avatar/91794c7bbbe28cb7e4f624e827ba1f35?d=https%3A%2F%2Fidenticons.github.com%2Fc08876cb72b043bfbd2009cb2f0ecbf5.png",
     "gravatar_id": "91794c7bbbe28cb7e4f624e827ba1f35",
     "url": "https://api.github.com/users/gabehollombe",
     "html_url": "https://github.com/gabehollombe",
@@ -3747,7 +3747,7 @@
     "followers": 5,
     "following": 4,
     "created_at": "2011-06-24T02:12:21Z",
-    "updated_at": "2013-08-18T16:52:19Z",
+    "updated_at": "2013-08-19T13:08:08Z",
     "public_gists": 0
   },
   {
@@ -3784,7 +3784,7 @@
   {
     "login": "RallyApps",
     "id": 1643173,
-    "avatar_url": "https://2.gravatar.com/avatar/6b338369f69bc3d999ebb4758d48929f?d=https%3A%2F%2Fidenticons.github.com%2Fa67e607cc309692fb494673ab4f09dc3.png",
+    "avatar_url": "https://0.gravatar.com/avatar/6b338369f69bc3d999ebb4758d48929f?d=https%3A%2F%2Fidenticons.github.com%2Fa67e607cc309692fb494673ab4f09dc3.png",
     "gravatar_id": "6b338369f69bc3d999ebb4758d48929f",
     "url": "https://api.github.com/users/RallyApps",
     "html_url": "https://github.com/RallyApps",
@@ -3908,7 +3908,7 @@
   {
     "login": "chrislloyd",
     "id": 718,
-    "avatar_url": "https://0.gravatar.com/avatar/08f077ea061585744ee080824f5a8e65?d=https%3A%2F%2Fidenticons.github.com%2F50c3d7614917b24303ee6a220679dab3.png",
+    "avatar_url": "https://1.gravatar.com/avatar/08f077ea061585744ee080824f5a8e65?d=https%3A%2F%2Fidenticons.github.com%2F50c3d7614917b24303ee6a220679dab3.png",
     "gravatar_id": "08f077ea061585744ee080824f5a8e65",
     "url": "https://api.github.com/users/chrislloyd",
     "html_url": "https://github.com/chrislloyd",
@@ -3939,7 +3939,7 @@
   {
     "login": "russholio",
     "id": 1484057,
-    "avatar_url": "https://2.gravatar.com/avatar/e125a97086cfec0a66faddfc36eb09ba?d=https%3A%2F%2Fidenticons.github.com%2F1b98b662c716b014157e89c90a41cfc5.png",
+    "avatar_url": "https://0.gravatar.com/avatar/e125a97086cfec0a66faddfc36eb09ba?d=https%3A%2F%2Fidenticons.github.com%2F1b98b662c716b014157e89c90a41cfc5.png",
     "gravatar_id": "e125a97086cfec0a66faddfc36eb09ba",
     "url": "https://api.github.com/users/russholio",
     "html_url": "https://github.com/russholio",
@@ -3964,13 +3964,13 @@
     "followers": 1,
     "following": 0,
     "created_at": "2012-02-29T04:15:49Z",
-    "updated_at": "2013-08-15T22:33:12Z",
+    "updated_at": "2013-08-19T08:27:39Z",
     "public_gists": 0
   },
   {
     "login": "KoryNunn",
     "id": 1401037,
-    "avatar_url": "https://0.gravatar.com/avatar/1b7906d8cb448c4b47abe08341daf3e7?d=https%3A%2F%2Fidenticons.github.com%2F0b63c6cc293bd4c564219683e36de01f.png",
+    "avatar_url": "https://1.gravatar.com/avatar/1b7906d8cb448c4b47abe08341daf3e7?d=https%3A%2F%2Fidenticons.github.com%2F0b63c6cc293bd4c564219683e36de01f.png",
     "gravatar_id": "1b7906d8cb448c4b47abe08341daf3e7",
     "url": "https://api.github.com/users/KoryNunn",
     "html_url": "https://github.com/KoryNunn",
@@ -3995,7 +3995,7 @@
     "followers": 13,
     "following": 7,
     "created_at": "2012-02-02T08:42:45Z",
-    "updated_at": "2013-08-18T16:40:36Z",
+    "updated_at": "2013-08-19T14:19:15Z",
     "public_gists": 7
   },
   {
@@ -4057,7 +4057,7 @@
     "followers": 26,
     "following": 2,
     "created_at": "2010-05-14T05:43:52Z",
-    "updated_at": "2013-08-18T13:56:58Z",
+    "updated_at": "2013-08-19T10:07:45Z",
     "public_gists": 8
   },
   {
@@ -4125,7 +4125,7 @@
   {
     "login": "dhotson",
     "id": 21532,
-    "avatar_url": "https://0.gravatar.com/avatar/d3ded4182c4c7244d7552b5b095b1bb7?d=https%3A%2F%2Fidenticons.github.com%2F3cfdd7664327131b75c1624c2ac72456.png",
+    "avatar_url": "https://2.gravatar.com/avatar/d3ded4182c4c7244d7552b5b095b1bb7?d=https%3A%2F%2Fidenticons.github.com%2F3cfdd7664327131b75c1624c2ac72456.png",
     "gravatar_id": "d3ded4182c4c7244d7552b5b095b1bb7",
     "url": "https://api.github.com/users/dhotson",
     "html_url": "https://github.com/dhotson",
@@ -4150,7 +4150,7 @@
     "followers": 92,
     "following": 32,
     "created_at": "2008-08-22T07:00:11Z",
-    "updated_at": "2013-08-13T21:57:55Z",
+    "updated_at": "2013-08-19T15:13:28Z",
     "public_gists": 25
   },
   {
@@ -4208,17 +4208,17 @@
     "email": "simon@modus.com.au",
     "hireable": true,
     "bio": null,
-    "public_repos": 8,
+    "public_repos": 9,
     "followers": 6,
     "following": 3,
     "created_at": "2012-09-11T00:59:17Z",
-    "updated_at": "2013-08-17T06:24:48Z",
+    "updated_at": "2013-08-19T06:37:47Z",
     "public_gists": 0
   },
   {
     "login": "lachlan",
     "id": 42388,
-    "avatar_url": "https://1.gravatar.com/avatar/a8481a3f0c6d91756ec2d4045dd1529c?d=https%3A%2F%2Fidenticons.github.com%2F080b2f9dad64f7c8737a6b14cd90a6b7.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a8481a3f0c6d91756ec2d4045dd1529c?d=https%3A%2F%2Fidenticons.github.com%2F080b2f9dad64f7c8737a6b14cd90a6b7.png",
     "gravatar_id": "a8481a3f0c6d91756ec2d4045dd1529c",
     "url": "https://api.github.com/users/lachlan",
     "html_url": "https://github.com/lachlan",
@@ -4243,13 +4243,13 @@
     "followers": 9,
     "following": 20,
     "created_at": "2008-12-23T23:46:59Z",
-    "updated_at": "2013-08-18T05:49:20Z",
+    "updated_at": "2013-08-19T08:19:03Z",
     "public_gists": 9
   },
   {
     "login": "greywolf001au",
     "id": 3632443,
-    "avatar_url": "https://2.gravatar.com/avatar/f6f1ea045b6c3cc2aa6eb3bd895153b5?d=https%3A%2F%2Fidenticons.github.com%2Fca3b9cf5ce4b9e6036b546718ada32bf.png",
+    "avatar_url": "https://1.gravatar.com/avatar/f6f1ea045b6c3cc2aa6eb3bd895153b5?d=https%3A%2F%2Fidenticons.github.com%2Fca3b9cf5ce4b9e6036b546718ada32bf.png",
     "gravatar_id": "f6f1ea045b6c3cc2aa6eb3bd895153b5",
     "url": "https://api.github.com/users/greywolf001au",
     "html_url": "https://github.com/greywolf001au",
@@ -4305,7 +4305,7 @@
     "followers": 93,
     "following": 18,
     "created_at": "2011-05-23T23:42:19Z",
-    "updated_at": "2013-08-16T13:29:21Z",
+    "updated_at": "2013-08-19T16:08:24Z",
     "public_gists": 8
   },
   {
@@ -4342,7 +4342,7 @@
   {
     "login": "henrylawson",
     "id": 1419187,
-    "avatar_url": "https://2.gravatar.com/avatar/89b2aa4eae8aac395fed997f36742727?d=https%3A%2F%2Fidenticons.github.com%2Fd6995b4c7f8dab6823197b64fe764f3b.png",
+    "avatar_url": "https://0.gravatar.com/avatar/89b2aa4eae8aac395fed997f36742727?d=https%3A%2F%2Fidenticons.github.com%2Fd6995b4c7f8dab6823197b64fe764f3b.png",
     "gravatar_id": "89b2aa4eae8aac395fed997f36742727",
     "url": "https://api.github.com/users/henrylawson",
     "html_url": "https://github.com/henrylawson",
@@ -4373,7 +4373,7 @@
   {
     "login": "vaskas",
     "id": 67034,
-    "avatar_url": "https://0.gravatar.com/avatar/7b5ca106c142285cc5cda879ed474bef?d=https%3A%2F%2Fidenticons.github.com%2Fc09bc11056bf74a2700935d4f0512c80.png",
+    "avatar_url": "https://2.gravatar.com/avatar/7b5ca106c142285cc5cda879ed474bef?d=https%3A%2F%2Fidenticons.github.com%2Fc09bc11056bf74a2700935d4f0512c80.png",
     "gravatar_id": "7b5ca106c142285cc5cda879ed474bef",
     "url": "https://api.github.com/users/vaskas",
     "html_url": "https://github.com/vaskas",
@@ -4398,13 +4398,13 @@
     "followers": 16,
     "following": 24,
     "created_at": "2009-03-25T14:31:48Z",
-    "updated_at": "2013-08-18T17:02:39Z",
+    "updated_at": "2013-08-19T01:09:30Z",
     "public_gists": 3
   },
   {
     "login": "thomasdavis",
     "id": 416209,
-    "avatar_url": "https://1.gravatar.com/avatar/cff733cf90823edd218a834980379c61?d=https%3A%2F%2Fidenticons.github.com%2Fa9b527169caf753327cb98808fd629e6.png",
+    "avatar_url": "https://0.gravatar.com/avatar/cff733cf90823edd218a834980379c61?d=https%3A%2F%2Fidenticons.github.com%2Fa9b527169caf753327cb98808fd629e6.png",
     "gravatar_id": "cff733cf90823edd218a834980379c61",
     "url": "https://api.github.com/users/thomasdavis",
     "html_url": "https://github.com/thomasdavis",
@@ -4426,10 +4426,10 @@
     "hireable": true,
     "bio": "Australian Web Developer,\r\n\r\nLooking for some open source projects to commit to",
     "public_repos": 70,
-    "followers": 356,
-    "following": 22,
+    "followers": 357,
+    "following": 23,
     "created_at": "2010-09-26T08:07:38Z",
-    "updated_at": "2013-08-17T22:55:43Z",
+    "updated_at": "2013-08-19T16:20:18Z",
     "public_gists": 8
   },
   {
@@ -4460,7 +4460,7 @@
     "followers": 4,
     "following": 7,
     "created_at": "2011-03-08T02:35:20Z",
-    "updated_at": "2013-08-16T06:47:49Z",
+    "updated_at": "2013-08-19T08:54:41Z",
     "public_gists": 0
   },
   {
@@ -4487,17 +4487,17 @@
     "email": null,
     "hireable": false,
     "bio": null,
-    "public_repos": 18,
+    "public_repos": 19,
     "followers": 2,
     "following": 0,
     "created_at": "2012-02-03T16:30:17Z",
-    "updated_at": "2013-08-16T15:56:36Z",
+    "updated_at": "2013-08-18T22:10:55Z",
     "public_gists": 3
   },
   {
     "login": "Adslot",
     "id": 767098,
-    "avatar_url": "https://1.gravatar.com/avatar/2a29191ad9d646e9404ae7f2c29dbd65?d=https%3A%2F%2Fidenticons.github.com%2Fe5e3643ab012109edde1d0590b0bdd0f.png",
+    "avatar_url": "https://2.gravatar.com/avatar/2a29191ad9d646e9404ae7f2c29dbd65?d=https%3A%2F%2Fidenticons.github.com%2Fe5e3643ab012109edde1d0590b0bdd0f.png",
     "gravatar_id": "2a29191ad9d646e9404ae7f2c29dbd65",
     "url": "https://api.github.com/users/Adslot",
     "html_url": "https://github.com/Adslot",
@@ -4522,13 +4522,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2011-05-04T05:12:18Z",
-    "updated_at": "2013-08-16T09:53:35Z",
+    "updated_at": "2013-08-19T08:20:54Z",
     "public_gists": 0
   },
   {
     "login": "davekinkead",
     "id": 611877,
-    "avatar_url": "https://1.gravatar.com/avatar/6ee4ce46deafee68da8ae793f7f10add?d=https%3A%2F%2Fidenticons.github.com%2F44be343247d850de780a65bd672a732f.png",
+    "avatar_url": "https://0.gravatar.com/avatar/6ee4ce46deafee68da8ae793f7f10add?d=https%3A%2F%2Fidenticons.github.com%2F44be343247d850de780a65bd672a732f.png",
     "gravatar_id": "6ee4ce46deafee68da8ae793f7f10add",
     "url": "https://api.github.com/users/davekinkead",
     "html_url": "https://github.com/davekinkead",
@@ -4590,7 +4590,7 @@
   {
     "login": "tukutela",
     "id": 340768,
-    "avatar_url": "https://0.gravatar.com/avatar/1b8f1f69f639efa713a5f3b3a0b79380?d=https%3A%2F%2Fidenticons.github.com%2F1e3871eae1b1f52f42b57e0e329cff13.png",
+    "avatar_url": "https://1.gravatar.com/avatar/1b8f1f69f639efa713a5f3b3a0b79380?d=https%3A%2F%2Fidenticons.github.com%2F1e3871eae1b1f52f42b57e0e329cff13.png",
     "gravatar_id": "1b8f1f69f639efa713a5f3b3a0b79380",
     "url": "https://api.github.com/users/tukutela",
     "html_url": "https://github.com/tukutela",
@@ -4621,7 +4621,7 @@
   {
     "login": "matthewpalmer",
     "id": 1917632,
-    "avatar_url": "https://1.gravatar.com/avatar/c36f1f4358fb966e179289b4f6f41c85?d=https%3A%2F%2Fidenticons.github.com%2Fb4953db6951aba76b1db09b6c5a52c4e.png",
+    "avatar_url": "https://2.gravatar.com/avatar/c36f1f4358fb966e179289b4f6f41c85?d=https%3A%2F%2Fidenticons.github.com%2Fb4953db6951aba76b1db09b6c5a52c4e.png",
     "gravatar_id": "c36f1f4358fb966e179289b4f6f41c85",
     "url": "https://api.github.com/users/matthewpalmer",
     "html_url": "https://github.com/matthewpalmer",
@@ -4652,7 +4652,7 @@
   {
     "login": "KoryNunn",
     "id": 1401037,
-    "avatar_url": "https://2.gravatar.com/avatar/1b7906d8cb448c4b47abe08341daf3e7?d=https%3A%2F%2Fidenticons.github.com%2F0b63c6cc293bd4c564219683e36de01f.png",
+    "avatar_url": "https://0.gravatar.com/avatar/1b7906d8cb448c4b47abe08341daf3e7?d=https%3A%2F%2Fidenticons.github.com%2F0b63c6cc293bd4c564219683e36de01f.png",
     "gravatar_id": "1b7906d8cb448c4b47abe08341daf3e7",
     "url": "https://api.github.com/users/KoryNunn",
     "html_url": "https://github.com/KoryNunn",
@@ -4677,7 +4677,7 @@
     "followers": 13,
     "following": 7,
     "created_at": "2012-02-02T08:42:45Z",
-    "updated_at": "2013-08-18T16:40:36Z",
+    "updated_at": "2013-08-19T14:19:15Z",
     "public_gists": 7
   },
   {
@@ -4708,13 +4708,13 @@
     "followers": 18,
     "following": 12,
     "created_at": "2010-01-25T01:04:27Z",
-    "updated_at": "2013-08-15T09:51:15Z",
+    "updated_at": "2013-08-19T13:47:05Z",
     "public_gists": 4
   },
   {
     "login": "RallySoftware",
     "id": 1316658,
-    "avatar_url": "https://1.gravatar.com/avatar/e28538798d1a99642ce9d0ee5f20d0c9?d=https%3A%2F%2Fidenticons.github.com%2Ff68a822aa7deaffaffbd0ae60c454656.png",
+    "avatar_url": "https://2.gravatar.com/avatar/e28538798d1a99642ce9d0ee5f20d0c9?d=https%3A%2F%2Fidenticons.github.com%2Ff68a822aa7deaffaffbd0ae60c454656.png",
     "gravatar_id": "e28538798d1a99642ce9d0ee5f20d0c9",
     "url": "https://api.github.com/users/RallySoftware",
     "html_url": "https://github.com/RallySoftware",
@@ -4739,7 +4739,7 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-01-09T22:17:38Z",
-    "updated_at": "2013-08-18T02:52:01Z",
+    "updated_at": "2013-08-19T17:06:51Z",
     "public_gists": 0
   },
   {
@@ -4801,7 +4801,7 @@
     "followers": 3,
     "following": 6,
     "created_at": "2010-05-29T11:00:43Z",
-    "updated_at": "2013-08-11T04:10:34Z",
+    "updated_at": "2013-08-19T12:36:12Z",
     "public_gists": 29
   },
   {
@@ -4869,7 +4869,7 @@
   {
     "login": "ZheFeng",
     "id": 1264113,
-    "avatar_url": "https://1.gravatar.com/avatar/5576753c576c955eedd2dd00c2fa28a1?d=https%3A%2F%2Fidenticons.github.com%2F46cd66a37292a2b803ff5d1f45e9570b.png",
+    "avatar_url": "https://0.gravatar.com/avatar/5576753c576c955eedd2dd00c2fa28a1?d=https%3A%2F%2Fidenticons.github.com%2F46cd66a37292a2b803ff5d1f45e9570b.png",
     "gravatar_id": "5576753c576c955eedd2dd00c2fa28a1",
     "url": "https://api.github.com/users/ZheFeng",
     "html_url": "https://github.com/ZheFeng",
@@ -4900,7 +4900,7 @@
   {
     "login": "evulse",
     "id": 1631174,
-    "avatar_url": "https://1.gravatar.com/avatar/d65369c04e57f84dfd6b2f1ce5a4bc0d?d=https%3A%2F%2Fidenticons.github.com%2Fbe6ae090da70a63e63d51be28267e8b0.png",
+    "avatar_url": "https://0.gravatar.com/avatar/d65369c04e57f84dfd6b2f1ce5a4bc0d?d=https%3A%2F%2Fidenticons.github.com%2Fbe6ae090da70a63e63d51be28267e8b0.png",
     "gravatar_id": "d65369c04e57f84dfd6b2f1ce5a4bc0d",
     "url": "https://api.github.com/users/evulse",
     "html_url": "https://github.com/evulse",
@@ -4921,17 +4921,17 @@
     "email": "mike@carted.com",
     "hireable": false,
     "bio": null,
-    "public_repos": 32,
+    "public_repos": 33,
     "followers": 3,
     "following": 0,
     "created_at": "2012-04-10T22:50:51Z",
-    "updated_at": "2013-08-18T00:32:07Z",
+    "updated_at": "2013-08-19T11:24:39Z",
     "public_gists": 0
   },
   {
     "login": "colingourlay",
     "id": 66612,
-    "avatar_url": "https://1.gravatar.com/avatar/1923d9ea761b8e4b17b1d9d2932c274d?d=https%3A%2F%2Fidenticons.github.com%2F28a0d35f2c8c7faa7cd8298013af947f.png",
+    "avatar_url": "https://2.gravatar.com/avatar/1923d9ea761b8e4b17b1d9d2932c274d?d=https%3A%2F%2Fidenticons.github.com%2F28a0d35f2c8c7faa7cd8298013af947f.png",
     "gravatar_id": "1923d9ea761b8e4b17b1d9d2932c274d",
     "url": "https://api.github.com/users/colingourlay",
     "html_url": "https://github.com/colingourlay",
@@ -4952,11 +4952,11 @@
     "email": "colin@colin-gourlay.com",
     "hireable": false,
     "bio": "## Objective ##\r\n\r\nTo work for a company which has challenging & interesting problems I can attack using web-based technologies. I'm excited by real-time communication between the server and a wide range of client devices. I have a desire to build web apps that unite and empower the people using them.\r\n\r\n## Summary ##\r\n\r\nI am a Scottish web developer, currently working in Brisbane, Australia. I'm very passionate about mobile development. My attention is focused on tuning websites and web apps to make them faster, more responsive and better suited to the needs of their users. I mostly work with JavaScript - my latest exporation being the world of server-side JS (thanks to Node.JS) - and would love to apply my skills to innovative products in performance-critical environments.\r\n\r\nFollowing my graduation from university my fiancé and I moved to Australia (her home country), where I began my professional career. We were married in June 2011. We constantly encourage each other to take chances and make the most of our talents.\r\n\r\nThrough local tech meetups I was introduced to a community of developers who have been a brilliant source of inspiration & knowledge. I've began to work on some of my side-projects in the open, and plan to continue feeding back into the community that has been so generous to me.",
-    "public_repos": 31,
+    "public_repos": 32,
     "followers": 41,
     "following": 87,
     "created_at": "2009-03-24T17:06:58Z",
-    "updated_at": "2013-08-16T06:43:23Z",
+    "updated_at": "2013-08-19T12:22:23Z",
     "public_gists": 14
   },
   {
@@ -4993,7 +4993,7 @@
   {
     "login": "JasonBerry",
     "id": 216330,
-    "avatar_url": "https://2.gravatar.com/avatar/5664c95b41e5fc913d9c53861e6ea4c6?d=https%3A%2F%2Fidenticons.github.com%2F0c7a677e10fb16179b1a6e787685ccb2.png",
+    "avatar_url": "https://0.gravatar.com/avatar/5664c95b41e5fc913d9c53861e6ea4c6?d=https%3A%2F%2Fidenticons.github.com%2F0c7a677e10fb16179b1a6e787685ccb2.png",
     "gravatar_id": "5664c95b41e5fc913d9c53861e6ea4c6",
     "url": "https://api.github.com/users/JasonBerry",
     "html_url": "https://github.com/JasonBerry",
@@ -5055,7 +5055,7 @@
   {
     "login": "eloquent",
     "id": 1482281,
-    "avatar_url": "https://0.gravatar.com/avatar/122b4be65cac9d80f59871e2b79a05d0?d=https%3A%2F%2Fidenticons.github.com%2Fddd93ef594abcd44daa2bc744a135b37.png",
+    "avatar_url": "https://2.gravatar.com/avatar/122b4be65cac9d80f59871e2b79a05d0?d=https%3A%2F%2Fidenticons.github.com%2Fddd93ef594abcd44daa2bc744a135b37.png",
     "gravatar_id": "122b4be65cac9d80f59871e2b79a05d0",
     "url": "https://api.github.com/users/eloquent",
     "html_url": "https://github.com/eloquent",
@@ -5086,7 +5086,7 @@
   {
     "login": "aantthony",
     "id": 277425,
-    "avatar_url": "https://0.gravatar.com/avatar/2dd411cce82ccc46fcc7ed159700e389?d=https%3A%2F%2Fidenticons.github.com%2Fbb0139510c4b4ec48df28a97a3e3669e.png",
+    "avatar_url": "https://2.gravatar.com/avatar/2dd411cce82ccc46fcc7ed159700e389?d=https%3A%2F%2Fidenticons.github.com%2Fbb0139510c4b4ec48df28a97a3e3669e.png",
     "gravatar_id": "2dd411cce82ccc46fcc7ed159700e389",
     "url": "https://api.github.com/users/aantthony",
     "html_url": "https://github.com/aantthony",
@@ -5111,13 +5111,13 @@
     "followers": 31,
     "following": 9,
     "created_at": "2010-05-15T03:01:03Z",
-    "updated_at": "2013-08-18T10:00:35Z",
+    "updated_at": "2013-08-19T10:44:21Z",
     "public_gists": 14
   },
   {
     "login": "bradhouse",
     "id": 95760,
-    "avatar_url": "https://2.gravatar.com/avatar/0fcdd365e766b82515df2cae9b896201?d=https%3A%2F%2Fidenticons.github.com%2Ff7256e3a22c295291d954020e51e99ea.png",
+    "avatar_url": "https://0.gravatar.com/avatar/0fcdd365e766b82515df2cae9b896201?d=https%3A%2F%2Fidenticons.github.com%2Ff7256e3a22c295291d954020e51e99ea.png",
     "gravatar_id": "0fcdd365e766b82515df2cae9b896201",
     "url": "https://api.github.com/users/bradhouse",
     "html_url": "https://github.com/bradhouse",
@@ -5142,7 +5142,7 @@
     "followers": 6,
     "following": 10,
     "created_at": "2009-06-16T03:53:39Z",
-    "updated_at": "2013-08-16T02:39:24Z",
+    "updated_at": "2013-08-19T12:16:08Z",
     "public_gists": 0
   },
   {
@@ -5173,13 +5173,13 @@
     "followers": 4,
     "following": 8,
     "created_at": "2011-06-20T05:34:51Z",
-    "updated_at": "2013-08-18T00:49:41Z",
+    "updated_at": "2013-08-19T09:41:54Z",
     "public_gists": 3
   },
   {
     "login": "blakehaswell",
     "id": 648020,
-    "avatar_url": "https://1.gravatar.com/avatar/0ecface2c3e7e741b94eea3552579452?d=https%3A%2F%2Fidenticons.github.com%2F7f4e25e7f9382594f280e2b998589d45.png",
+    "avatar_url": "https://2.gravatar.com/avatar/0ecface2c3e7e741b94eea3552579452?d=https%3A%2F%2Fidenticons.github.com%2F7f4e25e7f9382594f280e2b998589d45.png",
     "gravatar_id": "0ecface2c3e7e741b94eea3552579452",
     "url": "https://api.github.com/users/blakehaswell",
     "html_url": "https://github.com/blakehaswell",
@@ -5210,7 +5210,7 @@
   {
     "login": "jonnyscholes",
     "id": 1259367,
-    "avatar_url": "https://0.gravatar.com/avatar/a0636115afbb27a609e2628b7063ca50?d=https%3A%2F%2Fidenticons.github.com%2F4def60ccb875af2d504fea75728c57d9.png",
+    "avatar_url": "https://1.gravatar.com/avatar/a0636115afbb27a609e2628b7063ca50?d=https%3A%2F%2Fidenticons.github.com%2F4def60ccb875af2d504fea75728c57d9.png",
     "gravatar_id": "a0636115afbb27a609e2628b7063ca50",
     "url": "https://api.github.com/users/jonnyscholes",
     "html_url": "https://github.com/jonnyscholes",
@@ -5241,7 +5241,7 @@
   {
     "login": "bharrisau",
     "id": 119958,
-    "avatar_url": "https://2.gravatar.com/avatar/a00c8cd6b428692024076657e5be4635?d=https%3A%2F%2Fidenticons.github.com%2F801d6582c19a6114024c8b114a2c1db0.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a00c8cd6b428692024076657e5be4635?d=https%3A%2F%2Fidenticons.github.com%2F801d6582c19a6114024c8b114a2c1db0.png",
     "gravatar_id": "a00c8cd6b428692024076657e5be4635",
     "url": "https://api.github.com/users/bharrisau",
     "html_url": "https://github.com/bharrisau",
@@ -5266,13 +5266,13 @@
     "followers": 1,
     "following": 0,
     "created_at": "2009-08-27T01:49:19Z",
-    "updated_at": "2013-08-17T05:26:11Z",
+    "updated_at": "2013-08-19T03:19:44Z",
     "public_gists": 1
   },
   {
     "login": "rockinghorse",
     "id": 4666863,
-    "avatar_url": "https://1.gravatar.com/avatar/5b42aab5217e79e7907885f804edfb9a?d=https%3A%2F%2Fidenticons.github.com%2F19e82d6b865e886d30f6a9a4d79db385.png",
+    "avatar_url": "https://2.gravatar.com/avatar/5b42aab5217e79e7907885f804edfb9a?d=https%3A%2F%2Fidenticons.github.com%2F19e82d6b865e886d30f6a9a4d79db385.png",
     "gravatar_id": "5b42aab5217e79e7907885f804edfb9a",
     "url": "https://api.github.com/users/rockinghorse",
     "html_url": "https://github.com/rockinghorse",
@@ -5297,13 +5297,13 @@
     "followers": 0,
     "following": 1,
     "created_at": "2013-06-11T03:21:04Z",
-    "updated_at": "2013-08-18T07:36:37Z",
+    "updated_at": "2013-08-19T11:55:59Z",
     "public_gists": 0
   },
   {
     "login": "markcode",
     "id": 1037338,
-    "avatar_url": "https://0.gravatar.com/avatar/e2c1d83794a42da5b300f238938653d3?d=https%3A%2F%2Fidenticons.github.com%2F5aafd6b7d64479fe7d1c1748403050e0.png",
+    "avatar_url": "https://1.gravatar.com/avatar/e2c1d83794a42da5b300f238938653d3?d=https%3A%2F%2Fidenticons.github.com%2F5aafd6b7d64479fe7d1c1748403050e0.png",
     "gravatar_id": "e2c1d83794a42da5b300f238938653d3",
     "url": "https://api.github.com/users/markcode",
     "html_url": "https://github.com/markcode",
@@ -5334,7 +5334,7 @@
   {
     "login": "MrSwitch",
     "id": 947163,
-    "avatar_url": "https://2.gravatar.com/avatar/20043d5ade315f3c25d13b18dba95bc4?d=https%3A%2F%2Fidenticons.github.com%2F41d6665e6a169bbcb8c494bdfb168216.png",
+    "avatar_url": "https://1.gravatar.com/avatar/20043d5ade315f3c25d13b18dba95bc4?d=https%3A%2F%2Fidenticons.github.com%2F41d6665e6a169bbcb8c494bdfb168216.png",
     "gravatar_id": "20043d5ade315f3c25d13b18dba95bc4",
     "url": "https://api.github.com/users/MrSwitch",
     "html_url": "https://github.com/MrSwitch",
@@ -5365,7 +5365,7 @@
   {
     "login": "nathanhoad",
     "id": 78984,
-    "avatar_url": "https://1.gravatar.com/avatar/55507cfdab2901efde4172555722e109?d=https%3A%2F%2Fidenticons.github.com%2Fd40e97a96c2d43686d69262ccd53584e.png",
+    "avatar_url": "https://0.gravatar.com/avatar/55507cfdab2901efde4172555722e109?d=https%3A%2F%2Fidenticons.github.com%2Fd40e97a96c2d43686d69262ccd53584e.png",
     "gravatar_id": "55507cfdab2901efde4172555722e109",
     "url": "https://api.github.com/users/nathanhoad",
     "html_url": "https://github.com/nathanhoad",
@@ -5390,13 +5390,13 @@
     "followers": 82,
     "following": 9,
     "created_at": "2009-04-29T00:47:35Z",
-    "updated_at": "2013-08-18T04:22:02Z",
+    "updated_at": "2013-08-19T14:37:05Z",
     "public_gists": 0
   },
   {
     "login": "zaggino",
     "id": 1067319,
-    "avatar_url": "https://2.gravatar.com/avatar/42207ea4f757a54f2bf3dd7995547e1f?d=https%3A%2F%2Fidenticons.github.com%2Fe2baec4cd4a9c728cb79c7bc490842ef.png",
+    "avatar_url": "https://0.gravatar.com/avatar/42207ea4f757a54f2bf3dd7995547e1f?d=https%3A%2F%2Fidenticons.github.com%2Fe2baec4cd4a9c728cb79c7bc490842ef.png",
     "gravatar_id": "42207ea4f757a54f2bf3dd7995547e1f",
     "url": "https://api.github.com/users/zaggino",
     "html_url": "https://github.com/zaggino",
@@ -5421,13 +5421,13 @@
     "followers": 1,
     "following": 2,
     "created_at": "2011-09-21T08:32:40Z",
-    "updated_at": "2013-08-18T09:52:07Z",
+    "updated_at": "2013-08-19T17:27:40Z",
     "public_gists": 0
   },
   {
     "login": "smallmultiples",
     "id": 1432364,
-    "avatar_url": "https://1.gravatar.com/avatar/a572d95057e22b3b8dca8c8e8ce4b498?d=https%3A%2F%2Fidenticons.github.com%2Fe700def2a42d7de6b0fd0dfd66f398dd.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a572d95057e22b3b8dca8c8e8ce4b498?d=https%3A%2F%2Fidenticons.github.com%2Fe700def2a42d7de6b0fd0dfd66f398dd.png",
     "gravatar_id": "a572d95057e22b3b8dca8c8e8ce4b498",
     "url": "https://api.github.com/users/smallmultiples",
     "html_url": "https://github.com/smallmultiples",
@@ -5452,13 +5452,13 @@
     "followers": 0,
     "following": 0,
     "created_at": "2012-02-13T05:23:48Z",
-    "updated_at": "2013-08-16T07:06:24Z",
+    "updated_at": "2013-08-19T07:28:38Z",
     "public_gists": 0
   },
   {
     "login": "stilva",
     "id": 2075901,
-    "avatar_url": "https://2.gravatar.com/avatar/de3097652bfc9802841e91a8512338f4?d=https%3A%2F%2Fidenticons.github.com%2Fdecc0e1cf5a729c9c0092234f908aa1c.png",
+    "avatar_url": "https://0.gravatar.com/avatar/de3097652bfc9802841e91a8512338f4?d=https%3A%2F%2Fidenticons.github.com%2Fdecc0e1cf5a729c9c0092234f908aa1c.png",
     "gravatar_id": "de3097652bfc9802841e91a8512338f4",
     "url": "https://api.github.com/users/stilva",
     "html_url": "https://github.com/stilva",
@@ -5489,7 +5489,7 @@
   {
     "login": "jokeyrhyme",
     "id": 479816,
-    "avatar_url": "https://0.gravatar.com/avatar/faac8c638b56cef23f147dbf9e20a2e1?d=https%3A%2F%2Fidenticons.github.com%2Fcb05c8e739432700129eb20f29957f1f.png",
+    "avatar_url": "https://2.gravatar.com/avatar/faac8c638b56cef23f147dbf9e20a2e1?d=https%3A%2F%2Fidenticons.github.com%2Fcb05c8e739432700129eb20f29957f1f.png",
     "gravatar_id": "faac8c638b56cef23f147dbf9e20a2e1",
     "url": "https://api.github.com/users/jokeyrhyme",
     "html_url": "https://github.com/jokeyrhyme",
@@ -5514,7 +5514,7 @@
     "followers": 10,
     "following": 40,
     "created_at": "2010-11-13T06:37:29Z",
-    "updated_at": "2013-08-18T16:13:07Z",
+    "updated_at": "2013-08-19T03:17:19Z",
     "public_gists": 5
   },
   {
@@ -5576,13 +5576,13 @@
     "followers": 2,
     "following": 1,
     "created_at": "2012-01-26T06:42:29Z",
-    "updated_at": "2013-08-18T10:26:49Z",
+    "updated_at": "2013-08-19T09:25:34Z",
     "public_gists": 2
   },
   {
     "login": "treshugart",
     "id": 136556,
-    "avatar_url": "https://1.gravatar.com/avatar/a6e16fabd3b79794814c6f8f562d61ce?d=https%3A%2F%2Fidenticons.github.com%2Fa2bc09249d0f4e027bb900e363236933.png",
+    "avatar_url": "https://0.gravatar.com/avatar/a6e16fabd3b79794814c6f8f562d61ce?d=https%3A%2F%2Fidenticons.github.com%2Fa2bc09249d0f4e027bb900e363236933.png",
     "gravatar_id": "a6e16fabd3b79794814c6f8f562d61ce",
     "url": "https://api.github.com/users/treshugart",
     "html_url": "https://github.com/treshugart",
@@ -5603,17 +5603,17 @@
     "email": "treshugart@gmail.com",
     "hireable": true,
     "bio": null,
-    "public_repos": 13,
+    "public_repos": 14,
     "followers": 16,
     "following": 26,
     "created_at": "2009-10-07T22:02:30Z",
-    "updated_at": "2013-08-16T02:38:15Z",
+    "updated_at": "2013-08-19T13:00:58Z",
     "public_gists": 11
   },
   {
     "login": "RallyApps",
     "id": 1643173,
-    "avatar_url": "https://0.gravatar.com/avatar/6b338369f69bc3d999ebb4758d48929f?d=https%3A%2F%2Fidenticons.github.com%2Fa67e607cc309692fb494673ab4f09dc3.png",
+    "avatar_url": "https://2.gravatar.com/avatar/6b338369f69bc3d999ebb4758d48929f?d=https%3A%2F%2Fidenticons.github.com%2Fa67e607cc309692fb494673ab4f09dc3.png",
     "gravatar_id": "6b338369f69bc3d999ebb4758d48929f",
     "url": "https://api.github.com/users/RallyApps",
     "html_url": "https://github.com/RallyApps",
