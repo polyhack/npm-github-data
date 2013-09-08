@@ -81660,6 +81660,11 @@
     "npmPackage": "proxio"
   },
   {
+    "githubUser": "TooTallNate",
+    "githubRepo": "proxy",
+    "npmPackage": "proxy"
+  },
+  {
     "githubUser": "erhangundogan",
     "githubRepo": "harvester",
     "npmPackage": "proxy_harvester"
@@ -111831,7 +111836,7 @@
   },
   {
     "githubUser": "nfarina",
-    "githubRepo": "xmldoc-js",
+    "githubRepo": "xmldoc",
     "npmPackage": "xmldoc"
   },
   {
@@ -129166,7 +129171,7 @@
   },
   {
     "githubUser": "dominikkrejcik",
-    "githubRepo": "configurator",
+    "githubRepo": "coffee-config",
     "npmPackage": "coffee-config"
   },
   {
@@ -161315,6 +161320,11 @@
     "npmPackage": "generator-bbapp"
   },
   {
+    "githubUser": "jprichardson",
+    "githubRepo": "node-datarev-rethinkdb",
+    "npmPackage": "datarev-rethinkdb"
+  },
+  {
     "githubUser": "yahoo",
     "githubRepo": "mojito-dimensions-base",
     "npmPackage": "mojito-dimensions-base"
@@ -164903,5 +164913,350 @@
     "githubUser": "gustavopaes",
     "githubRepo": "pagseguro",
     "npmPackage": "pagseguro.js"
+  },
+  {
+    "githubUser": "LiamGoodacre",
+    "githubRepo": "Kurry-Objs",
+    "npmPackage": "kurry-objs"
+  },
+  {
+    "githubUser": "XadillaX",
+    "githubRepo": "dloucflare",
+    "npmPackage": "dlouc-flare"
+  },
+  {
+    "githubUser": "hefangshi",
+    "githubRepo": "dds-node",
+    "npmPackage": "dds-node"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "enter-input",
+    "npmPackage": "enter-input"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "level-exists",
+    "npmPackage": "level-exists"
+  },
+  {
+    "githubUser": "OpenSourceFieldlinguistics",
+    "githubRepo": "AuthenticationWebService",
+    "npmPackage": "fielddb-auth"
+  },
+  {
+    "githubUser": "gkoo",
+    "githubRepo": "hubot-lefthanded-toons",
+    "npmPackage": "hubot-lefthanded-toons"
+  },
+  {
+    "githubUser": "turingou",
+    "githubRepo": "eraser",
+    "npmPackage": "eraser"
+  },
+  {
+    "githubUser": "swissmanu",
+    "githubRepo": "primus-responder",
+    "npmPackage": "primus-responder"
+  },
+  {
+    "githubUser": "eliperelman",
+    "githubRepo": "fn",
+    "npmPackage": "fn.js"
+  },
+  {
+    "githubUser": "onethreelabs",
+    "githubRepo": "ants",
+    "npmPackage": "ants"
+  },
+  {
+    "githubUser": "ahultgren",
+    "githubRepo": "hamster",
+    "npmPackage": "hamster"
+  },
+  {
+    "githubUser": "markdaws",
+    "githubRepo": "MnoVnoC",
+    "npmPackage": "m-no-v-no-c"
+  },
+  {
+    "githubUser": "mchen745",
+    "githubRepo": "node-validator-generator",
+    "npmPackage": "validator-generator"
+  },
+  {
+    "githubUser": "ljharb",
+    "githubRepo": "listify",
+    "npmPackage": "listify"
+  },
+  {
+    "githubUser": "divanvisagie",
+    "githubRepo": "nnf",
+    "npmPackage": "nnf"
+  },
+  {
+    "githubUser": "FriendCode",
+    "githubRepo": "hr",
+    "npmPackage": "hr.js"
+  },
+  {
+    "githubUser": "ljharb",
+    "githubRepo": "node-comments",
+    "npmPackage": "comments"
+  },
+  {
+    "githubUser": "esopian",
+    "githubRepo": "timeperiod",
+    "npmPackage": "timeperiod"
+  },
+  {
+    "githubUser": "congajs",
+    "githubRepo": "bass-nedb",
+    "npmPackage": "bass-nedb"
+  },
+  {
+    "githubUser": "AWinterman",
+    "githubRepo": "new-from",
+    "npmPackage": "new-from"
+  },
+  {
+    "githubUser": "robey",
+    "githubRepo": "antsy",
+    "npmPackage": "antsy"
+  },
+  {
+    "githubUser": "spatools",
+    "githubRepo": "grunt-nuget",
+    "npmPackage": "grunt-nuget"
+  },
+  {
+    "githubUser": "substack",
+    "githubRepo": "render-assoc",
+    "npmPackage": "render-assoc"
+  },
+  {
+    "githubUser": "KenanY",
+    "githubRepo": "big-factorial",
+    "npmPackage": "big-factorial"
+  },
+  {
+    "githubUser": "jakobmattsson",
+    "githubRepo": "bucketful-loopia",
+    "npmPackage": "bucketful-loopia"
+  },
+  {
+    "githubUser": "poying",
+    "githubRepo": "node-borrow",
+    "npmPackage": "borrow"
+  },
+  {
+    "githubUser": "phanxgames",
+    "githubRepo": "dictionaryjs",
+    "npmPackage": "dictionaryjs"
+  },
+  {
+    "githubUser": "XadillaX",
+    "githubRepo": "vjudge-description-spider",
+    "npmPackage": "vjudge-description-spider"
+  },
+  {
+    "githubUser": "joonho1101",
+    "githubRepo": "underscore-node",
+    "npmPackage": "underscore-node"
+  },
+  {
+    "githubUser": "mjgil",
+    "githubRepo": "five-px",
+    "npmPackage": "five-px"
+  },
+  {
+    "githubUser": "AWinterman",
+    "githubRepo": "bracket-stream",
+    "npmPackage": "bracket-stream"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "basic-camera",
+    "npmPackage": "basic-camera"
+  },
+  {
+    "githubUser": "geta6",
+    "githubRepo": "nuco",
+    "npmPackage": "nuco"
+  },
+  {
+    "githubUser": "shibukawa",
+    "githubRepo": "jsdoc22jsx",
+    "npmPackage": "jsdoc2jsx"
+  },
+  {
+    "githubUser": "DubFriend",
+    "githubRepo": "nodesql",
+    "npmPackage": "nodesql"
+  },
+  {
+    "githubUser": "hakobe",
+    "githubRepo": "homura-elasticsearch",
+    "npmPackage": "homura-elasticsearch"
+  },
+  {
+    "githubUser": "juliangruber",
+    "githubRepo": "level-list",
+    "npmPackage": "level-list"
+  },
+  {
+    "githubUser": "mikermcneil",
+    "githubRepo": "node-deezer",
+    "npmPackage": "node-deezer"
+  },
+  {
+    "githubUser": "stuplum",
+    "githubRepo": "astrolabe",
+    "npmPackage": "astrolabe"
+  },
+  {
+    "githubUser": "sihorton",
+    "githubRepo": "chrome-rDebug",
+    "npmPackage": "chrome-rdebug"
+  },
+  {
+    "githubUser": "scarletjs",
+    "githubRepo": "scarlet-init",
+    "npmPackage": "scarlet-init"
+  },
+  {
+    "githubUser": "tarruda",
+    "githubRepo": "grunt-mocha-debug",
+    "npmPackage": "grunt-mocha-debug"
+  },
+  {
+    "githubUser": "Layzie",
+    "githubRepo": "md2conf-watcher",
+    "npmPackage": "md2conf-watcher"
+  },
+  {
+    "githubUser": "No9",
+    "githubRepo": "luvdbie",
+    "npmPackage": "luvdbie"
+  },
+  {
+    "githubUser": "severinh",
+    "githubRepo": "lunr",
+    "npmPackage": "lunr-de"
+  },
+  {
+    "githubUser": "erossignon",
+    "githubRepo": "node-STEP",
+    "npmPackage": "node-step"
+  },
+  {
+    "githubUser": "bulkan",
+    "githubRepo": "robotframework-cheerio",
+    "npmPackage": "robotframework-cheerio"
+  },
+  {
+    "githubUser": "nitrogenjs",
+    "githubRepo": "devices",
+    "npmPackage": "nitrogen-ar-drone"
+  },
+  {
+    "githubUser": "lordnox",
+    "githubRepo": "generator-node-coffee",
+    "npmPackage": "generator-node-coffee"
+  },
+  {
+    "githubUser": "sinnwerkstatt",
+    "githubRepo": "grunt-files-to-json-appender",
+    "npmPackage": "grunt-files-to-json-appender"
+  },
+  {
+    "githubUser": "hughsk",
+    "githubRepo": "tweakable",
+    "npmPackage": "tweakable"
+  },
+  {
+    "githubUser": "chriswessels",
+    "githubRepo": "meteor-deployment-manager",
+    "npmPackage": "meteor-deployment-manager"
+  },
+  {
+    "githubUser": "yuanyan",
+    "githubRepo": "node-regexp",
+    "npmPackage": "node-regexp"
+  },
+  {
+    "githubUser": "adamquadmon",
+    "githubRepo": "grunt-selenium-simple",
+    "npmPackage": "grunt-selenium-simple"
+  },
+  {
+    "githubUser": "justinvdm",
+    "githubRepo": "matter",
+    "npmPackage": "matter"
+  },
+  {
+    "githubUser": "turingou",
+    "githubRepo": "sdk",
+    "npmPackage": "sdk"
+  },
+  {
+    "githubUser": "rse",
+    "githubRepo": "grunt-extend-config",
+    "npmPackage": "grunt-extend-config"
+  },
+  {
+    "githubUser": "Ravenwall",
+    "githubRepo": "timestream-filters",
+    "npmPackage": "timestream-filters"
+  },
+  {
+    "githubUser": "eventEmitter",
+    "githubRepo": "ee-stream-collector",
+    "npmPackage": "ee-stream-collector"
+  },
+  {
+    "githubUser": "andybluntish",
+    "githubRepo": "grunt-xsltproc",
+    "npmPackage": "grunt-xsltproc"
+  },
+  {
+    "githubUser": "turingou",
+    "githubRepo": "fitbit-sdk",
+    "npmPackage": "fitbit-sdk"
+  },
+  {
+    "githubUser": "vietor",
+    "githubRepo": "node-func-queue",
+    "npmPackage": "func-queue"
+  },
+  {
+    "githubUser": "jonschlinkert",
+    "githubRepo": "load-modules",
+    "npmPackage": "load-modules"
+  },
+  {
+    "githubUser": "LeonB",
+    "githubRepo": "hubot-superfeedr",
+    "npmPackage": "hubot-superfeedr"
+  },
+  {
+    "githubUser": "dogada",
+    "githubRepo": "metajs",
+    "npmPackage": "metajs"
+  },
+  {
+    "githubUser": "artsince",
+    "githubRepo": "bisss",
+    "npmPackage": "bisss"
+  },
+  {
+    "githubUser": "andrewhodel",
+    "githubRepo": "git-wiki",
+    "npmPackage": "git-wiki"
+  },
+  {
+    "githubUser": "Vitsaus",
+    "githubRepo": "vitsaus-modelmanager",
+    "npmPackage": "vitsaus-modelmanager"
   }
 ]
